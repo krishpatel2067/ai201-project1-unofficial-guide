@@ -34,6 +34,17 @@ In this project, you'll help me build The Unofficial Guide: a RAG (Retrieval-Aug
 - **Query Interface**:
   - [] Build a basic interface using Gradio to test the end-to-end system.
   - [] On top of basic chatting interface with the RAG, include debug features to see the retrieved chunks in full, their cosine distances, where they come from.
-  - [] This can be a simple web UI, a command-line tool, or a notebook — but it must be usable enough to demonstrate in your video without explaining how to navigate it.
-    TODO
-- **Evaluation Report**: Design 5 test questions with ground-truth answers, then run your system on each and evaluate the results. For each question, your report should document: the question, the correct answer, what your system returned, which chunks were retrieved, and whether the retrieval and response were accurate, partially accurate, or inaccurate. Identify at least one failure case and explain why it happened.
+
+## Stretch Features
+
+- [] **Hybrid Search**:
+  - [] Combine semantic search with keyword (BM25) search and compare results to semantic-only.
+  - [] Include a toggle in the interface to switch between semantic with keyword search and semantic-only for easy testing.
+- [] **Chunking Strategy**
+  - [] Include a toggle in the interface to switch between 2 chunking strategies: the default structure-based chunking and fixed-size (500-750 characters each with 50-100 characters of overlap or your best judgement from the clean docs).
+- [] **Metadata Filtering**:
+  - [] Allow users to filter by document source (e.g. file name), date, and rating.
+  - [] Users should be able to combine multiple filters.
+- [] **Conversational Memory**:
+  - [] Support multi-turn queries where the system remembers context from the previous question.
+  - [] Include a toggle in the home page of the interface for this functionality for the next chat. That chat would then show whether or not conversational history is enabled.
