@@ -114,6 +114,18 @@ I would even consider online embedding models, which may be more capable than of
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+```
+      Document Ingestion         (vanilla Python)
+             V
+          Chunking               (structure-based; vanilla Python)
+             V
+   Embedding + Vector Store      (all-MiniLM-L6-v2 via sentence transform + ChromaDB; both offline)
+             V
+         Retrieval               (top-k with distance cutoff; vanilla Python)
+             V
+        Generation               (Groq: llama-3.3-70b-versatile; API-based)
+```
+
 ---
 
 ## AI Tool Plan
@@ -130,6 +142,14 @@ I would even consider online embedding models, which may be more capable than of
 
 **Milestone 3 — Ingestion and chunking:**
 
+I will give Claude Code access to my `docs/raw/` directory as well as my Documents section in this file so that it can learn the raw doc format and produce the correct code to create clean docs from raw docs. I'll manually read line-by-line to verify that the code matches my expectations and that the clean docs follow a clean format that can be easily chunked.
+
+I will use Claude Code again in the chunking stage, surfacing the human-reviewed clean docs and Chunking Strategy section of this file. I will verify that my plan is sound and that I understand everything before continuing. I expect it to produce correct and well-structured code to chunk the docs based on the strategy given in the Chunking Strategy section. I'll confirm that the chunks match my spec via line-by-line code reivew and by printing a few chunks to the console.
+
 **Milestone 4 — Embedding and retrieval:**
 
+I will give Claude Code info from my Retrieval Approach section of this file and surface my intended tech stack (namely `all-MiniLM-L6-v2` via `sentence transformer` for embedding). I will use the AI tool to pressure-test my decisions and assumptions, verifying that everything is sound before moving on. I expect it to produce clean and correct Python code to embed the chunks and retrieve them as per my spec. On top of the usual line-by-line code review, I will verify the retrieval works by inputting a few queries and seeing the list of retrieved chunks.
+
 **Milestone 5 — Generation and interface:**
+
+I will give Claude code info from my `spec/` directory that has more detailed info on the generation phase (namely the system prompt and grounding requirements) and the interface. I expect it to generate accurate and readable code to call the LLM with the retrieved chunks and show the output on the interface that it will create as per my spec in the aforementioned directory. I will verify the code it generated line-by-line and use the interface to test the end-to-end experience, including the RAG itself and any interface elements.
