@@ -1,0 +1,1115 @@
+=== OVERALL ===
+Professor: Andrew Sohn
+Overall Quality: 3.5/5 (based on 84 ratings)
+Would Take Again: 67%
+Level of Difficulty: 4.1
+Rating Distribution: Awesome (5): 32 | Great (4): 18 | Good (3): 15 | OK (2): 5 | Awful (1): 14
+
+=== REVIEWS ===
+--- Review 1 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: C350
+Date: Mar 13, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: F
+Textbook: Yes
+Review: I failed this class with Sohn and thought it was because I wasn't smart enough. Retaking it now with another prof made me realize it wasn't me at all. His teaching is super unclear and barely goes into anything. If you actually want to learn the material, avoid this professor.
+Tags: Get ready to read, Lots of homework, Test heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 2 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: C350
+Date: Feb 11, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: D
+Textbook: Yes
+Review: Hes hard, I knew people graduating that made this their only class and didn't know if they passed till the grades for the final dropped. You could have a 69 in the class and still fail since it's bucket-graded. I did well on the first exam and poor on the last exam and had a 67 at first and failed.
+Tags: Tough grader, Respected, Accessible outside class
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 3 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS350
+Date: Dec 22, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: I took prof. Sohn Fall 2025, I finished with an A. One thing that stuck with me was how prof. Sohn always smiles and invites questions. I don't know if he is teaching 350 next semester, if he is… I highly recommend his class.
+Tags: Participation matters, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 4 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS350
+Date: Dec 22, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: Sohn is a nice guy but could definitely improve on his lecturing skills. He does have lock in moments where he can explain a topic with ease, but there are very few of those moments. The class is bucket graded which kinda sucks because you can do upper quartile on the 2 midterms and just above average on the final and get a B. Homeworks are okay
+Tags: Get ready to read, Test heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 5 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS350
+Date: Dec 20, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Dr. Sohn is an amazing professor all in all. I would highly recommend him as the best option for CS350 at NJIT. His lectures are very helpful, in depth, and useful for his exams. He is also very extremely considerate and kindhearted, as well as his TA's were of great help. He has a funny way of saying 'zero' as 'zippo' which made me laugh along.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 6 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS350
+Date: Sep 13, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: I'm sure the professor knows his stuff, but his lectures are about as clear as mud. His accent is so heavy that two weeks into the semester, I'm still completely lost. Honestly, without the textbook, this course would be a total bust.
+Tags: Lecture heavy
+Thumbs Up: 8
+Thumbs Down: 0
+
+--- Review 7 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: C350
+Date: Sep 8, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: D
+Textbook: Yes
+Review: Chapters 1 through 3 were clear, and easy to follow. Then Chapter 4 hit, and everything spiraled into chaos. By the time the final rolled around, I was completely lost in a fog of confusion, unable to distinguish what was essential from what was just noise. And to top it off, cheating was rampant. It felt less like a course and more like a circus.
+Tags: Get ready to read
+Thumbs Up: 9
+Thumbs Down: 0
+
+--- Review 8 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS350
+Date: May 19, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: From the get go, it's obvious that Sohn LOVES this material, and is passionate about teaching it to eager students. Course itself can be pretty confusing but if you practice and do the hw it's manageable. Exams 1 and 2 are decent, but the Final is a menace. If he didn't teach only the hardest CS classes in the school, I would love to have him again
+Tags: Get ready to read, Respected, Test heavy
+Thumbs Up: 0
+Thumbs Down: 5
+
+--- Review 9 ---
+Quality: 2.0
+Difficulty: 4.0
+Course: CS350
+Date: May 8, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: If you're deciding between Sohn and Itani for 350, definitely take Sohn. He provides practice exams, and the exams contain material mostly from the HW's and past exams.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 10 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS288
+Date: Mar 24, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Review: JSON? More like JSOHN. Also, be ready to know BASH scripting very well before taking this class. He also loves HTMLTidy and TagSoup.
+Tags: Lots of homework, Lecture heavy
+Thumbs Up: 5
+Thumbs Down: 1
+
+--- Review 11 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS350
+Date: Mar 17, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Review: You must prove yonself. He loves Dragon Drop.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 12 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CS350
+Date: Dec 20, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Audit/No Grade
+Textbook: Yes
+Review: Great person, teaching style isn't the best and the grading criteria is bucket graded and you dont know if you passed until the final. Just got done with his final exam, everyone bombed it. The practice exams showcase only 30% whats really on the exam, otherwise your stuck reading a textbook trying to learn everything on your own.
+Tags: Get ready to read, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 13 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS350
+Date: May 11, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Professor Sohn always comes into class with a smile. His lectures are engaging and he does a great job of illustrating difficult concepts. If you did the homework and understood them, you will do well on the exams since the exam questions are VERY similar to the homework and practice exams. He gives you everything you need to do well in the class.
+Tags: Get ready to read, Amazing lectures, Caring
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 14 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: C350
+Date: Dec 11, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: C-
+Textbook: Yes
+Review: Honestly the worst professor i've had so far. Its not the fact that he is tough or that he gives out difficult work for a difficult class, its the face that he consistently throughout the semester puts down students for the lack of knowledge instead of ensuring that we are prepared for what we need in the real world.
+Tags: Tough grader, Get ready to read, Lots of homework
+Thumbs Up: 1
+Thumbs Down: 3
+
+--- Review 15 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CS350
+Date: Dec 9, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: From the get go, Professor Sohn tells you that doing the homework by yourself should net you, at minimum, a B. Can be difficult to understand at times, but does make the class as interesting as possible. Do (or try) the homework, go to his (or the TAs) office hours, and you should at least not fail the course.
+Tags: Respected, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 16 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS350
+Date: Jun 4, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: Professor Sohn is amazing. He gives great lectures and constantly tries to engage the students.
+Tags: Tough grader, Amazing lectures, Hilarious
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 17 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS350
+Date: May 14, 2023
+For Credit: Yes
+Would Take Again: Yes
+Grade: C
+Textbook: Yes
+Review: Sohn is honestly a great professor and you can tell how passionate he is about the material. Although the material itself is not hard, you really have to sit down and take the time to read the textbook to pass the class. The key is to do well on the first two exams, because the final is extremely hard. The practice exams are also pretty helpful.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 18 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: C350
+Date: Jan 24, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: One of the worst courses I've taken here. The grading scale was also not clear enough. On top of that, the exam had questions where if you get the question wrong, you get negative points, as if the exam wasn't tough enough!
+Tags: Test heavy, Graded by few things
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 19 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: C350
+Date: Dec 25, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: F
+Textbook: Yes
+Review: Sohn the destroyer do i need to say more? Hes not a bad professor but the class is extremely hard. A decent chunk of the class always fails . Just makesure the first two tests you do good because after that its pretty much checkmate second half of class is just a blur no one understood anything .
+Tags: Clear grading criteria, Lecture heavy, Test heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 20 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: C350
+Date: May 16, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: He's so knowledgeable and intelligent. Take him while he's still teaching. You won't regret it.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 21 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: C350
+Date: Apr 29, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Probably the best CS class I've taking at NJIT. Just make sure you never lose focus during the lectures and go to the TA's office hours at least once a week and you'll be fine. After all, its not Rocket Science.
+Tags: Amazing lectures, Clear grading criteria, Caring
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 22 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: C350
+Date: Apr 25, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: N/A
+Review: He's a really good and easy professor, he's exams are really easy and very similar to the practise exam. I would recommend to take him and you will learn good.
+Tags: Extra credit, Inspirational, Caring
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 23 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS433
+Date: Mar 1, 2022
+For Credit: Yes
+Would Take Again: Yes
+Review: Probably the hardest class at NJIT, but you learn so much and he teaches quite well. You will have to spend lots of time on the class, though.
+Tags: Amazing lectures, Inspirational, Respected
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 24 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS350
+Date: Jan 16, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: C
+Textbook: Yes
+Online Class: Yes
+Review: Good teacher, but please, pay attention to the class and don't slack behind. If you don't read the book and do the homework then you will probably fail.
+Tags: Accessible outside class, Skip class? You won't pass., Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 25 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CS350
+Date: Dec 24, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: F
+Textbook: Yes
+Review: Great first half of the semester, but once that second exam finishes, the rest of the semester is ridiculous. Very few people knew what was going on toward the end and we were essentially scraping together whatever knowledge we had in an attempt to pass the final. Definitely the most difficult class I've taken.
+Tags: Get ready to read, Skip class? You won't pass., Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 26 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS350
+Date: May 19, 2021
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Professor Sohn is one of the best and most brilliant professors at NJIT. The class itself is challenging but if you attend lecture, read the textbook, and do the HW on your from scratch you should do well on exams. Professor Sohn also has office hours and is very helpful in them. Be careful on the last part of the course, it gets very challenging
+Tags: Respected, Inspirational, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 27 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: C350
+Date: Mar 6, 2021
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: This man do be teaching a hard class and its really tough to sit through his lectures, it takes all of my focus, but if you put in the work, and I mean really put it in, you can do this. This class is now CS350 but I took it while it was CS252 and as a freshman... I think if you past the CS288 prereq you can do this!
+Tags: Skip class? You won't pass., Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 28 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS288
+Date: Jan 9, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: No
+Review: His lectures can get pretty boring and its very easy to zone out, but if you pay attention and take notes, most of what is covered in class is included on the exams.
+Tags: Lots of homework, Skip class? You won't pass.
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 29 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS288
+Date: Dec 25, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: No
+Online Class: Yes
+Review: Sohn is a tough but caring professor. In general as long as you do every homework from scratch (as he recommends) and study off of those, you can pass cs288. The problem is his homework and exams aren't always the most clear. This is why lecture is so important because he walks through the homework in depth. Sohn is a lot of work, but youll learn.
+Tags: Skip class? You won't pass., Lecture heavy, Caring
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 30 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS288
+Date: Dec 25, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: No
+Online Class: Yes
+Review: (Online via COVID). Sohn was a pretty tough professor, but 288 is a pretty tough class. The homeworks are doable, but his starter code can be pretty confusing. He usually goes over similar stuff to the homework in the lecutres. The exams are hard, but if you do the hw "from scratch" and study past exams you should be alright.
+Tags: Test heavy, Lecture heavy, Tough grader
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 31 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS288
+Date: Dec 16, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Review: Teaches you outdated tech in the most ambiguous format possible. Super hands-off professor, who expects a ton of working background knowledge going into the class. Few resources are shared, you gotta be present in class. He teaches you how to program like HIM and expects you to be able to write his code on the exams *verbatim*. Stay far away
+Tags: Test heavy, Lecture heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 32 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS288
+Date: Dec 16, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: C
+Textbook: No
+Online Class: Yes
+Review: This professor is probably the toughest one I've ever taken with. He makes things unnecessarily complex. The way he teaches doesn't click with majority of the students, there are a few that likes him but generally in the minority. I hope you enjoy doing projects that takes 20-30hours+ for 1% of your grade, while the awful exams are worth 25%.
+Tags: Skip class? You won't pass., Test heavy, Lecture heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 33 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS288
+Date: Nov 12, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Review: You only learn things specific to the homeworks. Lots of the stuff he teaches is specifically how to code the homework. So, the class is narrowly focused. The online exam format is terrible. Other professors prepare you better for software development.
+Tags: Graded by few things, Test heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 34 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS288
+Date: Aug 5, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+Review: Prof Sohn is an excellent Professor. He really cares for the students. He spends a lot of time explaining the materials - practical problems instead of just theory. He explains every homework in advance and very much shows the skeleton code and even some of the logic in class. YOU MUST PAY ATTENTION in his class otherwise you will not get it.
+Tags: Lots of homework, Accessible outside class, Skip class? You won't pass.
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 35 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS350
+Date: May 22, 2020
+For Credit: Yes
+Would Take Again: Yes
+Textbook: Yes
+Review: He teaches about 75% of what you need to know well, but you have to read the book to understand the rest and do well on the exams/homework, unless you are good at learning these topics on the fly. He gives practice exams, which help a lot.
+Tags: Get ready to read, Graded by few things, Test heavy
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 36 ---
+Quality: 5.0
+Difficulty: 2.0
+Course: CS252
+Date: Jun 25, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: Sohn is an excellent professor who makes computer science fun and interesting. There is not a dull moment that passes by in his class. You may hear a lot of negative comments floating around, but you will never know his expertise in teaching until you take his class. 10/10 would take again.
+Tags: Inspirational, Amazing lectures, Caring
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 37 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS252
+Date: May 19, 2019
+Attendance: Mandatory
+Would Take Again: No
+Grade: F
+Textbook: Yes
+Review: When you listen to him, you will oh I understand what he's saying. After a few weeks passes by, you have no idea and you start to get confused. I got an F in this course and I agree that the course is hard. Try not to take more than 15 credits when taking this course, you will not pass. Sohn is a nice guy but he's tough :(
+Tags: Skip class? You won't pass., Test heavy, Tough grader
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 38 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CS252
+Date: Dec 26, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: B
+Textbook: Yes
+Review: So it took a few weeks to get used to his accent. Afterwards, you will notice you need to pay attention to his lectures to be able to do his difficult homework's. The homework's are your best study guide to the midterm and final as they are directly based on them. He has the potential to make you change majors.
+Tags: Get ready to read, Skip class? You won't pass., Lecture heavy
+Thumbs Up: 5
+Thumbs Down: 0
+
+--- Review 39 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS252
+Date: Dec 15, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: Sohn Is Legend. He is a beast of a professor (In a good way). I highly recommend taking his class. He makes his class interesting and fun.
+Tags: Respected, Hilarious, Caring
+Thumbs Up: 95
+Thumbs Down: 12
+
+--- Review 40 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS252
+Date: Aug 21, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Sohn/CS 252 gets a bad rap, but its because people don't try/aren't willing to really invest in the course. He is very smart and if you take the time to ask questions and read the book, you can really learn the CS 252 material well.
+Tags: Respected, Get ready to read, Skip class? You won't pass.
+Thumbs Up: 11
+Thumbs Down: 13
+
+--- Review 41 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS252
+Date: Apr 28, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: Yes
+Review: Personally, I don't like him. He is smart, but he can't teach well. He came to be known as Andrew "Richard Stallman was right, and Jesus was wrong" Sohn. Let that be a warning of his character. He likes to live as "off the grid" as possible, so receiving email replies from him requires patience.
+Tags: Get ready to read, Lots of homework
+Thumbs Up: 19
+Thumbs Down: 10
+
+--- Review 42 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS252
+Date: Apr 12, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: This class is really difficult, but Sohn really gives you all you need to do the homework/do well on the tests. If you pay attention, you really will know the ins and outs of Computer Architecture. Don't delay on homework . He is also really good at answering questions, also has a lot of interesting stories of when he used to work and his experienc
+Tags: Respected, Get ready to read, Skip class? You won't pass.
+Thumbs Up: 4
+Thumbs Down: 2
+
+--- Review 43 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS288
+Date: Apr 10, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: No
+Review: This course requires time and dedication. It's unfortunate that he's no longer teaching this course. However, after I took this course, I was able to gain a lot critical thinking skills, understand what's going on in memory when programming in C .This was a very useful class. The professor had clearly told us how to do the hw. So the gradings fair.
+Tags: Respected, Skip class? You won't pass., Caring
+Thumbs Up: 0
+Thumbs Down: 4
+
+--- Review 44 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS288
+Date: Jan 23, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: So a lot of guys told me this is the hardest class in NJIT. Indeed, it is hard but if you be careful on the lecture, you should know how to do homework cause Mr. Sohn will tell you how to do. If you know how to do homework you and remember most of your code, you should be fine in the exam. It is totally same as homework programs.
+Tags: Lots of homework, Hilarious, Amazing lectures
+Thumbs Up: 1
+Thumbs Down: 10
+
+--- Review 45 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS288
+Date: Oct 26, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: No
+Review: In my humble opinion, he is the best Computer Science professor offered at NJIT. He is very well-versed in his teachings, and he knows how to convey his ideas properly. Super enthusiastic about his teachings and always gives a great vibe within his lectures. He only gets bad rep because of the difficulty of 288. He made me love Comp Sci even more.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 9
+
+--- Review 46 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS288
+Date: May 20, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Tough class, but Prof. Sohn is awesome. He's enthusiastic about the material, and the coursework forces to you develop your skills - both in terms of abstract/analytical thinking and mechanical/rote stuff like how to do a given task in the unix shell. Tests seem overwhelming at first glance, but the grading is fair and material is not unexpected
+Tags: Respected, Skip class? You won't pass., Lots of homework
+Thumbs Up: 1
+Thumbs Down: 14
+
+--- Review 47 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS288
+Date: Mar 29, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: I wouldn't say he was easy, but he was fair. He taught you enough material to do the assignments with, but you do have to think and know how to program. If you understand the concept, you can do the programming assignments. His exams are based on lecture,and hw, so as long as you attend class, pay attention and do the hw u do gud and learn alot.
+Tags: Skip class? You won't pass., Lots of homework
+Thumbs Up: 1
+Thumbs Down: 7
+
+--- Review 48 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS288
+Date: Nov 13, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: easy A
+Tags: Respected, Clear grading criteria, Extra credit
+Thumbs Up: 6
+Thumbs Down: 28
+
+--- Review 49 ---
+Quality: 4.5
+Difficulty: 4.0
+Course: CS288
+Date: May 21, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: No
+Review: Sohn is strict but for this class it's necessary as it's one of the most important you'll take in CS. Take note of virtually everything he says and do all the homeworks from scratch. If you can get at or above the class average on exams you should be fine. Do not skip class or you'll fall behind very quickly.
+Tags: 
+Thumbs Up: 4
+Thumbs Down: 0
+
+--- Review 50 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS288
+Date: May 20, 2016
+For Credit: Yes
+Textbook: No
+Review: Very, very difficult class especially with him. Make sure you know Bash, C, Linux, PHP, SQL, DOM, Python and many other languages before taking this class. Tests are extremely hard. If this is only the section, do the hw from scratch and learn as much as you can before taking this class!
+Tags: 
+Thumbs Up: 4
+Thumbs Down: 6
+
+--- Review 51 ---
+Quality: 3.5
+Difficulty: 2.0
+Course: CS288
+Date: May 17, 2016
+For Credit: Yes
+Grade: A
+Textbook: No
+Review: just pay attention in class and take notes and not complain. Easy A.
+Tags: 
+Thumbs Up: 9
+Thumbs Down: 2
+
+--- Review 52 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: 680
+Date: May 19, 2015
+For Credit: Yes
+Textbook: No
+Review: this is a rare class. if you have any interest in learning linux kernel you must take this. you will not find materials or subject on net, not many books on the latest kernel so go to class and take notes. exams are easy if you listen and take notes. you will learn a lot about kernel in 4 months that otherwise would take ages to di yourself
+Tags: 
+Thumbs Up: 8
+Thumbs Down: 2
+
+--- Review 53 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS288
+Date: May 10, 2015
+For Credit: Yes
+Textbook: No
+Review: chute professor. Best professor at NJIT
+Tags: 
+Thumbs Up: 7
+Thumbs Down: 3
+
+--- Review 54 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS288
+Date: Mar 28, 2015
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Review: I did absolutely fine in this class because I made sure to listen carefully and do and understand every assignment. If you're really going for Computer Science, this class will tell you if you're serious or not. Never understood how people would sit in the back talking all class, get poor grades, and then complain about how it isn't fair.
+Tags: 
+Thumbs Up: 12
+Thumbs Down: 1
+
+--- Review 55 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CS288
+Date: Dec 3, 2014
+For Credit: Yes
+Attendance: Mandatory
+Grade: F
+Textbook: Yes
+Review: He is a very difficult professor.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 5
+
+--- Review 56 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS288
+Date: Nov 19, 2014
+For Credit: Yes
+Textbook: No
+Review: number one rule. DO NOT SLACK OFF!!!!!!! DO homeworks again from scratch even before the final
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 57 ---
+Quality: 4.5
+Difficulty: 4.0
+Course: CS288
+Date: May 15, 2014
+Textbook: No
+Review: Very smart guy, he makes his class hard but that's for your own benefit. HWs are key to his exams. Overall, great professor, I learned a lot.
+Tags: 
+Thumbs Up: 3
+Thumbs Down: 1
+
+--- Review 58 ---
+Quality: 4.5
+Difficulty: 5.0
+Course: CS288
+Date: Jan 18, 2014
+Textbook: No
+Review: The BEST teacher I've ever had! Really makes you think about your future (job-wise) & the importance of practicing coding. 9 very difficult, but comprehensive, UNGRADED projs aimed towards CS jobs. Tests = class notes + bits of tutorials he said to do + things would learn from at least playing with the projs. 2 "POP" quizzes (he vaguely warns you).
+Tags: 
+Thumbs Up: 6
+Thumbs Down: 1
+
+--- Review 59 ---
+Quality: 3.5
+Difficulty: 4.0
+Course: CS288
+Date: Dec 21, 2013
+Attendance: Mandatory
+Grade: Rather_Not_Say
+Textbook: No
+Review: CS 288 is hands down the best and most useful class i've taken at NJIT. Sohn is a genius and I wish he taught everything. He's probably the only prof. at NJIT that motivates you to learn. Do the homework since the exams are basically the same. He's a real GNU & CS dude that still believes in privacy & open source. He's a breathe of fresh air.
+Tags: 
+Thumbs Up: 5
+Thumbs Down: 2
+
+--- Review 60 ---
+Quality: 3.5
+Difficulty: 3.0
+Course: CS288
+Date: Apr 8, 2013
+Textbook: No
+Review: Not really easy to understand but he is a really smart guy, he understands everything he teaches thoroughly. Do the homework before the exams and don't take if you have a full course load!
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 2
+
+--- Review 61 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS288
+Date: Oct 31, 2011
+Textbook: No
+Review: The homeworks WILL drive you nuts. He offers very little preparation for HWs and NEVER goes over them after they're due. The exams are mostly based on the HWs, so make sure you understand them well. Nice guy, but he makes the class unnecessarily difficult for no reason. Expects a bit too much from students. Also, he's only taught this class twice.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 5
+
+--- Review 62 ---
+Quality: 4.5
+Difficulty: 2.0
+Course: CS113
+Date: May 9, 2011
+Textbook: Yes
+Review: Awesome professor. This guy really makes you think. He's also brilliant! I had him for Fall 2010 and hated him for a while, until I realized how much I was learning. Top notch guy.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 63 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS113
+Date: Jan 24, 2011
+Textbook: Yes
+Review: Excellent professor. Very intelligent guy in general. His class is very tough, but you will learn a lot.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 64 ---
+Quality: 4.5
+Difficulty: 5.0
+Course: CS433
+Date: Dec 22, 2010
+Textbook: No
+Review: Exams are tough, and homeworks are _very_ time consuming (few of them took more than 10 hours). But he's a very lenient grader, so long as you actually get them done. Overall, a difficult class.. but the prof does his best to make the material more palatable.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 65 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS113
+Date: Dec 18, 2010
+Textbook: Yes
+Review: DO NOT TAKE HIM! especially if you are unfamiliar with programing. He will not help
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 66 ---
+Quality: 4.5
+Difficulty: 1.0
+Course: CS113
+Date: Dec 18, 2010
+Textbook: No
+Review: TAKE HIM!!!! dont even think of taking anyone else cause this professor will be thorough... agreed that he likes to joke but he will make sure you understand the concept. Do all the hw if any problem ask him, he will help and before exams he goes over things and the hws is on th exam every time.. DO THE HW. any person who doesnt do the hw gets D
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 67 ---
+Quality: 4.5
+Difficulty: 4.0
+Course: CS113
+Date: Sep 3, 2010
+Textbook: Yes
+Review: This guy is super pro when it comes to computer programming. His only downside is that he has an Asian accent and if you don't know anything about computers you can get lost easily. But for those who are into CS this guy is a beast. Talk to him outside of class too, really helpful and in-depth explanations.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 68 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS113
+Date: Jan 24, 2010
+Textbook: Yes
+Review: He doesn't make you work hard, but at the end, he is a good grader. I took CS-280 and CS113 together and this class is actually more helpful in object oriented programming and also memory management in java
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 69 ---
+Quality: 1.5
+Difficulty: 5.0
+Course: CS113
+Date: Dec 27, 2009
+Textbook: No
+Review: What a pain that class was! I never took programing in high school. Had to study constantly while pledging. Hard to follow, useless to listen to in class. Best to have a friend good in programing. DO ALL THE HOMEWORK AND LABS!! Only way to pass. If you took programing before and know recursion and linked list, should be fine.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 70 ---
+Quality: 3.5
+Difficulty: 4.0
+Course: CS110
+Date: Dec 9, 2009
+Textbook: Yes
+Review: Sohn is the man! He talks about football alot and jokes around alot. You feel like laughing just looking at him when he tries to trick the class and smile. He knows alot about JAVA and technology in general, but sometimes is a little hard to understand. If you do your homework and pay attention in class, you should do fine. He's awesome
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 71 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS111
+Date: Jul 6, 2009
+Textbook: Yes
+Review: Very clear and occasionally tells stories from his days in the industry. Best professor in the department. Tests are based closely on the homework, which is hard.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 72 ---
+Quality: 4.5
+Difficulty: 5.0
+Course: CS680
+Date: May 15, 2009
+Textbook: Yes
+Review: It's really hard to learn Linux Kernel,you have to have some basic knowledge. In fact, I cannot finish some homeworks. Midterm and Final are open book and open notes. If u go to class every time and take notes, I thinks it's not that hard to pass(to get a B grade) the class.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 73 ---
+Quality: 2.5
+Difficulty: 4.0
+Course: CS650
+Date: Dec 19, 2008
+Textbook: No
+Review: This is an unusual but reasonable professor. You can guess what he thinks, can not expect what exam will be. Everything he teaches and appears on the exam seems unpredictable. But the grade usually reasonable. He is a nice guy with deep knowledge, anyway
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 74 ---
+Quality: 2.5
+Difficulty: 4.0
+Course: CS698
+Date: Jun 16, 2008
+Textbook: Yes
+Review: If you are willing to put efforts and attend all the lectures. Finals is tough but grades are usually good. Gives required help in office hours.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 75 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS111
+Date: Apr 4, 2008
+Textbook: No
+Review: Pretty difficult to follow at times. Goes off on tangents. Even though he knows a lot about the subject matter, he doesn't teach it properly. A lot of questions on his tests are never covered in class and the tests are pretty difficult.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 76 ---
+Quality: 5.0
+Difficulty: 2.0
+Course: CS650
+Date: Aug 3, 2007
+Textbook: Yes
+Review: Very good teacher. Unlimited knowledge in computer science.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 77 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS650
+Date: Apr 14, 2007
+Textbook: No
+Review: He doesn't know how to teach. Bad grader. More than half of exam questions he never covered in the class.You need graduate from PhD. in CS before take his class if willing to understand his lecture.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 78 ---
+Quality: 4.5
+Difficulty: 1.0
+Course: CIS111
+Date: Feb 21, 2007
+Textbook: No
+Review: Good Professor. Taught all the concepts well.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 79 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS111
+Date: Jan 7, 2007
+Textbook: Yes
+Review: Nice guy, but goes off on tangents a lot during lectures. One minute he'd be talking about the code, and the next he'd be talking about the politics of Microsoft. Regardless, he knows the material well and can give you a wealth of information on computer science.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 80 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CIS650
+Date: Dec 19, 2005
+Review: No Comments
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 81 ---
+Quality: 5.0
+Difficulty: 2.0
+Course: CIS650
+Date: Sep 30, 2005
+Review: teaches really well,puts a lot of effort to explain students. concepts are clear in his notes...finall is realy unpredictable but it is how a final is supposed to be!!
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 82 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS650
+Date: Nov 7, 2004
+Review: He teaches well and his lectures are very clear. Tests and assignments are also reasonable. But final exams are unpredictable
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 83 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CIS650
+Date: Apr 7, 2004
+Review: No Comments
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 84 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: ECE393
+Date: Mar 23, 2004
+Review: very good teacher
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0

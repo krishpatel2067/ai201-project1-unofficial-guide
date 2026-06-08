@@ -1,0 +1,1617 @@
+=== OVERALL ===
+Professor: Kumar Mani
+Overall Quality: 2.6/5 (based on 113 ratings)
+Would Take Again: 41%
+Level of Difficulty: 4.5
+Rating Distribution: Awesome (5): 38 | Great (4): 7 | Good (3): 3 | OK (2): 3 | Awful (1): 62
+
+=== REVIEWS ===
+--- Review 1 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: May 29, 2026
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Online Class: Yes
+Review: Homework and group assignment instructions had convoluted instructions. Grading was harsh and he expected part-time masters students to put 20+ hours a week into his class. Used ProctorU Live when he's not supposed to. Overall was not pleasant to deal with, and randomly changed assignment instructions last-minute through announcements.
+Tags: Tough grader, Group projects, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 2 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Apr 15, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review: Do not take this professor if you want to pass, reported him to the dean and still nothing came up.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 3 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS288
+Date: Mar 28, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: son..... im crine
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 4 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS288
+Date: Mar 12, 2026
+For Credit: Yes
+Grade: Rather not say
+Textbook: N/A
+Review: Do not take this professor for any class! He has an ego and expects you to already know everything. Unfair grading system and overall just not a good professr
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 5 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS356
+Date: Feb 23, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Review: Take another professor. I dropped on the first day and got saved.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 6 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS491
+Date: Feb 16, 2026
+Attendance: Mandatory
+Grade: Audit/No Grade
+Textbook: N/A
+Review: Demanded everyone showed up early for class, then showed up an hour late. Unable to answer questions about a crucial non-standard senior capstone class after weeks of no instruction. This guy is tenured and he is taking full advantage of that in the worst way possible. Ended up being removed from the class by administration.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 7 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS491
+Date: Jan 30, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: Currently the 491 students are complaining against Mani. Main things that are being given exams, being super unorganized and extra deliverables for what is known as a coordinated capstone class. We are also being isolated from the rest of the opportunities 491 usually has. Given Mani's current reputation, he is an avoid at all costs
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 8 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Jan 8, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review: Do not take at all costs he will ruin you
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 9 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Dec 24, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Review: Requires knowledge from 288 for group projects that make up most of your grade, even though it isn't listed as a pre-req. He didn't even bother showing up once a week, as he makes the TA hand out a lab. Horrific grading system that punishes you if a group member makes a mistake. Projects have no relation to the lecture material. Learned nothing.
+Tags: Tough grader, Group projects, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 10 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Dec 23, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review: Listen to the other reviews.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 11 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Dec 22, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Review: Only person I know to get an A. Told me for a good grade I should spend time outside of class teaching my group members the material. Told us that PEMDAS is computer networking related. Wants the reputation of the 'hard but good' professor (Itani), but doesn't actually teach well. Didn't teach Wireshark, literally only sockets which I already knew.
+Tags: Tough grader, Group projects, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 12 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Dec 22, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review: Do not take him, listen to all reviews, should not be a professor.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 13 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Dec 22, 2025
+Attendance: Not Mandatory
+Textbook: Yes
+Review: Worst person to teach ever, no clue why he teaches at njit, would not wish this professor upon my worst enemy. Disgusting attitude, he requires cs288 and cs350 etc done BEFORE his class because that just makes sense. I would steer far away. Honestly should not be a professor.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 14 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Dec 22, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Review: Worst professor ever, has an ego and is not professional.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 15 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Dec 15, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: I regret taking. WORST prof in my 40+ NJIT class history. Grading is horrible. Confusing assignment requirements. Project grade is ~25% presentations, where 2 or 3 groupmates with the least contributions are picked. Lectures are underwhelming. Sure, Mani is smart, but he hyperfixates on only a few topics, ridicules questions, and insults students.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 16 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS356
+Date: Dec 9, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Mani can be a good teacher I just don't understand if he chooses not to. His exams are fair, however I believe he went about the group projects wrong and the lectures/flip labs. He should have lectured during flip lab days and just assign them for homework. He is engaging during lecture, but he needs to refine the course outline.
+Tags: Group projects, Inspirational, Hilarious
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 17 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS356
+Date: Dec 1, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Professor Mani is the worst professor I've ever had in NJIT. He genuinely believes that just making hard projects or tasks makes his class more difficult and better for students. It isn't. The projects might be easier for some students, but he doesn't give clear instructions, he won't even give you a reason for the grade you receive. He can't teach
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 18 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 23, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Doesn't teach the project, intentionally makes it difficult and complicated, and somehow prides himself in his teaching ability in the end. Mediocre professor and teaching abilities, do not take. Makes the class hard for the sake of being hard.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 19 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 20, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: What good can I say about this professor? Even if there is anything good about him, he has taken away any good perception I have of him. One of the worst professors at NJIT for sure. Doesn't teach anything about the projects. Good reviews are probably written by him or the TAs.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 20 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 18, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: He tells you what is going to be in the exam. As talented as this professor might be with his courses, he has established a bad reputation for being unreasonable and scheming. Projects are given way before he has taught a single line of code, class structure is messy and unreliable. Fearmongering and lying about caring is his passion.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 4
+Thumbs Down: 0
+
+--- Review 21 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 18, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Unless you already took 288 or have some experience with socket programming, the projects for this class will be very difficult. The professor does not teach what you need to know for the projects. He just gives you a textbook to read. That's literally it. His lectures are alright but completely irrelevant to the projects. Good reviews likely fake.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 22 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 17, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: Having to clutch a 1v4 in prime Fortnite on 1 hp felt easier than this class. Avoid any class offered by this professor.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 23 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 17, 2025
+Review: If you're not a part of a religion, get one and start praying
+Tags: 
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 24 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 17, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: In all my years of college, I've never felt the need to actually leave a rating for a professor- I'm usually the one reading them. That is, until I had to survive the wrath of Professor Kumar Mani. I had to make an account just to emphasize how terrible this guy is. Be prepared to be unprepared.
+Tags: Tough grader, Group projects, Lots of homework
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 25 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Textbook: Yes
+Review: This professor will make Itani look like a saint in comparison. I would definitely wait to take this course another semester if he is the only person teaching it.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 26 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Professor Mani is one of the worst teacher I've had in NJIT, and that's saying a lot. His class is not "hard" for the material, is hard because of him, it's hard because he believes that makes him a goof professor. Insane deadlines, stupid projects, more than one book to read. Group projects that won't teach you anything. AVOID AT ALL COST
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 27 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Easily one of the most frustrating classes. He refuses to teach, gives impossible projects, and seems convinced we all exist just for his course
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 28 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Workload is ridiculous for the amount of guidance given. He expects endless hours on his projects and gets annoyed if you ask basic questions.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 29 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Projects are extremely difficult and poorly explained. He assumes we magically know everything already. Big ego, very little actual teaching
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 30 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: This professor barely teaches. Lectures are random, and the projects are way harder than anything covered in class. He acts like his course is the only thing in our lives.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 31 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Awful projects. Good luck trying to do them without affecting your other classes.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 32 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: N/A
+Review: Wish I listed to ALL the reviews before selecting this professor. He has a giant ego, his work does not reflect the syllabus, expects you to know everything prior. Unfair and just completely mean I would say 100% worst professor I've ever come across.
+Tags: Participation matters, Group projects, Test heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 33 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: Tries to do the most to annoy students, wants us to dress for group interviews, and mind you if your group members don't know anything and you did all the work you get an AUTO 0 for the whole group. It's too much
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 34 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Ridiculous interviews for group projects, where if someone in the group gets a question wrong, the entire group is hit with massive deductions or even a zero. Fails to provide necessary information for projects that seem to have little to do with the material. Knowledge from 288 is needed, despite not being a prereq for this class. TAs are cool.
+Tags: Tough grader, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 35 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: The Worst. Does not teach. Learn on your own.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 36 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Literally the worst professor I ever had. Gives ridiculous projects that he doesn't teach a single thing about. Completely on your own. Good luck getting a C.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 37 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 13, 2025
+For Credit: Yes
+Attendance: Mandatory
+Textbook: Yes
+Review: The smallest mistakes jeopardize your performance in this class. Answering a question incorrectly in class will get you deductions. If you are unable to meet his project checkup deadlines, which themselves are at random and last minute, you will get deductions. Since everything is done in groups, everyone is penalized if one person makes a mistake
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 38 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 12, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: I used to drive to campus with no seatbelt and pray that I crash into a ditch and fly out my windshield just to avoid this professor. WORST PROFESSOR IN NJIT HISTORY.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 39 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 11, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: Yea..... I don't know about this one. This class is worse than 288 and 350 COMBINED. This guy makes Itani look like a joke!
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 40 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 10, 2025
+Grade: C
+Review: I thought Itani was the worst professor but this guy tops number 1. Next weed out course for sure. Avoid all costs.
+Tags: Tough grader, Group projects, Lecture heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 41 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 8, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: The devil works hard but this professor works harder! Beware of any false reviews as they are all probably uploaded by the professor himself! Projects are given with ridiculous deadlines, and points are taken off with little explanation! TA's will also be teaching labs, and snapped at and told to pick up after professor if needed (so TA's beware)
+Tags: Tough grader
+Thumbs Up: 4
+Thumbs Down: 0
+
+--- Review 42 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS356
+Date: Nov 6, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Have fun on the projects.
+Tags: Tough grader, Group projects, Lots of homework
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 43 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 4, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: Do not take this professor if you value your sanity. He will assign insanely difficult projects with no guidance and give you penalties on it for not answering his cold calls correctly. He will make this the most difficult class you have taken at NJIT without a doubt. Check Course Schedule and you will see how many people drop each semster.
+Tags: Tough grader, Group projects
+Thumbs Up: 5
+Thumbs Down: 0
+
+--- Review 44 ---
+Quality: 5.0
+Difficulty: 2.0
+Course: CS356
+Date: Nov 3, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: Confused by the other comments because the class is pretty braindead. Exam questions are pretty much the practice ones you get, and the labs take like half an hour each. The only difficult part is the projects, but he overblows it and it takes like not even a few days of work. Not a free grade, but not really hard either.
+Tags: Get ready to read, Group projects, Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 3
+
+--- Review 45 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 3, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: Beware of misleading ratings. This was one of the hardest classes I've taken at NJIT. The professor often posted short-notice assignments and gave group-wide penalties for individual mistakes. The workload felt unrealistic. Check past reviews and class enrollment trends before signing up.
+Tags: Get ready to read, Group projects
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 46 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Nov 2, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: This professor is great, he has engaging and helpful lectures. The projects are straightforward and he gives clear instructions. As long as you keep up with some readings and pay attention in class, you should do well.
+Tags: Group projects, Amazing lectures, Respected
+Thumbs Up: 0
+Thumbs Down: 3
+
+--- Review 47 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS356
+Date: Nov 2, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Incomplete
+Textbook: Yes
+Review: Professor Mani is not for everyone, but if you are willing to learn and read then take him! He is an incredible lecturer that explains every topic with the best details. His exams aren't that hard if you read what he says and pay attention to class. Group project will teach you a lot about computer networks and how everything works. So worth it!
+Tags: Tough grader, Group projects, Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 48 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Oct 27, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: Mandatory group work, does not follow syllabus
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 49 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Oct 20, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: It is insane the amount of work one must do in order to even do good in his class. Group projects are given but if you don't have someone doing anything and they get questioned automatic 0, tests are difficult and does nothing to really prepa
+Tags: Tough grader, Get ready to read, Participation matters
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 50 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Oct 20, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: I would strongly advise to take it with another professor, very unfair projects and
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 51 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS356
+Date: Oct 20, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: #COOKED. Do not take this guy if you value your hairline.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 4
+Thumbs Down: 0
+
+--- Review 52 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS356
+Date: Oct 17, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: He knows his stuff and is totally clear w/ expectations. Projects are hard but he helps if you make honest effort and go to office hours. It is not easy. Either dont take him or if you take him be ready to work. Its not cookie cutter class. I got a ton out of it but that's just me. No point venting here and make it harder for other students!
+Tags: Tough grader, Get ready to read, Participation matters
+Thumbs Up: 0
+Thumbs Down: 4
+
+--- Review 53 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS288
+Date: Sep 19, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Review: The worst! Assignments are done in groups. If you have a lazy dumbass in your group, the entire group will fail. That kind of stupid grading makes no sense. He doesn't teach anything; just test you everything. All the 5.0 must have been him rating himself. I see nothing good about this teacher.
+Tags: Tough grader, Group projects
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 54 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS656
+Date: Jul 21, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: He is def not easy but you learn a ton. It a lot of work youll be coding most weekdays/ends. He knows his stuff but insanely tough grader. Tests are tough you have to study esp math. Write down every word in class, code everything yourself bc exams have code, study your math real good and you do ok. If you want easy take someone else. TA can help.
+Tags: Tough grader, Lots of homework, Test heavy
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 55 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS636
+Date: Jun 27, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: C
+Textbook: Yes
+Review: Read assigned textbook chapters before lectures, and you'll do well on tests. Do well on tests, and you'll pass the class, regardless of how bad you did on other assignments. I think he saw a movie with an eccentric yet inspiring mentor and he copies their mannerisms and spouts the same platitudes. Don't be fooled his charade. He's not your friend.
+Tags: Get ready to read, Group projects, Inspirational
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 56 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CS636
+Date: Jun 24, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Review: More than him TA Teaches more, Everything we need to reach out to TA.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 57 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: May 12, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+Review: Hands down the BEST at NJIT. Knows his stuff inside out, gives lots of industry details, projects are challenging and great -- same stuff they asked during my job interviews at BigBank. If you want to learn he is TOTALLY your guy. BEWARE - its a LOT of work, if you want easy or step-by-step he is NOT for you. He is upfront about this.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 58 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Jan 31, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Review: He expects us to know everything. Doesn't teach anything , just tests how much we know.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 59 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS656
+Date: Jan 30, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Online Class: Yes
+Review: In my 5 years at this school, I don't think I have ever seen a more stuck up professor than this one. He barely teaches and picks kids out who read the textbook to do the teaching for him and just confirms the answer. He takes weeks to grade exams if there is any technical issues. So for your own sake, follow his instructions EXACTLY or else...
+Tags: Tough grader, Group projects, Lots of homework
+Thumbs Up: 4
+Thumbs Down: 0
+
+--- Review 60 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS636
+Date: Jan 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Awesome. Really knows his stuff and brings lots of Industry experience. Gave lots of insight and detail into data analytics and other emerging technologies. I learned much more than I expected. It is not an easy class. IDK what the other reviews are complaining about - he tells you everything clearly at the start. I loved the experience.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 61 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Dec 22, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Online Class: Yes
+Review: Professor put minimal effort into the class. Lectures are only AI-narrated videos. Lab instructions were randomly changed without updating the assignment. Spams so many long announcements you easily miss something important. Exam experience was awful (why ProctorU Live??). Takes forever to respond to emails. This guy should not be a professor!
+Tags: Get ready to read, Group projects, So many papers
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 62 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Dec 21, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: Yes
+Online Class: Yes
+Review: I took this fully online. There weren't any projects, but there were weekly assignments. Everything you learn in this class is by yourself or your group mates. He does no actual teaching. If you have questions, he tells you to direct it to his TA. The TA did more teaching than he did. Its hard to call him a professor in this environment.
+Tags: Tough grader, Get ready to read
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 63 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 20, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: C+
+Textbook: Yes
+Review: Very passionate about the subject and cares that students learn the material. Lectures are engaging and informative, labs are helpful and interesting. Don't neglect the project, it's a lot of work and instructions might not be clear at first. Take advantage of office hours and ask questions. I don't like the way it's graded but it is what it is.
+Tags: Group projects, Caring, Accessible outside class
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 64 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS656
+Date: Dec 20, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Review: Good lectures do not make up for inconsistent, unclear, and bad grading. Changed grading structure in the final weeks. Has group projects in graduate school that harm total grades if the group if any of the members don't do their share. Very late in returning grades. You won't know how you are doing until you get your final grades for the sem.
+Tags: Tough grader, Group projects
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 65 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Oct 9, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: Class is group project-based. You will spend more time trying to decipher overly complicated instructions than learning. Homework/projects are overly difficult for no reason. Only class I've taken that uses ProctorU Live instead of Respondus. We need a mirror behind us and have to preschedule to take exams??? Take with another professor if you can!
+Tags: Participation matters, Group projects, Lots of homework
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 66 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS636
+Date: May 20, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: I really got my money's worth. His lectures are well organized and build on top of each other. He also scaled back the number of assignments required. The class is more of a discussion where you work together to solve the problem. This won't be an easy A, you will have to apply yourself. I learned a lot. I hope to have him again in my other classes
+Tags: Tough grader, Amazing lectures, Accessible outside class
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 67 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Jan 5, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C-
+Textbook: N/A
+Review: He has tremondus knowledge at subject. if you want to really learn the subjet you can take him but if you want grade i dont suggest taking him very hard and tough never take him for grade only for knowledge
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 68 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS636
+Date: Jan 10, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: Yes
+Review: Amazing professor, shares stories from his professional life and makes the class interesting and relevant. Lots of real world stuff. Available to help even on wknds. If you want easy ride or everything printed out etc you may not like it - but he's upfront about this. Take him, it is totally worth it if you want to learn and crack your interviews!
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 69 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS636
+Date: Dec 25, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review: He is a nice person, but the class had no direction, we didn't have a clear syllabus.. Hw/classwork problems were hard, he refused to give you the solutions to any of them, so we couldn't learn what we've done wrong. Super difficult test, impossible to complete. Problems that we had a week to do for hw that took 6-10 hours we had to do under 2hrs
+Tags: Tough grader
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 70 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Nov 10, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: His class is tough. But he is passionate about the subject and he is around after hours to help. He debugged our code many times. I just landed an internship coz the interviews were about his class! Many students whine coz they can't finish his assignments on time. If you really want to learn, take him but if you just want an easy ride then don't.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 71 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Nov 10, 2022
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Review: Worst prof ever!!! You'll regret if you take his class
+Tags: Tough grader, Lots of homework
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 72 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Nov 6, 2022
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Review: Very immoral-difficult course. Select group members very carefully. If someone in group doesn't know the answer whole group gets zero marks. Ask a senior who has taken his course. Project grading is too tough. If your program does what he says but fails in his non-mentioned test cases. Then you will get zero. Tip - Attend classes if registered.
+Tags: Tough grader, Group projects, Graded by few things
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 73 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS636
+Date: Jun 4, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Prof. conducts a discussion based class where everyone participates and learn. Sufficient examples are taught in class. If you are attentive in his lectures then 60% of your preparation is done. Professor is very helpful in case you get stuck somewhere with your problem but make sure you have attempted that problem before reaching out to him.
+Tags: Get ready to read, Participation matters, Group projects
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 74 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 26, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: If you want to learn the topic, there's no one better. The assignments are coding based and interesting. He will make you work for your grade i.e. no freebies, however, the quality of lectures and the methodology of teaching is beyond articulation.
+Tags: Accessible outside class, Participation matters, Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 3
+
+--- Review 75 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS636
+Date: Nov 5, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: Yes
+Review: He just does not care about the students he just wants to create an environment of fear in class. If anybody questions his techniques or asks the question more than once he gets frustrated. Last but not least he wants students who can obey his orders without any doubt or questions if you are not one of them then you should not take his course.
+Tags: Lots of homework
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 76 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS656
+Date: May 14, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: His class is interactive and helps you to understand the essence of the course. Assignments and projects will be challenging but really helpful. Going back to basics is the most important thing when it comes to interview preps not the advanced concepts and he encourages that a LOT in this course. Be open to prepare ahead and research more.
+Tags: Get ready to read, Group projects, Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 3
+
+--- Review 77 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS656
+Date: May 4, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Review: Prof. Mani pushes students to learn the course material. He does this by assigning projects that combine the different concepts you learn during lectures. which i enjoyed . I advise that students who really wants to get indepth knowledge of networks shou take him, otherwise drop. Be prepared to work with bytes in Java and most importantly to learn.
+Tags: Lots of homework, Group projects, Tough grader
+Thumbs Up: 1
+Thumbs Down: 3
+
+--- Review 78 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS656
+Date: Apr 2, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: Yes
+Online Class: Yes
+Review: Worst professor ever. Makes all assignments unnecessarily difficult with a bunch of stupid rules such as you can't use this class or API, while these are the exact things that are used in real life. Professor keeps sucking his teeth when you ask him a question or when he's explaining something and you haven't gotten it yet. DO NOT TAKE HIS CLASS
+Tags: Lots of homework, Group projects, Tough grader
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 79 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS656
+Date: Jan 24, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Online Class: Yes
+Review: Never rated a prof, but this prof's rating could not be more misleading. One of the worst experiences I've had in a course. All the negative reviews here are accurate, so read them carefully. The learning environment he promotes is trash. I'd retake him only cuz I learned from his projects, but he's rude and makes everything unnecessarily stressful
+Tags: Group projects, Tough grader
+Thumbs Up: 3
+Thumbs Down: 1
+
+--- Review 80 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS636
+Date: Dec 25, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: One of the unique data anlytics class you can ask for; I believe it is the only course where prescriptive analytics is taught with actual industry use cases. Prof. Kumar made this subject very interesting and useful for the students. If you want to know how big companies make decision, this is the course you are looking for.
+Tags: Participation matters, Inspirational, Amazing lectures
+Thumbs Up: 1
+Thumbs Down: 2
+
+--- Review 81 ---
+Quality: 4.0
+Difficulty: 5.0
+Course: CS656
+Date: Dec 23, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: Professor Mani challenges his students and pushes them to learn the course material. He does this by assigning projects that combine the different concepts you learn during lectures. I advise that students who plan on taking CS656 seriously to take him, otherwise drop. Be prepared to work with bytes in Java and most importantly to learn.
+Tags: Group projects, Tough grader
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 82 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS656
+Date: Oct 28, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Review: Students dont learn from teachers theyre afraid of. When creating a growth mindset, errors need to be embraced and honored within the classroom instead of humiliating the students. Grading should be something students understand and can grow from.
+Tags: Test heavy, Lecture heavy, Tough grader
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 83 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS636
+Date: May 28, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: No
+Review: He is the best for data analytics, he puts a lot into the class, homeworks projects etc All very relevant youll learn a lot It is not EASY class however he is upfront about it so take it ONLY if you wanna learn. He is patient and helpful but not to all (esp not if he thinks youre a coaster.) Follow his rules and you'll like it. He's a good teacher.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 84 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS636
+Date: Apr 18, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: He makes us understand, think and solve problems. The classes are full of discussions.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 85 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 24, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: He made a very conceptual class to very practical and interesting class. Explains in depth how modern internet works. Full grading is oriented on project. Project is carefully designed to cover all broad aspects of modern internet. He is very strict, so lame excuses won't work, be ready to really work.
+Tags: Participation matters, Skip class? You won't pass., Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 86 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Jan 19, 2019
+For Credit: Yes
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: He is a great teacher, has office hours on weekends, even debugged my group code. He clearly tells you not to copy (he has auto tools and caught & gave zero to many students last sem) Some didn't do projects and got bad grades. He is actually helpful if you put efforts. He openly says he's not easy grader but you actaully learn lot if u put efforts
+Tags: Skip class? You won't pass., Lots of homework, Accessible outside class
+Thumbs Up: 1
+Thumbs Down: 2
+
+--- Review 87 ---
+Quality: 1.0
+Difficulty: 1.0
+Course: CS656
+Date: Jan 2, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Review: Very lazy and always in the mode of criticizing students. Teaches less and a lot of showoff that he is talented. A lot of classes are taught on webex and wastes time in testing the mike and speakers of each student. I will never suggest friends to take course under him.
+Tags: Tough grader, Skip class? You won't pass., Graded by few things
+Thumbs Up: 3
+Thumbs Down: 1
+
+--- Review 88 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 22, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: If you want to learn, don't hesitate to take this Prof. He is one of the best you will ever get. If u just want to take this course for grades, then he isn't the guy. U learn a lot from him more than u can imagine.
+Tags: Participation matters, Skip class? You won't pass., Group projects
+Thumbs Up: 0
+Thumbs Down: 5
+
+--- Review 89 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 22, 2018
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: If you are here for fun, then DO NOT take classes under him, but if you want to learn, you want to be someone and take the feel of IVY league studies, you should definitely take the class under him. I got an internship in November only by describing his given projects(my work ex helped too but they also asked what you learned in USA).
+Tags: Respected, Get ready to read, Inspirational
+Thumbs Up: 4
+Thumbs Down: 18
+
+--- Review 90 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 22, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: He is tough but upfront and transparent about it. He's also one of the few profs who actually helps debug your code multiple times. He clearly says take another section if you want easy work. He knows his stuff and teaches thoroughly and makes you work, and you do learn a lot. Some don't like him, their choice. I prefer his direct approach though.
+Tags: Respected, Get ready to read, Group projects
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 91 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 19, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: B-
+Textbook: Yes
+Review: he is hypocritical and awful. worst I have ever seen. make you crazy. and my last negative review about him disappeared, I don't know why. so i do it again.
+Tags: Lots of homework, Test heavy
+Thumbs Up: 18
+Thumbs Down: 9
+
+--- Review 92 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Aug 20, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Lectures: Interactive classes. He makes the boring subject a lot interesting. Exams: He specifically tells students which questions/topics will be in exams. Relatively easy. Projects: Projects are difficult but very helpful. Matters a lot while grading and one question in each exam based on the project. CS students must take this course :)
+Tags: Participation matters, Amazing lectures, Group projects
+Thumbs Up: 3
+Thumbs Down: 10
+
+--- Review 93 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: C673
+Date: May 12, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: No
+Review: He is actually a very good teacher, knows his stuff, puts lot of effort into the class. Projects are good. Get ready to work, it's NOT an easy class. If you want to learn AND improve your resume take him. Otherwise take an easier prof.
+Tags: Respected, Get ready to read, Amazing lectures
+Thumbs Up: 4
+Thumbs Down: 12
+
+--- Review 94 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: May 2, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Simply put, if you want to learn, take him. If you want to just get a grade, you might want to look elsewhere. Professor Mani is without a doubt, one my the best professors I have ever had. He is here for way more than just a paycheck; he is here for you. Study hard, pay attention, and really LISTEN to what he is teaching and you will do just fine.
+Tags: Respected, Participation matters, Caring
+Thumbs Up: 4
+Thumbs Down: 10
+
+--- Review 95 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Jan 12, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Really great teacher. This is core network class & the way he teaches really makes a difference. Projects are hard and take a long time to crack. He helped us a lot coz our group saw him regularly. Other groups wait till last minute he will throw you out. He knows all the students so as long as you put efforts youll do well. Can't coast though.
+Tags: Respected, Get ready to read, Amazing lectures
+Thumbs Up: 4
+Thumbs Down: 11
+
+--- Review 96 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 19, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: Great class, he's really hands on and makes subject interesting. Very good projects, you'll learn a lot. Exams are conceptual, find it hard esp. if your undergrad was not in US, you need to pay attention to everything he says in class. It is definitely a worthwhile experience to learn from him.
+Tags: Get ready to read, Participation matters, Accessible outside class
+Thumbs Up: 2
+Thumbs Down: 11
+
+--- Review 97 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS673
+Date: Nov 16, 2017
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Online Class: Yes
+Review: Heavy homework, giving students assignment Wednesday night and due Friday noon. What he teaches is not what you are really using in your project and turns out to criticise students for not following his order. He always pretends to help but solves nothing other than criticising you.
+Tags: Tough grader, Lots of homework, Group projects
+Thumbs Up: 19
+Thumbs Down: 4
+
+--- Review 98 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS656
+Date: Oct 31, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Review: As a teacher, one of the best at NJIT. As a grader/taking tests, not so good. You might screw your grades. But you may learn many new things under him. His grading criteria is based on relative grading depending on how difficult tests were and how the class performs overall. So passing the class won't be a trouble for most of them.
+Tags: Participation matters, Skip class? You won't pass., Group projects
+Thumbs Up: 2
+Thumbs Down: 8
+
+--- Review 99 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS673
+Date: Jul 7, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Very good class and prof. Focus on real projects, he gives good feedback. But class is a lot of work - not 'easy' but worth learning from him. He pushes hard and doesn't tolerate lazy/phony/coasting. Project on modeling realtime stock market data. Classes are good, he is good in office hours, but you gotta work. He is good.
+Tags: Inspirational, Amazing lectures, Group projects
+Thumbs Up: 4
+Thumbs Down: 7
+
+--- Review 100 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS656
+Date: Jun 5, 2017
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: Worth learning from him. More practical work and coding. Group coding projects and assignments.
+Tags: Gives good feedback, Respected, Inspirational
+Thumbs Up: 5
+Thumbs Down: 8
+
+--- Review 101 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: May 10, 2017
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: No
+Review: I can strongly say this is one of the BEST profs in this univ. He's full of hands-on practical and real-world examples, he will push you to think, to learn and to do the projects. (I agree he doesn't tolerate lazy/uninterested ppl, also this is NOT a "easy" class) If you really want to learn it then he's the man for you no questions. Great prof!
+Tags: Respected, Lots of homework, Amazing lectures
+Thumbs Up: 4
+Thumbs Down: 9
+
+--- Review 102 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: May 10, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: Pros: Prof is really good (knowledgeable, open & caring) & really passionate on teaching. Available to help whenever needed (even debugs your code!) Did cases, projects, all very interesting & I learnt a TON. Cons: Doesn't tolerate inefficiency so weak students feel "bad" but its not personal. Great class & prof. Take him if you really wanna learn!
+Tags: Tough grader, Respected, Amazing lectures
+Thumbs Up: 4
+Thumbs Down: 7
+
+--- Review 103 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Apr 27, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Great Professor, but very difficult. Need to put in work to get a good grade. Lectures are very clear and he does a great job explaining everything. Teaches everything in a practical way and tries to avoid memorization whenever possible
+Tags: Tough grader, Gives good feedback, Amazing lectures
+Thumbs Up: 5
+Thumbs Down: 6
+
+--- Review 104 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS670
+Date: Mar 26, 2017
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: No
+Review: I thought it would be a bookish software class but this prof has worked all over the world and he brings his real life projects from Asia, Europe etc into the classroom and the projects, we built a NYSE trading app (prof was VERY helpful). This is not an easy grade class, but those willing to put efforts will really enjoy & learn a LOT.
+Tags: Respected, Get ready to read, Amazing lectures
+Thumbs Up: 4
+Thumbs Down: 7
+
+--- Review 105 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 4, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: If you want to learn, push yourself beyond what you know and what you think you can do, and have a hands on approach to the subject do take his class. Challenging projects but will help you learn a lot. He gives full commitment towards the subject and expects his students to do the same. Always ready to help. Helps even with career related queries.
+Tags: Gives good feedback, Participation matters, Amazing lectures
+Thumbs Up: 4
+Thumbs Down: 7
+
+--- Review 106 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 4, 2017
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Most beneficial course out of all core courses. Got to know the insight of how data travels over internet. Done amazing projects during this course eg. Proxy server, multimedia radio. If you want to learn IHLP, this is the class for you to be in. Professor is very helpful and is always available whenever you are in trouble.
+Tags: Participation matters, Accessible outside class, Amazing lectures
+Thumbs Up: 4
+Thumbs Down: 7
+
+--- Review 107 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 4, 2017
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: If you want to understand networking concepts and the day in life of an internet packet he is the professor to approach. He will make you do assignments which clear the networking concepts and you will practically understand the working of OSI model which cannot be learnt by only reading text.
+Tags: Gives good feedback, Participation matters, Group projects
+Thumbs Up: 6
+Thumbs Down: 7
+
+--- Review 108 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 4, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Are you here to study or to enhance your knowledge base? If yes, the here is your man! He will guide you, scold you, teach you, make you work, help you when you are stuck, care for you(By offering Pizza) and in short be your best professor buddy! But to earn this, you need to work hard and be diligent for the work he gives and be logical always!
+Tags: Respected, Participation matters, Hilarious
+Thumbs Up: 5
+Thumbs Down: 7
+
+--- Review 109 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 4, 2017
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: This professor can turn boring networking concepts into interesting and interactive discussions. He provided examples and involved everyone. Does not test students on theoretical concepts, instead makes you think and apply those concepts in project as well as exam. If you are prepared to work, there is no way you will get a bad grade.
+Tags: Gives good feedback, Accessible outside class, Amazing lectures
+Thumbs Up: 8
+Thumbs Down: 6
+
+--- Review 110 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 4, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: If you like hands on, you will love his approach. Teaches hands on networking concept with projects. Accessible outside of the classroom. Instead of giving solutions, he guides you through the path and that is exactly where most of the learning happens. If you want an easy grade, please don' t take his class. But if you are out to learn, go for it.
+Tags: Respected, Inspirational, Accessible outside class
+Thumbs Up: 6
+Thumbs Down: 7
+
+--- Review 111 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 4, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Professor Mani, is a highly motivating and helpful professor. The Programming assignments are really interesting and make your brain reach the next level to solve it. He is an amazing and really a gem professor at NJIT. Full Paisa Vasool! He is definitely a shining beacon of guidance for the person he is! God of Networking from IBM!
+Tags: Inspirational, Amazing lectures, Group projects
+Thumbs Up: 6
+Thumbs Down: 6
+
+--- Review 112 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 25, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Tough but fair. Assignments are hard but he is always available (even debugs your code for you) and helpful. Classes are good (lots of in-class examples with everyone getting hands-on networking). Projects are cool! (We built an Internet radio!) Take his class if you really want to learn networks AND do well in your professional career. He's cool.
+Tags: Tough grader, Inspirational, Amazing lectures
+Thumbs Up: 7
+Thumbs Down: 7
+
+--- Review 113 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS673
+Date: Dec 16, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: No textbooks, tough grader, just have to pay attention to his lectures and you will be fine. Exams are pretty easy but you have to work hard for assignments. His methods are different for a reason, he teaches concepts which you will be using in your professional carrier. Take his class if you really want to know the subject.
+Tags: Tough grader, Inspirational, Amazing lectures
+Thumbs Up: 8
+Thumbs Down: 6

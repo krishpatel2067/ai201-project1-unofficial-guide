@@ -1,0 +1,1329 @@
+=== OVERALL ===
+Professor: Samaneh Berenjian
+Overall Quality: 4.2/5 (based on 89 ratings)
+Would Take Again: 78%
+Level of Difficulty: 3.6
+Rating Distribution: Awesome (5): 65 | Great (4): 6 | Good (3): 3 | OK (2): 2 | Awful (1): 13
+
+=== REVIEWS ===
+--- Review 1 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Jun 3, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Review: Professor knows the subject and the class was well organized. Some lectures moved a bit fast and could have used more explanation, but the grading was fair and the material was useful.
+Tags: Participation matters, Group projects, Beware of pop quizzes
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 2 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS696
+Date: May 29, 2026
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Online Class: Yes
+Review: Course material was extremely subpar, lectures were just TTS videos with a static background. Professor did not help much outside of class, and the exam reviews were vague and did not reflect the actual exam content. This class was a huge waste of time and money for me, I learned absolutely nothing. Professor put zero effort into teaching the class
+Tags: Tough grader, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 3 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS656
+Date: May 24, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: This class uses the CS356 textbook. No curve, has confusing group assignments, 5 min text to speech videos covering an entire chapter. Never shows up to office hours or lets you review midterm/final answers. Last sem during review session, told us midterm would be conceptual, T/F, and MCQ and it ended up being all open ended calculations. Avoid.
+Tags: Tough grader, Get ready to read, Group projects
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 4 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS351
+Date: Nov 10, 2025
+Would Take Again: Yes
+Grade: A+
+Review: Honestly, her CS351 is brain dead easy. Her quiz/midterm is based on slides. And group projects can be done in an hour.
+Tags: Get ready to read, Group projects, Beware of pop quizzes
+Thumbs Up: 8
+Thumbs Down: 6
+
+--- Review 5 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS351
+Date: Oct 19, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: F
+Textbook: Yes
+Review: This professor is no help at all. The slides miss half the material, and the exams cover topics we never even went over. Every time someone asks for help, it's no help. No real guidance, no clear reviews, and nothing matches the tests. Completely frustrating. All her reviews are FAKE. Our class has decided to submit a formal complaint.
+Tags: Tough grader, Group projects, Lecture heavy
+Thumbs Up: 7
+Thumbs Down: 4
+
+--- Review 6 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS656
+Date: Oct 18, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: I took CS656 with Professor Berenjian. The class was well-structured and she really knows the material. However, the course relies heavily on the Kurose and Ross textbook, and sometimes it feels like the lectures just follow the book too closely. Still, I think the class is worth taking, especially if you stay on top of the readings.
+Tags: Amazing lectures, Respected
+Thumbs Up: 3
+Thumbs Down: 4
+
+--- Review 7 ---
+Quality: 3.0
+Difficulty: 1.0
+Course: CS356
+Date: Oct 15, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: Yes
+Review: Guaranteed a quiz the class after you finish a chapter from the book/slides. As for difficulty: they're piss easy, literally look up the online end-of-chapter problems on the Kurose website and they're LITERALLY the same with the random generated options. Midterm and final are the same thing: 2 questions max from slides. Focus on group work 200%.
+Tags: Group projects, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 8 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS356
+Date: Sep 29, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Review: Everyone loves to say things like "this prof just read off the slides" which is terribly unproductive criticism. Berenjian is simply not good at teaching She struggles immensely to explain the concepts that she clearly understands. There should be a minimum communication skills requirement for anyone who wants to be a teacher or professor.
+Tags: Beware of pop quizzes
+Thumbs Up: 8
+Thumbs Down: 1
+
+--- Review 9 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Aug 12, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: Professor uses only Jim Kurose videos/slides, no original content. Emotionally invested but gives no exam guidance beyond 'study interactive questions.' No tutor available, must ask her/TA directly. Has an attitude. Won't take again, will voice concerns to school.
+Tags: Tough grader, Group projects, Lots of homework
+Thumbs Up: 4
+Thumbs Down: 1
+
+--- Review 10 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: Jun 18, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Online Class: Yes
+Review: The course includes video lectures along with supplementary videos, and assignments. The professor is supportive and responsive. I recommend this course.
+Tags: Group projects, Amazing lectures
+Thumbs Up: 3
+Thumbs Down: 3
+
+--- Review 11 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: May 19, 2025
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Online Class: Yes
+Review: Have a good experience on CS656 online course with her. Modules are well prepared and the exams are based on the ProctorU. She usually sets up review sessions before the midterm and final exam.
+Tags: Group projects, Clear grading criteria
+Thumbs Up: 2
+Thumbs Down: 2
+
+--- Review 12 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS356
+Date: May 15, 2025
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+Review: Most of these reviews are fake and are probably written by the professor. The honest ratings have been reported and taken down even though theyre telling the truth.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 13 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS356
+Date: May 15, 2025
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+Review: Reads straight off the slides and calls on students to explain topics she hasn't even introduced yet. Did not disclose the grading scale throughout the entire semester and at the end she told us anything below a 70 is a failing grade. No curve. She got most of her rate my professor reviews taken down.
+Tags: Beware of pop quizzes
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 14 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS356
+Date: May 14, 2025
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Review: Honestly don't know how people are complaining about her course. Yes she like any other professor who reads slides. The course itself is brain dead easy. Just cruise by and get an A. Make sure to get good people in your group because that's a big chunk of your grade.
+Tags: Participation matters, Group projects
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 15 ---
+Quality: 5.0
+Difficulty: 2.0
+Course: CS696
+Date: May 12, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Review: The CS696 online course was a good experience with her. She was helpful during and after the exam. The exams are usually on ProctorU, which can make them tricky due to technical issues. But she is online during the exam and will help if there is a problem. Overall, it is a good course to consider.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 16 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: May 9, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: She is knowledgeable and understands the material she teaches. The class includes group projects and quizzes, and the assignments and projects are fairly easy as long as you stay on top of the material. In total, the class is fine.
+Tags: Extra credit, Group projects, Beware of pop quizzes
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 17 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS356
+Date: May 6, 2025
+For Credit: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Honestly just a horrible professor, and I also had a rating removed. Literally just reads off slides, and punishes you for not attending class by assigning in class quizzes. Why would I attend the class when I can read off the slides myself?
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 18 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS656
+Date: May 4, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: She is knowledgeable and caring. The review session before the final was especially helpful. My only issue was the fully asynchronous format of the class and limited time office hours. Otherwise, good professor!
+Tags: Caring, Respected
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 19 ---
+Quality: 2.0
+Difficulty: 1.0
+Course: CS356
+Date: May 3, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Review: Generic slide reader. Calls on students randomly in class to answer questions to topics she hasn't introduced yet, but when you give a answer she says "what else?" as if we are supposed to know (like the whole point is that we are sitting in lecture to learn). She has a "i'm right and you're wrong" attitude which makes sitting in lectures a drag.
+Tags: Beware of pop quizzes, Lecture heavy, Graded by few things
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 20 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Apr 24, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: I'm currently taking the CS696 online class with Professor Berenjian. I enjoy the course content—it's both engaging and informative. She's also thoughtful and supportive. I do feel the number of office hours is a bit limited though.
+Tags: Group projects, Caring, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 21 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Apr 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: She is very knowledgeable about the course material.
+Tags: Amazing lectures, Clear grading criteria
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 22 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: Apr 8, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: She is very professional and knowledgable for this course. Highly recommend her.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 23 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Apr 1, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: She is very knowledgable for this course and on time for replying emails, ...
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 24 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS356
+Date: Mar 26, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Class is fine
+Tags: Group projects, Beware of pop quizzes
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 25 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Mar 26, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: She is pretty good for this course. Just like the class!
+Tags: Extra credit, Group projects, Beware of pop quizzes
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 26 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 19, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: She has deep knowledge of the course and answers the questions very well. Great professor!
+Tags: Respected
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 27 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Feb 19, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Really good professor for cs356. She explains everything with her deep knowledge and is very supportive.
+Tags: Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 28 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Feb 13, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: Professor Berenjian is very respectful. She is caring and very supportive.
+Tags: Caring, Respected
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 29 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Feb 10, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: I think she is the best choice for teaching CS356. Her deep knowledge helps to understand the course material very well.
+Tags: Group projects, Respected, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 30 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Jan 29, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Audit/No Grade
+Textbook: Yes
+Online Class: Yes
+Review: Great Professor! She has deep knowledge about the course!
+Tags: Tough grader, Extra credit, Clear grading criteria
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 31 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS356
+Date: Jan 11, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: The professor is very professional and speaks with a genuine interest in subject matter.
+Tags: Group projects, Amazing lectures, Respected
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 32 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Jan 3, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: She is great. Thanks for the semester.
+Tags: Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 33 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS656
+Date: Dec 27, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: She is truly a great professor. I experience really amazing lectures at her class. Also, she cares a lot about the students and supports them .
+Tags: Group projects, Amazing lectures, Caring
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 34 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Dec 26, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: I think she is an amazing lecturer but she's a little tough , However, if she presents a course again that I can take, I will definitely take.
+Tags: Participation matters, Group projects, Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 35 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Dec 25, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: Professor Berenjian is an excellent teacher who explains concepts clearly and keeps the class engaging. She's very organized and always makes sure students are on track. Even though the course was challenging, I learned a lot and appreciated her support throughout. Highly recommend her for CS356!
+Tags: Amazing lectures, Respected, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 36 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 25, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Professor Berenjian is a fantastic teacher for the Networking course. She explains things clearly, keeps the class engaging and is great at managing the classroom.
+Tags: Participation matters, Amazing lectures, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 37 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: I think she is perfect she is knowledgeable about the course, she cares about students a lot and if she present another course that I can take, i will take it with her. Definitely take it.
+Tags: Extra credit, Amazing lectures, Clear grading criteria
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 38 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: I really enjoyed taking CS356 with her. She explains everything clearly and made the material easy to understand. She cares about the students alot
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 39 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: She is a good professor and a fair grader.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 40 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Dec 23, 2024
+For Credit: Yes
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Had a great experience with her class. Clear materials, great explanations and fair grades
+Tags: Participation matters, Extra credit, Respected
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 41 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS696
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Review: Great professor who really knows her stuff and puts in a lot of effort to help students succeed. The bad reviews seem to come from people who didn't put in the effort or struggled with the material. If you stay on top of the coursework and ask questions, you'll be fine and actually learn a lot!
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 42 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS696
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: Although the course was tough and challenging, the professor was ready to help. This course has weekly discussion, midterm, final and you have to record a presentation.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 43 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: The class was great. Had a good experience with her teaching style and fair gradings.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 44 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS696
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: N/A
+Online Class: Yes
+Review: Waste of money and time. You are given so much reading materials, you are expected to memorize, then gives you exams that are 7 and 9 questions. Exam reviews are not reviews and tells everyone read everything and expect everything but will not give any guidelines to what would be on the exams. You cannot review the exams to see what you did wrong.
+Tags: Tough grader, Get ready to read, Graded by few things
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 45 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: Honestly, this was a tough course, but the professor made it so much easier to handle. Her explanations were super clear, and she was always there to help if you had questions. Just stay on top of the material, and you'll do fine. The grading was fine.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 46 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: She put a lot of effort into teaching this course, and it shows. The course is definitely challenging, but if you keep up with the materials, you'll do just fine
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 47 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: I really enjoyed taking CS656 with this professor and would highly recommend it to anyone. The class is definitely challenging and requires a lot of effort and participation, but it's worth it.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 48 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: I had a pleasant experience with CS 696. The course content was engaging and insightful, and I learned much that I can apply in my field.
+Tags: Inspirational
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 49 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Dec 23, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Review: She is great with the course. The course materials are great, and she is knowledgable.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 50 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Dec 19, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Review: She is the best one for teaching this course. She is very knowledgable about Networking and know how to teach and manage the class.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 51 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Dec 13, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: She is a very good professor and is very knowledgable about CS696.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 52 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 6, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Audit/No Grade
+Textbook: Yes
+Review: I just audit her class for Networking. She is amazing for Networking class.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 53 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Dec 4, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: If you want to lear about Networking, she is the one!!
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 54 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS696
+Date: Dec 1, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: Good professor.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 55 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: Nov 26, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: If you want to learn about networks, you should take her class. Rich contents, great lectures, and her knowledge of networking makes her class amazing. Group assignments will help you a lot to better understand about networking. Totally like her class.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 56 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Nov 17, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Professor Berenjian is a great teacher! She really knows her stuff and explains things in a way that's easy to understand. She's always willing to help and genuinely cares about her students. Definitely recommend taking her class!
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 57 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 15, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: She is really good at this subject. Highly recommend her.
+Tags: Participation matters, Amazing lectures, Inspirational
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 58 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS356
+Date: Nov 15, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: I highly recommend this class to anyone who wants to take it. She knows about the subject very well.
+Tags: Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 59 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Nov 11, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: I like this class so much. You learn a lot in each module. You will have midterm, final and one online presentation.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 60 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Nov 11, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: I highly recommend her for CS356.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 61 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS696
+Date: Nov 10, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: I took CS696 online class with her. The modules were good including supporting materials, videos, … I recommend this course.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 62 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Nov 7, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Professor Berenjian is a very good teacher who genuinely cares about her students' learning. Her ability to simplify complex concepts and make them understandable is great.
+Tags: Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 63 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Nov 5, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Everything you need to know about networking is here. She is nice and knowledgeable.
+Tags: Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 64 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: Nov 1, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: She prepared you well to get all the knowledge you need for networking. Very good professor.
+Tags: Group projects, Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 65 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Nov 1, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: She teaches in a way that is understandable for all of us. Really better than the previous professor for this course .
+Tags: Amazing lectures, Caring, Respected
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 66 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: Oct 28, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: She is the best thing happened for CS656. Love love the class!
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 67 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS696
+Date: Oct 24, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: You will learn about network devices for security, firewall, … in details. The professor is nice and knowledgeable.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 68 ---
+Quality: 4.0
+Difficulty: 2.0
+Course: CS356
+Date: Oct 22, 2024
+Would Take Again: Yes
+Grade: Not sure yet
+Review: So far the course has been a breeze. 60% of your grade is group assignments. So make sure to get a really good group in the beginning of the course. Midterm was straight out the text book. So overall, it's a pretty easy A tbh.
+Tags: Group projects
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 69 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Oct 22, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Good professor
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 70 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS656
+Date: Oct 18, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Very informative professor. The best one for CS656
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 71 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Oct 12, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: Very informative class. Highly recommend it.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 2
+
+--- Review 72 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS696
+Date: Oct 8, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: It is a very good and informative class.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 73 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Oct 6, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: She is good.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 74 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS356
+Date: Oct 4, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: I am happy to take CS356 with her. She is really knowledgable of this course, and helps and supports the students a lot.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 75 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Sep 30, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: I take CS696, network management and security class with her and it is really going well. You learn a lot about the cisco devices like routers, switches, … and the configurations. I really enjoy her class.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 76 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS356
+Date: Sep 27, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: I was taking CS 356 with her. She clearly explains everything, with examples , … Assignments are group assignments, and are good practice for the course.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 77 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS696
+Date: Sep 24, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: I pretty much like this class. The lecture is designed very well and you will learn a lot about the Network Security.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 78 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: Sep 18, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: The professor knows the material. Very good class and lecture
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 79 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS656
+Date: Aug 6, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: The format of this class was terrible. Semester long group project needing to record 2 15-30 minute long Youtube videos for each project. All of the material comes from the textbook, including the questions for the midterm and final. There are "lectures" in the form of weird AI voiceover videos but everything else is material from another college.
+Tags: Group projects, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 80 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS656
+Date: May 8, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Attendance is not mandatory, but it is better to attend every lecture, assignments are group projects and exams are mostly based on the interactive exercises, pretty easy class.
+Tags: Get ready to read, Participation matters, Group projects
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 81 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: May 8, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Read the books, follows the materials then it's all good! She is good with this topic.
+Tags: Get ready to read, Group projects, Respected
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 82 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS656
+Date: Mar 18, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: She is perfect. She teaches everything you need very well and is trying her best for you to learn the mater. I love her and her class.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 83 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS696
+Date: Feb 1, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Review: The professor gave very hard time unable to understand anything interesting she expected 100% from students but delivering was not at all up to the mark. You may lead to difficulties and low grades even with diligent effort. The professor tends to deviate from her stated expectations and appears uncertain about her own teaching approach.
+Tags: Tough grader, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 84 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS696
+Date: Feb 1, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Review: Was a waste of time and money. No proper teaching very racist and rough attitude towards students. Not even good advice and manners to talk when asking for questions. One thing to tell if you want to learn and value your hard-earned money avoid her else you will go through PAIN.
+Tags: Tough grader
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 85 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS696
+Date: Jan 28, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Review: Syllabus does not match up with coursework/material that is taught. Extra quizes and projects that are not listed in the syllabus. We did a Java project and group presentations however there was nothing about that in the syllabus. The exams are all open ended and she has no grading criteria/rubric. Grade is based on her opinion and length.
+Tags: Tough grader
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 86 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS656
+Date: Jan 19, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Review: Took her in person, which from the looks of it was a much better experience than online. She just reads the slides, and from time to time she adds more substance to them; could do better. She's pretty nice, I just watched the Jim Kurose videos on YouTube to ace the exams.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 87 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS656
+Date: Jan 10, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Review: Avoid this professor; she uses 'self-directed learning' to justify reliance on free online materials. The professor failed to meet even the most basic expectations, with minimal to no active participation throughout the course - for example, using AI to write email responses to students. This course was a complete waste of time and money.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 88 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS656
+Date: Dec 22, 2023
+Attendance: Not Mandatory
+Grade: C
+Textbook: Yes
+Online Class: Yes
+Review: Everything was from UMass and Kurose's Networking textbook. This professor never gave any clear guidance and was hard to get in contact with. When people in the class complained she said it was a "self-guided course". Spent 4000$+ to use free lectures and text from UMass.What a joke. I would love to be a NJIT professor and get paid to do nothing.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 89 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS656
+Date: Dec 22, 2023
+Attendance: Not Mandatory
+Textbook: N/A
+Review: Good
+Tags: Get ready to read
+Thumbs Up: 0
+Thumbs Down: 1

@@ -1,0 +1,1688 @@
+=== OVERALL ===
+Professor: Bassel Arafeh
+Overall Quality: 1.8/5 (based on 119 ratings)
+Would Take Again: 21%
+Level of Difficulty: 3.8
+Rating Distribution: Awesome (5): 15 | Great (4): 3 | Good (3): 7 | OK (2): 13 | Awful (1): 81
+
+=== REVIEWS ===
+--- Review 1 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: May 4, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Review: Honestly, one of the most frustrating classes I've ever taken. It constantly felt like questions weren't really being answered. Lectures are basically a Lil Pump concert, just straight mumbling. I'm not even exaggerating when I say this class pushed me to switch my major,
+Tags: Get ready to read, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 2 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS280
+Date: Feb 20, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Review: Very easy to fall asleep in his class and less than 1/2 of people show up after 3 weeks. Slides are on canvas and vocareum alone deserves 1-2 stars.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 3 ---
+Quality: 2.0
+Difficulty: 4.0
+Course: CS280
+Date: Jan 28, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Review: I mean the reviews speak for themselves.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 4 ---
+Quality: 2.0
+Difficulty: 4.0
+Course: CS280
+Date: Jan 5, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: Professor Bassel is not a rude person however he may come off that way. He is not the best professor/lecturer and most people dont show up to class. For the midterm and final, if you read the slides you should easily be able to pull off a 60% or higher. His PA's are long and time consuming. Some RA's take a lot of time as well. The class was okay.
+Tags: Clear grading criteria, Lecture heavy, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 5 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS280
+Date: Dec 22, 2025
+Would Take Again: Yes
+Grade: B+
+Review: great sense of humor, vocareum is in my nightmares now
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 6 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 21, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Review: he'll nahhh
+Tags: Tough grader, Get ready to read, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 7 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 19, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: His lectures are very monotonous and wordy. I sat in the front and tried to take notes and pay attention, but it's not a very good use of your time. Students usually just seem to struggle to study everything on their own. If there is ever another professor for cs280, take them instead. The autograded assignments in Vocareum are also annoying.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 8 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS280
+Date: Nov 8, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: When I first looked at a snippet of code I thought "Oh it's just a piece of code" but when I stepped into my first lecture with Professor Arafeh, I gained severe Enlightenment. Every word of his speech eminates some sort of "aura" as they say nowadays. Arafeh has truly made me a better coder and has shown what it's like to be an exceptional teacher
+Tags: Amazing lectures, Inspirational, Hilarious
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 9 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Oct 22, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Review: You can skip class, read the slides, and have a better experience than being in class. He says on day 1 that the class is not a programming course, yet every assignment is a programming assignment rather than the actual exam material of "programming concepts." The exams are filled with niche material from the slides, so it's a lot of memorization.
+Tags: Get ready to read
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 10 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Jun 7, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Review: He teaches by mumbling over slides and doesn't explain well. Had to drop him because I knew I was not going to pass. I took Kapleau in the Summer because he was only available to teach during that session, and if I didn't, I would have to retake Bassel. Even if you have to risk your summer for your grade, TAKE KAPLEAU.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 11 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: May 22, 2025
+For Credit: Yes
+Review: Horrible person. He doesn't know how to teach, and just rambles during lectures. Depending on your TA, you might learn during recitation, but even then, the assignments are crazy. None of the material prepares you for the PA's, and while some of the RA's are okay, the midterm/final contain material never discussed. Kapleau's the better option.
+Tags: Lots of homework, Test heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 12 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: May 17, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Review: I could give a list of reasons not to take this professor but for some reason he is not only one of the only professors for the course but he is the coordinator. So for those forced to take him. Know he is not only difficult to work with as a student. But during the final exam he argued with the proctor about a question he made wrong. Good Luck.
+Tags: Tough grader
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 13 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: May 2, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: Yes
+Review: Professor Bassel is an extremely disappointing professor. He reads off of slides and gives incredibly monotone and unhelpful lectures. Class time does not feel fulfilling whatsoever, so not attending class would change nothing. PAs can be long, and you will need to study greatly on your own to do well in the class.
+Tags: Get ready to read, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 14 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Apr 28, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Review: Don't go to his class. He reads off of outdated slides. PA's are extremely time consuming and not hard to understand but can be confusing. Don't expect much from him as a professor.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 15 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Apr 14, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: Please be advised, only take this professor if you hate yourself and want to get picked on. Lectures are not useful at all (only use them for the midterm/final). Regarding the PA's and RA, recommended to do them ahead of time to get it over with.
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 16 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS280
+Date: Apr 14, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Review: Throughout my life I have never had or even heard of such a miserable professor. Bassel is clearly not passionate about what he's teaching and when I say he just reads off the slides I truly mean it. Many people say a professor "reads off the slides" but what they really mean is "I found them boring" Bassel really just reads the slides to you
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 17 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Feb 20, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Review: Do not bother showing up to class, just read the slides at home. I do not know how they allow someone like that to teach.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 18 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Feb 3, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: Terrible, reads like an actual android, don't go to class you're better off praying to pass.
+Tags: Tough grader, Get ready to read, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 19 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Jan 23, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Review: Don't be scared, yes he is a terrible professor, but all you have to do is to start on the assignments as early as possible, especially the PAs. Don't bother showing up to his lectures, they are literally useless.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 20 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 29, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Review: Please avoid if you can. No one goes to his lectures past the first 1-2. No one understands anything he says. He is a terrible lecturer. RAs are fine. PAs are a beast if you don't know C++ in advance. He says it's not a C++ course but it really is. Exams heavily test you on C++. You need to study a lot for exams (don't forget to do practice exams)
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 21 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS280
+Date: Dec 18, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Review: The lectures were boring, but the homework assignments were straightforward and clear. There are also three (PAs), which can be challenging. However, when it comes to the midterm and final exams, you must put in the effort to study. The professor might curve the grades if the class performs poorly, but that largely depends on the overall results.
+Tags: Clear grading criteria
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 22 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS280
+Date: Dec 18, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Review: Don't show up to lecture. Teach yourself the material, do well on the projects, fail the tests, and you'll scrape a B.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 23 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 18, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Review: this dude takes 3 weeks to answer students emails. if you have a question regarding the assignments that take close to like 30 hours, he will just tell you to read the slides. attempting to decipher his instructions alone takes longer than many other classes assignments. the class is difficult regardless of the prof, but he tries to make it harder
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 24 ---
+Quality: 2.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 16, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: N/A
+Review: PAs are intense; you definitely need the two weeks to work on it. Exams are hard but practice exam helps. RAs aren't so bad, usually finished them in under an hour or so. Definitely study C++ before taking this course. Good luck 😭
+Tags: Get ready to read, Lots of homework, Test heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 25 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 14, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Review: The good reviews on here are all satire, don't take him if you want to learn. Don't really have a single good thing to say about him. He's lazy and waits until less than a week to update given files because there's mistakes. Avoid if possible and if it's not possible (like for me), good luck.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 26 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 10, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Avoid if possible!
+Tags: Clear grading criteria, Graded by few things
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 27 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 10, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Review: He's certainly one of the professors at NJIT. Don't take if you're expecting to learn anything, but he's not a bad option if you don't feel like showing up to the lectures. Just read the slides on your own time, and turn in the projects on time.
+Tags: Graded by few things
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 28 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Oct 25, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Review: Never attended his lectures cause they were useless, just go through the slides on your own.
+Tags: Lots of homework, Lecture heavy, Test heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 29 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS280
+Date: Oct 25, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: he is too old to teach this course
+Tags: Lots of homework, Test heavy, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 30 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Oct 21, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Review: Avoid this professor at all costs.
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 31 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS280
+Date: Sep 4, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: bruh he's so good idk what u guys are talking about
+Tags: Inspirational, Caring, Respected
+Thumbs Up: 0
+Thumbs Down: 5
+
+--- Review 32 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Sep 3, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Review: Terrible professor that just reads off the slides and doesn't really teach you a thing. Make sure you have C++ knowledge prior coming to this class because other then the practice assignments from RA, that's the only practice you're going to get...Would NOT take this professor again if I had another choice.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 33 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS280
+Date: May 20, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Simple course in terms of programming. The assignments are easy but the exams seem to be about completely unrelated content. I got a 68 on the midterm, a 74 on the final, but got 100 on all the assignments, which was enough for an A.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 34 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS280
+Date: May 10, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Probably the only class where you can skip lectures after attending the first one. Just do the PA's and RA's and you'll guarantee an A . Just know that you won't learn nothing.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 35 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: May 8, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Terrible professor. Please njit, stop letting this guy teach
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 36 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS280
+Date: May 5, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Review: Bassel my beloved. Reads directly off the slides for his lectures so you're better off reading them at home. You get two weeks to complete the PAs, take all the time you get. RAs are weekly so get them out of the way asap. Midterm and Final are similar to the practice exams.
+Tags: Get ready to read, Clear grading criteria
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 37 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS280
+Date: May 5, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Review: Don't bother going to Dr. Bassel's lectures. He just reads slides in a broken accent. You're better off just learning the material yourself. The exams are not difficult, the real challenge of this course is the amount of time you will devote to doing the projects. C++ knowledge is recommended and this course doesn't even prepare you for CS288. GL
+Tags: Clear grading criteria, Lots of homework, Accessible outside class
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 38 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS280
+Date: May 4, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Review: Don't bother with going to class, it's just someone reading off of slides the whole class. Self-study for the midterm and final and do every assignment (there's only one per week) and you'll pass easily.
+Tags: Clear grading criteria, Test heavy, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 39 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS280
+Date: May 3, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Ngl most of these ratings seem pretty skewed. Basically Lectures and Labs are mostly unrelated, and there are 3 very in-depth projects which relate to both. Projects are rigorous, but are rewarding. Exams are based on the Lectures, study the slides you are fine. He is a generic read off slides professor, but not a true 1 star imo. Rip Gerard :'(
+Tags: Clear grading criteria, Lecture heavy, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 2
+
+--- Review 40 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS280
+Date: May 3, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Review: Learn c++ before coming to this class. The PA's may seem intimidating at first, but they will be easy once you start doing them. The lectures are 100% useless, so don't even show up to class. Bassel is not a good lecturer but the course work is easy. Exams are hard to do well on, so do well on all the other assignments
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 41 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: May 2, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Get 100's on the PA's and RA's and you'll be able to get around a B, don't bother going to lectures or recitations and just self learn the material
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 42 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS280
+Date: May 1, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Lectures are not very helpful, Bassel just reads really slowly off of the slides. The course overall though is very easy content wise and easy to self study off of the slides posted on Canvas, just stay on top of the three PA assignments.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 43 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Apr 12, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Review: I would say to avoid him at all costs for CS280, but unfortunately, he's the only professor for 280. good luck
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 44 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS280
+Date: Apr 11, 2024
+Attendance: Not Mandatory
+Grade: A
+Review: easy class, but lectures are pointless
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 45 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS280
+Date: Apr 11, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Review: Dr. Professor Arafeh is one of the brightest people in his field across the USA. His tireless work educating students has been praised by the majority of students I have spoken to. His cutting-edge curriculum has received numerous awards from some of our countries finest institutions, which is why I was able to achieve an A+ in this course easily.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 6
+
+--- Review 46 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Mar 21, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: Yes
+Review: dlck head
+Tags: Tough grader, Lecture heavy, Graded by few things
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 47 ---
+Quality: 2.0
+Difficulty: 4.0
+Course: CS280
+Date: Feb 29, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Review: 
+Tags: Tough grader, Lots of homework, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 48 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Feb 8, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Review: this guy really needs to stop being a professor... everyone should mass report him to the dean of students
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 49 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Jan 19, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Literally bots his own reviews to make it seem better. I would rather edgemax for 50 years than take this dull class all over again. Coding is not the problem here, its the curriculum and the professor. Get this guy out of here!
+Tags: Lots of homework, Hilarious, Test heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 50 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS280
+Date: Jan 7, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: legit the greatest professor in all of NJIT, possibly even the whole United States. Actually probably the whole world. perhaps even the entire galaxy. Mans is the Thanos of the professional teaching world
+Tags: Hilarious, Respected, Online savvy
+Thumbs Up: 0
+Thumbs Down: 5
+
+--- Review 51 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Jan 3, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Review: Very rude professor who is difficult to work with. Went into office hours once and was treated with attitude and anger.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 52 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Jan 1, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Audit/No Grade
+Textbook: N/A
+Review: Tell me you dont know about coding without telling me you dont know about coding.
+Tags: Group projects, Amazing lectures, Caring
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 53 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 25, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Review: never showed up once, best advice is get 20/20's on all 3 PA's and u can comfortable worry about the not failing and passing the class with a C. The Exam's really don't have a correlation to the material he gives u. Final Exam had every lack lustered on the Java questions as this is a C++ course, not Java.
+Tags: Clear grading criteria, Lots of homework, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 54 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS280
+Date: Dec 22, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: super easy if you know c++ beforehand. however the lectures/exams and the homework are completely and totally unrelated from each other. also, the curriculum is straight out of the 80s and super outdated, you are not going to learn practical skills in this class
+Tags: Lots of homework
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 55 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 22, 2023
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Review: You wont learn much and make sure you start the projects immediately . They are extremely time consuming and I failed a separate class because of the 20+ hours per week I put into trying to even know how to do a project. Projects are very hard, I recommend you make friends in class to try to complete it.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 56 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 19, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Review: His class is so utterly disconnected I'm genuinely unsure if he even knows how to program in the first place. The lectures are almost completely irrelevant to all the labs and assignments except for exams, vice versa for the assignments. What code is present is extremely poorly written and borderline unusable. Utterly useless as a teacher OR coder.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 57 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 18, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Audit/No Grade
+Textbook: N/A
+Review: waste of time ion wasting 20 hours a week for a 3 credit course. Prof got da sweet jays tho (we do some eding ufm?)
+Tags: Group projects, Hilarious, Online savvy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 58 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 17, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Review: How is he still here? Don't even bother showing up to his classes, self-teach the material. Only reads off PowerPoint and explanations are unclear. Everything is auto-graded on Vocareum. Exams are a hit or a miss, the best way to study is to study the previous exams. The TA was pretty useless too, but that's common for CS classes.
+Tags: Lecture heavy, Test heavy, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 59 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 17, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Don't bother showing up to any classes. Terrible professor that does not care about teaching. Projects are terrible.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 60 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 7, 2023
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Review: Just waste of time !!!
+Tags: Get ready to read, Hilarious, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 61 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 4, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: Waste of time. Avoid at all cost and take winter or summer course.
+Tags: Tough grader
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 62 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Nov 29, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: His code is so bad that even professional developers in the field cringe at it. He has been carried all his way through research and barely knows anything about CS. Have a question? refer to a book. This class is do-able if you poor a lot of hours into it. Lectures are useless and has nothing to do with homework. Boring. keep yourself safe
+Tags: Get ready to read, Inspirational, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 63 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Nov 28, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: He teaches like a zombie, don't bother with his lectures.
+Tags: Get ready to read
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 64 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Nov 6, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Review: good professor
+Tags: Amazing lectures, Hilarious, Online savvy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 65 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS280
+Date: Oct 31, 2023
+Attendance: Not Mandatory
+Textbook: N/A
+Review: While Professor Arafeh is a very (very) subpar lecturer, the coursework is fairly doable if you just read the slides on your own. There are three projects that are autograded, so if you do well on those, then you just have to make sure to do at least decent on the midterm and final (which you can study for by looking over the slides)
+Tags: Clear grading criteria, Lots of homework, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 66 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Oct 23, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: I saw he's inspirational in the way that I am in awe someone so technologically primitive can teach a computer science class
+Tags: Inspirational
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 67 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Oct 3, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: This man bassel is fighting his own war and he has no rules. No boundaries.He doesn't flinch at torture, human trafficking, or genocide.He's not loyal to a flag or country or any set of ideals.He trades blood for money. He's your new best friend. You don't want to know what it's cost already to put you next to him. It will cost a piece of yourself.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 68 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Sep 12, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Review: His lectures are just him mumbling through the slides, but you will 100% need to retain that info for future classes. Recitation felt like an entirely different class unrelated to lectures, mostly because its many students first introduction to C++. Read the slides at home at your own pace and go to every recitation. Take someone else if you can.
+Tags: Get ready to read
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 69 ---
+Quality: 4.0
+Difficulty: 2.0
+Course: CS280
+Date: May 26, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: He's aight, He has strict deadlines and harsh reparations if you miss them. He reads lecture slides during the lecture and teaches C++ during recitation. Everyone (including him) say that he doesn't teach C++ but he does. His class is mostly graded on 9 assignments (easy) and 3 projects (more difficult). The exam scores don't matter too much.
+Tags: Clear grading criteria
+Thumbs Up: 0
+Thumbs Down: 11
+
+--- Review 70 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS280
+Date: May 18, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Review: Definitely one of the worst professors here at NJIT. Don't bother going to lecture. The midterm/final were completely based off the textbook (all MCQ and T/F). Give yourself some time to do the PAs and RAs (should be easy 100). You only need like a 77 average on exams before curve for an A (although my curve was around 4 points so could be lower).
+Tags: Get ready to read, Clear grading criteria, Graded by few things
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 71 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS280
+Date: May 9, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: Bassel is a computer science deity. His divine nature is reflected in his unparalleled mastery of programming languages and concepts. His understanding of computer science is so deep that he can explain even the most difficult concepts in a way that mere mortals can understand. He is so respected that every programmer in the world knows his name.
+Tags: Inspirational, Caring, Respected
+Thumbs Up: 1
+Thumbs Down: 4
+
+--- Review 72 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS280
+Date: May 7, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: Professor Bassel Arafeh is an amazing educator and communicator. He has a true passion for teaching and a talent for explaining complex concepts in a way that is easy to understand. His dedication to his students is remarkable, and he always goes above and beyond to ensure that they have the knowledge and skills they need to succeed.
+Tags: Amazing lectures, Inspirational, Caring
+Thumbs Up: 0
+Thumbs Down: 6
+
+--- Review 73 ---
+Quality: 5.0
+Difficulty: 2.0
+Course: CS280
+Date: May 6, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Review: Great professor. Assignments can be time-consuming, but he provides a lot of information and help so you can accomplish them. He gives you lecture slides, review slides, and practice questions for the exams. Just study that material for one day and it should be enough to get an an A. Grading scale is already generous and he curves as well.
+Tags: Clear grading criteria, Inspirational, Respected
+Thumbs Up: 0
+Thumbs Down: 5
+
+--- Review 74 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS280
+Date: Mar 3, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Review: Dr. Professor Arafeh is one of the brightest people in his field across the USA. His tireless work educating students has been praised by the majority of students I have spoken to. His cutting-edge curriculum has received numerous awards from some of our countries finest institutions, which is why I was able to achieve an A in this course easily.
+Tags: Amazing lectures, Respected
+Thumbs Up: 1
+Thumbs Down: 11
+
+--- Review 75 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS280
+Date: Feb 28, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Review: Professor Bassel is a godsend from the computer science gods. You will do doubt gain some of his godly power and become a master of c++ and programming language principles.
+Tags: Amazing lectures, Inspirational, Caring
+Thumbs Up: 1
+Thumbs Down: 6
+
+--- Review 76 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS280
+Date: Feb 15, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Review: One of the best professors at NJIT. His lectures are thought-provoking and very detailed.
+Tags: Amazing lectures, Inspirational, Caring
+Thumbs Up: 0
+Thumbs Down: 4
+
+--- Review 77 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Jan 21, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Review: I'm not really sure what he does as a professor - he doesn't teach well so a total of 4 people attend his class, he doesn't grade because vocareum does that for you. Overall, be ready to self study for this course - work in groups on the PAs and just memorize the powerpoints for the exams. And no point to going to any of his classes.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 78 ---
+Quality: 2.0
+Difficulty: 2.0
+Course: CS280
+Date: Jan 14, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Review: If possible, take CS280 over the summer with Kapleau if possible. Kapleau is much more instructive. Otherwise, my advice for CS280 is to only attend the labs, and skip lectures. You'll acquire practical skills during labs, but it's better to skip lectures because you can read the lecture slides on canvas on your own time and at your own pace
+Tags: Get ready to read, Lecture heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 79 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 27, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Review: Although it isn't the primary focus of the exams, you've got to learn C++11 on your own. There are 9 programming HWs and 3 projects that are all graded in Vocareum. Tackle assignments as soon as you get them. He reads off of his slides for the lectures, so I recommend cramming the review material/slides instead of attending the class.
+Tags: Tough grader, Get ready to read, Clear grading criteria
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 80 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 11, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Id rather get cancer than take this professor again, he's 84 and is quite literally only here for shts and giggles. Never answers emails, reads off slides and thats it. He took the past professors course projects literally made it harder for no reason and thats it, he's garbage ,his research is garbage, someone tell this geezer to retire.
+Tags: Tough grader, Lecture heavy, Graded by few things
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 81 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS280
+Date: Nov 26, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: No one understands bassel. He really is a good person and a good lecturer, all the haters are just bandwagoning. He's one of the best professors I've ever been blessed with taking, and I believe if you take him, you're life will change for the better. His way with words just touches my soul, it's like the voice of God speaking directly to me.
+Tags: Amazing lectures, Inspirational, Accessible outside class
+Thumbs Up: 0
+Thumbs Down: 3
+
+--- Review 82 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS280
+Date: Nov 22, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: If Bassel has a million fans, I am one of them. If Bassel has 5 fans, I am one of them. If Bassel has 1 fan, that one is me. If Bassel has no fans, I am no longer alive. If the world is against Bassel, I am against the entire world. Until my last breath, I will support Bassel.
+Tags: Online savvy
+Thumbs Up: 6
+Thumbs Down: 0
+
+--- Review 83 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Nov 19, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: Yes
+Review: He is by far the perfect embodiment of the incompetent nature of NJIT's CompSci program. He doesn't use his own original lesson plans; he uses the late Professor Ryan's old projects and just adds variables to them to the point where you are now doing almost double the work than was originally assigned 2 years ago, and his common exams are annoying.
+Tags: Tough grader, Get ready to read, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 84 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Nov 10, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: F
+Textbook: N/A
+Review: He is nice but all he really does is read off the slides and is not really useful when it comes to hw and test help. You really need to do most of the technical learning on your own, and the lectures are really boring as it is pretty much just him reading off the slides and you don't learn much, you just sit there
+Tags: Tough grader, Lecture heavy, Test heavy
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 85 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS280
+Date: Oct 14, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Incomplete
+Textbook: N/A
+Review: Arafeh is undoubtedly the best professor at NJIT. His lectures are some of the finest in the nation. He guides us all to perfection. Arafeh is very accessable and knowledgeable and personal. I am now a math major thanks to his wonderful insight. Please, if you have the chance, take Arafeh's class. It will change your perspective of life.
+Tags: Amazing lectures, Inspirational, Respected
+Thumbs Up: 2
+Thumbs Down: 3
+
+--- Review 86 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Sep 20, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: I don't even know where to begin. He's really good at making the entire class bored. You are essentially better off just studying by yourself.
+Tags: Tough grader, Test heavy, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 87 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS280
+Date: Sep 19, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Review: The only time you should go to class is when there is an exam, I went on the first day only and the days for the midterm and final. Study the book and make a study group to do the programming projects. This course literally serves no purpose for students, only thing to gain is C++ knowledge.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 88 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: May 15, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Review: Holy, i mean the hw's are pretty easy to do (they get harder towards the end of the semester), but the project really messes you up, but you are given two weeks for each of the projects. The lectures don't teach you anything with actual programming it's really all just theory, so you have to learn C++ on your own basically
+Tags: Tough grader, Lots of homework, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 89 ---
+Quality: 2.0
+Difficulty: 2.0
+Course: CS280
+Date: May 14, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Review: Cs280 with bassel is pretty easy, although the most "learning" I did was just by studying for his exams. No quizzes and his projects are difficult, but just have a study group and collaborate on projects in advance and ur fine. The exams are straight off the slides so just review the slides a lot! I had to basically memorize the slides to get an A.
+Tags: Lecture heavy
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 90 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: May 2, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: I really don't know what to say for this prof. I feel like he should have made all of the PAs more direct than just making every single lecture unnecessarily difficult. I really have no clue how i'm getting through this professor.
+Tags: Tough grader, Graded by few things
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 91 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Apr 29, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Review: Slide reader. Demonstrations VERY FEW and VERY VERY FAR between. Study on your own via slides, text, text questions, and TA office hours. Ask TAs or other Profs on how to do Vocareum HW on your IDE that has a DEBUGGER; Old School debugging works but use any advantage you can. Learn state diagraming on your own; Helps planning code. GL
+Tags: Get ready to read, Lots of homework, Graded by few things
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 92 ---
+Quality: 3.0
+Difficulty: 2.0
+Course: CS280
+Date: Apr 6, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Review: Problems regarding I have with the teacher is more with the class as there is not much learning value to obtain other than a couple c++ projects that are best done through self-learning. However, the prof does not make the class more difficult than it should be and should be a relative easy grade for anyone taking it.
+Tags: Clear grading criteria, Graded by few things
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 93 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Apr 5, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: Just reads off the slides. Literally just reads off of them. Lecture is useless, just read the book. Exams are based off of the powerpoints and the textbook. Programming assignments are doable but feel disconnected. You have no choice but to take him so have fun
+Tags: Get ready to read
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 94 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Mar 5, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: Absolutely terrible. Reads off slides during lecture and uses fear tactics that discourage students from working together on assignments. You will get flagged for plagiarism by vocareum if you even work together with anyone.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 95 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Feb 15, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Review: Honestly, one of the worsts professors I've ever taken. Sadly he's the only professor you have for this course. Send him a simple email, he'll respond (maybe), but if you have an issue regarding an assignment or anything else good luck getting a response back. Tests are just like any other class and the projects are extremely difficult.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 96 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Jan 6, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: Yes
+Review: Honestly, aside from his accent the lectures are just him reading off PowerPoint slides which even you can do at your own convenience. Be ready to do well on the project assignments and recitation assignments. He does not teach or help you so basically you are on your own. If you decide to take him be ready to teach yourself everything.
+Tags: Lots of homework, Get ready to read, Test heavy
+Thumbs Up: 3
+Thumbs Down: 1
+
+--- Review 97 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Jan 3, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: B
+Textbook: Yes
+Review: This professor is the worst professor ever. He literally sucks all the motivational right out of you. Beware. Do not take this professor if you value your sanity. Once again, he is the worst.
+Tags: Get ready to read, Tough grader
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 98 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 20, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: No
+Review: He is the only professor for this class, so you have no other option, reads the slides. sometimes gets mad when you ask him question about the assignment. His final and midterm are average just make sure you study, his PA assignments are hard if you don't know c++ you should learn before this class.
+Tags: Respected, Hilarious, Caring
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 99 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 17, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: B+
+Textbook: No
+Review: I love computer science, but this professor sucked all the love I had for it right out of me. Prof. Bassel just reads off of his powerpoints for his lectures, you're better off just staying home and reading them yourself. He's also not really any help if you have any questions... you're better off asking your classmates.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 100 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Nov 27, 2021
+For Credit: Yes
+Would Take Again: No
+Textbook: No
+Review: Worst professor I've ever had, he lectures in such broken English that nobody can understand him. Luckily a TA taught my section half the time who could actually teach, but I can't say the same for students in other sections. He is pretty much no use outside of class and won't help at all if you have computer problems during online exams.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 101 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: May 24, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: F
+Textbook: Yes
+Review: I took this course with this Professor two times and failed both times. He was not considerate of COVID and did not attempt to assist students with issues. His "lectures" are jokes, as they consist of him drawing on a PowerPoint with poor explanations of the topics. Make sure you know C++ and regular expressions before you even take this course.
+Tags: Lots of homework, Get ready to read, Tough grader
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 102 ---
+Quality: 2.0
+Difficulty: 4.0
+Course: CS280
+Date: May 15, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: Lectures are very heavy and there are weekly assignments and three big projects. I'd advise that you start the smaller assignments ("Recitation Assignments" or RAs) at least 1-2 days before they're due and the PAs at least a week before. Otherwise, good luck getting even 50%. The concepts are understandable but very difficult to implement.
+Tags: Get ready to read, Lecture heavy
+Thumbs Up: 3
+Thumbs Down: 1
+
+--- Review 103 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS280
+Date: May 12, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: A+
+Textbook: Yes
+Review: There are two parts to this class, the projects and the exams. If you do not know C++, the projects might be hard for you to complete. Just make sure you use a good IDE with a debugger and you can push through. For the exams, he reads of slides ALMOST word for word. Just record the lectures and watch at 2.0x speed later and you'll be good.
+Tags: Get ready to read, Lecture heavy
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 104 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: May 1, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: Yes
+Online Class: Yes
+Review: ive never been so lost by another professor in my entire life. As an experienced programmer I thought Id get by knowing how bad he was based on the words of my friends. But boy was I wrong. worst professor
+Tags: Lots of homework, Skip class? You won't pass., Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 105 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Mar 13, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+Review: This guy is absolutely horrible. I had to take this course online and it is required, but honestly I don't think it would be better in person. He is completely lacking in teaching ability and does not communicate or interact with students. He is not open to taking questions while lecturing and reads from Powerpoint slides. Avoid this guy.
+Tags: Lots of homework, Tough grader
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 106 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS288
+Date: Feb 13, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+Review: No difference between him and a text to speech robot reading the slides. Guy has no business being a teacher.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 107 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Feb 11, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Review: Worst professor I've ever had. Didn't explain a single line of code, we never learned C++, expects us to only code in C++, and doesnt answer questions. Reads powerpoints verbatim. Take this review seriously -- you will not have a different experience. Spoken with well over a dozen students who agree.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 108 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS280
+Date: Jan 17, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: No
+Review: Best Professor I have ever taken at this school
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 3
+
+--- Review 109 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 28, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: B+
+Textbook: No
+Review: Reads off the slides during lectures, doesn't like taking questions mid-class. Doesn't teach you much C++, so you'll have to teach yourself and come in knowing some beforehand, especially for the first few assignments.. Homework and projects often had vague instructions or errors and would require asking a TA to clarify.
+Tags: Lots of homework
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 110 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS280
+Date: Dec 24, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Review: I get that it was his first semester teaching and I want to cut him some slack but unfortunately he does not deserve it. He was comically unprepared and incompetent. Make sure you know c++ before you get to this class. The lectures are useless. I think he was nice in the end and gave a slight curve but the experience was still unpleasant.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 111 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS280
+Date: Dec 21, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: It was his first semester and he used the materials of the old professor so the projects/slides are likely to change. I wish he was more responsive to the online section of the converged format. Some people complained about having to self-teach C++, but as long as you know Java and how to google you'll be fine
+Tags: 
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 112 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 20, 2020
+For Credit: Yes
+Would Take Again: No
+Grade: A
+Textbook: Yes
+Review: He's really not that bad. It was his first semester, obviously it isn't going to be amazing. Additionally due to COVID, everything is already in disarray. He can be hard to understand at times, and hard to get information from if you ask questions. The grading is very lenient though, and he prepares study guides for the exams. What else do you want
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 113 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS280
+Date: Dec 19, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: Yes
+Review: His lectures were literally reading word for word off the lecture slides. Overall once you understood the programming assignments they werent that bad. However the assignment sheets that explained them werent always too clear and had to reread and ask so many questions. Midterm and final were based on book and slides, not terrible. Ive had worse
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 114 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS280
+Date: Dec 19, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: No
+Online Class: Yes
+Review: The professor was new and seems like he didnt know much about the material until a few weeks into the semester. Grades came late so you wouldnt know where you stand in the class but he would tell you if you emailed him and all of exams came straight from the slides.
+Tags: Lots of homework, Graded by few things
+Thumbs Up: 3
+Thumbs Down: 0
+
+--- Review 115 ---
+Quality: 5.0
+Difficulty: 2.0
+Course: CS280
+Date: Dec 19, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+Review: Dr. Professor Arafeh is one of the brightest people in his field across the USA. His tireless work educating students has been praised by the majority of students I have spoken to. His cutting-edge curriculum has received numerous awards from some of our countries finest institutions, which is why I was able to achieve an A in this course easily.
+Tags: Respected, Inspirational, Amazing lectures
+Thumbs Up: 2
+Thumbs Down: 6
+
+--- Review 116 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 19, 2020
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+Review: This class is required but it is done so horribly. If you don't know C++ you better learn fast. I highly suggest making a strong group of friends and starting the work together a week in advance. This weed out class is not a joke. The professor makes it harder than it needs to be. Absolute waste of time but required. Horrible professor .
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 117 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 19, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+Review: Honestly you may as well replace him with a text-to-speech bot and not even know the difference. Yes I too can read the slides I don't need you to read them verbatim for me. This man has no business teaching no matter how much "research" he ay be doing outside class. Unfortunately, he is the only prof for this class.
+Tags: Tough grader
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 118 ---
+Quality: 4.0
+Difficulty: 2.0
+Course: CS280
+Date: Dec 17, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Exam material comes straight out of the lecture power points. Projects were a bit lengthy but grading was comically lenient.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 5
+
+--- Review 119 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS280
+Date: Dec 3, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+Online Class: Yes
+Review: Project documentation is really bad, he never explains what he wants. It will take you forever to understand his documentation and half an hour to finish the actual project. Has many typos in his first documentation so has to change repeatedly.
+Tags: Lots of homework, Get ready to read
+Thumbs Up: 3
+Thumbs Down: 1

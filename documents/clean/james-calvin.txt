@@ -1,0 +1,708 @@
+=== OVERALL ===
+Professor: James Calvin
+Overall Quality: 2.5/5 (based on 55 ratings)
+Would Take Again: 40%
+Level of Difficulty: 3.4
+Rating Distribution: Awesome (5): 7 | Great (4): 7 | Good (3): 11 | OK (2): 12 | Awful (1): 18
+
+=== REVIEWS ===
+--- Review 1 ---
+Quality: 3.0
+Difficulty: 1.0
+Course: CS114
+Date: Apr 21, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: Quiet and mumbles but if you lock in you can understand what he's saying. Definitely knowledgable guy, I had a few conversations and he is willing to accept he is wrong if he ever is. Labs can replace your quiz grades so make sure you do them and check it with the TA cause you'll get questioned about it less than with prof. Open note/internet final
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 2 ---
+Quality: 2.0
+Difficulty: 4.0
+Course: CS114
+Date: Dec 23, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Review: He is an ok professor. He reads off the slides in a quiet voice. Quizzes are fine since they are open notes/internet. PS are difficult and take a lot of time, but a little helpful. Final was open notes/internet as well. He's not the greatest but you be fine if you do all the work. TA lowkey clutches with labs, so feel free to ask him.
+Tags: Lots of homework, Caring
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 3 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS114
+Date: Jun 6, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Review: One of the most distressing experiences I've had in school. I was falsely accused of cheating on the winter 2024 final with 13+ others, no evidence was ever shown. Clearing my name was emotionally and financially draining. Most students couldn't defend themselves. It made me question if I belonged here.
+Tags: Clear grading criteria
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 4 ---
+Quality: 2.0
+Difficulty: 1.0
+Course: CS337
+Date: May 18, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Review: Pretty easy class. Open notes, open internet exams, but make sure to use the textbook as a source. Very boring lectures, so I only showed up for exams. Could literally show up 2 minutes before the exam starts and he won't care. Grading is weird as some people got a curve and others didn't, even if they had the same exact grade. Good GPA booster
+Tags: Graded by few things
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 5 ---
+Quality: 5.0
+Difficulty: 2.0
+Course: CIS114
+Date: Apr 6, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: It's a pretty easy class if you know what you're doing. The quizzes are online with open notes and web.
+Tags: Get ready to read, Caring
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 6 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS337
+Date: Jan 8, 2025
+Would Take Again: Yes
+Grade: A+
+Review: I haven't show up once to class since the first day of class and final. It's probably the most least stressful course for elective. The material is hard to grasp and honestly have no clue what the class was about. It's hard to do good on labs and quizes but other than that it's an easy course.
+Tags: Clear grading criteria, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 7 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS114
+Date: May 5, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Professor Calvin reads off of the slideshow every class, making it very boring. The PS's are long and tedious but are necessary to attempt an A. Labs were of equal difficulty to the PS's. The quizzes were unexpectedly rather hard, but if you do the lab for the week he'll give you a 10/10. Final was difficult as well. Take Kapleau/CBE instead
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 8 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS337
+Date: May 3, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: If you're taking him for 337, skip the lectures and only show up on quiz days. On quiz days, he will give you the opportunity to work on a lab. If you do good on the lab you can skip out on the quiz. Quizzes are open internet, but they are still hard to do good on. The final is all the quizzes chained together.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 9 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS337
+Date: May 2, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: You basically only need to show up once a week for quizzes which are 70% of your grade. They are open internet and notes too. The problem is the notes are a disaster and super disorganized. It's one long PDF, and barely readable. It's hard to find helpful material. Lectures were pretty sleep inducing. Don't expect it to be as easy as it sounds.
+Tags: Clear grading criteria, Lecture heavy, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 10 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS337
+Date: Feb 11, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: Absolutely terrible. Joe Biden is easier to understand than this guy
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 11 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS114
+Date: May 26, 2023
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: He's a really nice guy. Lectures can be a bit boring at times, but he's really good when you have questions. The labs he does are also good. There's no midterm, so homework and quizzes are factored a lot in the final grade. Just don't skip class and do all the assignments, and you should be good. If you do have questions, don't hesitate to ask him.
+Tags: Clear grading criteria, Lots of homework, Caring
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 12 ---
+Quality: 4.0
+Difficulty: 4.0
+Course: CS114
+Date: May 12, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: You will be teaching yourself a lot and that is what adds to the difficulty of this course. But I will say there is a lot of value in the homework and labs he gives you. You will be exposed to many different types of problems and it will make you a more confident programmer. Not the best teacher, but he is patient and willing to answer questions.
+Tags: Clear grading criteria, Caring, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 13 ---
+Quality: 4.0
+Difficulty: 2.0
+Course: CS337
+Date: May 8, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: I honestly don't understand why this class gets such a bad rap. It's probably one of the least stressful CS classes I've ever taken. No homework or midterm. Just quizzes and a final, all of which are open notes and open internet. He drops the 3 lowest quizzes. I literally got an A by not studying even once and only came to class for quizzes.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 14 ---
+Quality: 2.0
+Difficulty: 5.0
+Course: CS114
+Date: May 6, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Review: He mostly reads off pdf but always answers questions/explains if asked. No midterm, only weekly hw, quizzes, and a final. Homeworks are kinda tricky and will take a lot of time. so be prepared. Quizzes are dummy hard but nothing TOO bad. Other than that, pretty accessible outside the class. On a side note, the TAs were useless.
+Tags: Lots of homework, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 15 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CIS114
+Date: Apr 5, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: This class was horrible. The content was not hard, but the quizzes and extremely difficult assignments made it that way. Also, don't even think about asking any of your friends in the class for help, because you will be sent to the dean of students for copying/cheating. DO NOT TAKE THE COURSE WITH HIM
+Tags: Beware of pop quizzes, Test heavy, Graded by few things
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 16 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS337
+Date: Jan 7, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: N/A
+Review: 10 quizzes and a final. It's really tough stuff to follow, but if you really want to learn, he is willing to dive into an explanation. When he provides code examples, they really help to understand so maybe ask for more of those. Otherwise, it'll be quite hard to solely listen. You only need a 20% avg on the quizzes and a 20% on the final to pass
+Tags: Extra credit, Lecture heavy, Graded by few things
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 17 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS114
+Date: Dec 20, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: He's a nice professor, just a bit boring. If you do the labs he'll give you 100 on the quizzes which is nice if you struggle with tight time constraints. He's ok at explaining the topics but gets better when you have questions and go to office hours. Most of the homeworks are not too bad but are complex enough to force you to learn the topics well.
+Tags: Get ready to read, Participation matters, Clear grading criteria
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 18 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CIS114
+Date: Dec 19, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: If you learn from examples and in-depth explanations, don't take this professor. There is a not many resources that he provides you, which includes a 200+ page powerpoint that vaguely relates to the textbook. Unlike other courses, you will not get credit for homework unless if it is 100% correct according to the autograding system on Vocareum.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 19 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CIS114
+Date: Nov 24, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Review: Im not gonna lie. He kind of lost the enthusiasm he has for class. He knows the information but it seems like he can't be bothered cuz people don't focus. Do the homeworks, do the labs (doing so skips the quizzes). No miderm but a final that's jus tlike the quizzes. Keep your head down and you'll make it. It's gonna suck, but so are the others.
+Tags: Get ready to read, Lots of homework, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 20 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS337
+Date: Sep 27, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: N/A
+Review: Makes zero effort to make the material digestible for students who may not be caught up on statistics. His "course material" that he provides is horribly organized and is just a 120 page pdf that is just problems with very little explanation to them. Students look completely disconnected during lecture; no zero engagement from them either.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 21 ---
+Quality: 2.0
+Difficulty: 4.0
+Course: CS114
+Date: May 4, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Review: His lectures are virtually useless, you'll need to use outside resources like the book since he essentially never actually displays the practical application of the theory he covers through code. Homework can be intensive but as long as you score consistently in there you can do great. No midterm, only a final which was open notes.
+Tags: Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 22 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CIS114
+Date: Apr 16, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: N/A
+Review: Need to pay more attention in his class and CA's is very much helpful. Quizzes are easy and most of them are related to the HW code you have prepared but you will have to modify it a bit. Even the final is the same as Quizzes, where you will your modifies quiz codes to get answers.
+Tags: Get ready to read, Lots of homework, Accessible outside class
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 23 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS114
+Date: Nov 24, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: Yes
+Review: Horrible at teaching concepts in an engaging way that isn't just reading off of slides quietly. Tells students to not use tutoring services.
+Tags: Get ready to read, Graded by few things, Lecture heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 24 ---
+Quality: 4.0
+Difficulty: 3.0
+Course: CS114
+Date: Nov 5, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Review: class is all theory, won't really learn much. However his assignments really force you to learn and do lots of googling.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 25 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS114
+Date: Nov 3, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: Yes
+Review: I've never taken a worse CS professor at NJIT. He mumbles during lectures, never elaborates, and assumes you know what he's talking about. Our whole class is lost, and he will discourage you from seeking outside help such as tutoring from ACM. Your grade is based heavily on weekly hw and quizzes. Form a study group, it's the only way you will pass.
+Tags: Lots of homework, Get ready to read
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 26 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS114
+Date: May 12, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+Review: (Synchronous Online Course) He is an alright professor. His lectures are kinda of boring but the information is very important for any CS major. You have 12 homework assignments, 12 quizzes, 3 of which are dropped, and 1 final exam. The final was 20 questions, 10 of which to edit homework code and the rest about running time. (No lockdown Browser)
+Tags: Skip class? You won't pass., Clear grading criteria
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 27 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CS114
+Date: May 11, 2021
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Prof. Calvin is a pretty boring teacher overall. The class only has a final exam, quizzes and homework. The homework can be tough but it's doable if you put in the time. He drops the 3 lowest quiz grades so that's a plus. The final is half changing your hw code and half time complexity/ data structure questions. The final is just like the quizzes.
+Tags: Lots of homework, Lecture heavy
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 28 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CIS114
+Date: Dec 6, 2020
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Answered yes to whether I'd take him again but it really depends on who else is available. Calvin doesn't need to avoided at all costs. Not the greatest lecturer. The assignments are hard with a few exceptions. The difficulty is a good thing in this class as it really forces you to learn data structures. He made me much better at problem solving.
+Tags: Lots of homework, Get ready to read, Clear grading criteria
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 29 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS114
+Date: Apr 27, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: I feel he's pretty decent teacher. He might be a bit boring but you really do actually learn about the topic in full by the time you finish his class. He replies quite quickly to questions and really is there to help.
+Tags: Lots of homework, Beware of pop quizzes, Accessible outside class
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 30 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS114
+Date: Jan 22, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Professor Calvin is a cool guy. Like the guys said here, he tries his best to make you understand concepts of the class which is super hard. Honestly I didn't learn anything straight from him. But his exercises are really good and if you put the effort to understand the material on your own you will be fine.
+Tags: Clear grading criteria, Caring
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 31 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS114
+Date: Dec 25, 2015
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: No
+Review: Grading was strictly based off midterm/final exams. Professor tries his best to make students understand the concepts of data structures, however the material itself is hard. His exams are worth 20% final, and 35% Midterm and 45% hw. Plus side, he curves grades huge! Just try your best and you will pass. Attendance not required.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 1
+
+--- Review 32 ---
+Quality: 2.5
+Difficulty: 1.0
+Course: CS114
+Date: Dec 22, 2014
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Review: The tests involve a lot of (theoretical) analysis and are thus difficult, but he's very generous in grading, meaning that he'll give full credit on partially-right answers AND has a huge curve. The lectures are kind of boring and disengaging, but the programming projects are definitely fun, and if you do those you're set for exams. I got an easy A.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 33 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CS114
+Date: Dec 21, 2013
+Textbook: No
+Review: Decent Professor. Just go over the practice exams and you will get an A. As for homework the questions are usually easy but there are times where you have to sit there and think for a moment.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 34 ---
+Quality: 2.0
+Difficulty: 2.0
+Course: CS114
+Date: Dec 21, 2013
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Review: Great guy to be with, not so much a teacher though. He reads off his slides, gives you a sample problem, and you sit there for an hour trying to figure out how to find his example using the command prompt. As for HW and test, the TA handled the HW and that's a whole other story. The test were STRONGLY based off the practice exam, just memorize them
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 35 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS114
+Date: Jan 17, 2013
+Textbook: No
+Review: Everything in this class, like quizzes and exams, are based almost directly off of information Calvin posts to moodle. So if you understand (memorize) all of the algorithms and practice exams from moodle. You'll be fine. Just go to class before an exam to get the answers for the practice test.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 36 ---
+Quality: 3.0
+Difficulty: 5.0
+Course: CS114
+Date: Dec 26, 2011
+Textbook: Yes
+Review: he gives horribly difficult homework, but exams aren't that bad... plus he gives generous curves!.... i got an A but i admit i could not follow any of his lectures... though, compared to other profs. you might be better off taking him...
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 37 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS114
+Date: Nov 7, 2010
+Textbook: Yes
+Review: Does not help out at all. Very boring class and sometimes goes off on random thoughts. He thinks we all know what he is talking about. It is a intro to java class....DONT TAKE HIM
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 38 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: DSA003
+Date: Dec 23, 2008
+Textbook: Yes
+Review: He knows his stuff but unable to let us know.He thinks we all know whatever he is teaching.gives tough exam as if he has taught all that he has asked.PLEASE DO NOT TAKE his class,as it is very stressful to feel that u dont know anything he is teaching.also he teaches all theory & no programming assg.not making the subject insteresting,though it is.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 39 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS114
+Date: May 16, 2008
+Textbook: No
+Review: He is an excellent professor but the problem with taking him is that he thinks everybody he is teaching is a CS major.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 40 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CS610
+Date: Feb 27, 2008
+Textbook: No
+Review: One piece of advice... DO NOT TAKE HIS CLASS!!!! he knows his stuff, but my 4 yr old brother can teach better than him... makes the easiest stuff seem impossible! he should take up a Teaching Basics course
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 41 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CIS610
+Date: Apr 4, 2007
+Textbook: Yes
+Review: never ever take him........
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 42 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS610
+Date: Jan 17, 2007
+Textbook: No
+Review: No Comments
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 43 ---
+Quality: 4.5
+Difficulty: 3.0
+Course: CS610
+Date: Jan 16, 2007
+Textbook: Yes
+Review: Very talented professor. Will go an extra mile for you if you show effort. Subject matter is so much more complex than undergrad. Be prepared to toggle/struggle/go insaine with the topics. Hard work is rewarded nicely on the final grade.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 1
+
+--- Review 44 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CIS113
+Date: Feb 19, 2006
+Review: it'd be nice if he taught for once.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 45 ---
+Quality: 3.0
+Difficulty: 3.0
+Course: CIS114
+Date: May 23, 2004
+Review: the problem with him is that he is so monotone. you cant stay awake if you try. trust me i tried to take notes and before i knew it i was falling asleep, he knows his material but cant keep you interested at all even if you like the topic
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 46 ---
+Quality: 2.5
+Difficulty: 3.0
+Course: CIS114
+Date: Apr 29, 2004
+Review: HE is really boring. He knows the material very well but makes a lot of mistakes. When he explains the material, he makes it seem harder than it really is.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 47 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CIS114
+Date: Apr 5, 2004
+Review: does not explain the material very well. The course is kinda tough and he makes it even more tough. deos not interact with or create any interest in the students
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 48 ---
+Quality: 5.0
+Difficulty: 1.0
+Course: CIS341
+Date: Mar 25, 2004
+Review: He is the best prof, he understand very well who is studng and who is not. He corves a lot. very nice and helpful man.
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 49 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CIS114
+Date: Mar 22, 2004
+Attendance: Mandatory
+Review: HORRIBLE....talks extremely slow and talks about random nonsense...i feel like im in 1st grade all over again, if you want to learn any C++ ur better off going out and reading a book on your own
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 50 ---
+Quality: 1.0
+Difficulty: 3.0
+Course: CIS114
+Date: Feb 24, 2004
+Review: NOOOOOOOOOOOOOOOOOOOO AHHHHHHHHHHHHHHHHHHHHH MAKE IT STOP
+Tags: 
+Thumbs Up: 2
+Thumbs Down: 0
+
+--- Review 51 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CIS114
+Date: Feb 19, 2004
+Review: No Comments
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 0
+
+--- Review 52 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CIS341
+Date: Dec 30, 2003
+Review: Please, make it stop! I read a lot of books during the lectures, and it still felt like a waste of time. I'd rather take him than J. Leung, though.
+Tags: 
+Thumbs Up: 1
+Thumbs Down: 1
+
+--- Review 53 ---
+Quality: 4.0
+Difficulty: 2.0
+Course: CIS341
+Date: Dec 15, 2003
+Review: Only had a few interactions with Prof Calvin over email, and the exams were pretty much everything, but they were nothing unreasonable.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 54 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CIS341
+Date: Nov 14, 2003
+Review: Dropped him on the first day of class. Does he have any idea about the students in his class? He is one professor who should take teaching skills 101 and gentleness 101.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 55 ---
+Quality: 1.5
+Difficulty: 5.0
+Course: CIS114
+Date: Oct 17, 2003
+Review: Very poor teacher, maze-like explanations. Very little assigned work, so the exams and few projects make a big deal in your grade. Didn't know what would be on exams until a few days beforehand.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0

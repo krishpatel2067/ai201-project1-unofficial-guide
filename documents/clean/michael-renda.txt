@@ -1,0 +1,221 @@
+=== OVERALL ===
+Professor: Michael Renda
+Overall Quality: 2.1/5 (based on 15 ratings)
+Would Take Again: 27%
+Level of Difficulty: 3.1
+Rating Distribution: Awesome (5): 3 | Great (4): 1 | Good (3): 0 | OK (2): 2 | Awful (1): 9
+
+=== REVIEWS ===
+--- Review 1 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS301
+Date: Mar 29, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: Tough but worth it. Pushes you to actually learn the material. One of my favorite professors.
+Tags: Clear grading criteria, Gives good feedback, Inspirational
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 2 ---
+Quality: 2.0
+Difficulty: 2.0
+Course: CS301
+Date: Jan 22, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+Review: Same feedback as other reviews. Took him spring 2025. Doesn't really teach much, just reads code and stuff off jupyter notebook. Lectures are boring, but the material isn't super hard and the class isn't hard. Tests and projects are pretty easy.
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 3 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS331
+Date: May 16, 2025
+For Credit: Yes
+Attendance: Mandatory
+Textbook: Yes
+Review: Pretty much the NJIT professor. Reads off slides, doesn't teach or explain homeworks. Doesn't care about how their students do or if they retain anything. Really feels like someone who doesn't want to be there. AVOID if you want to learn anything.
+Tags: Group projects, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 4 ---
+Quality: 4.0
+Difficulty: 2.0
+Course: CS301
+Date: Mar 20, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: Not a bad prof at all. Does read off of slides but the slides have a lot of detail and are useful for home/classwork. uses jupyter notebooks that are detailed and hold all information needed for any assignment. assignments are easy and not difficult to understand. a cheat sheet is allowed on the midterm. just pay attention and you'll pass.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 5 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS301
+Date: Mar 13, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: LMAO, this professor went from History to Finance to Computer Science, talk about a mid-life crisis in degrees. Bro probably wrote a thesis on medieval warfare, then decided to balance some corporate ledgers, and now out here AWFULLY teaching Data Science like it's another historical artifact.
+Tags: Participation matters, Group projects, Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 6 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS301
+Date: Mar 12, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: All he does is read off the slides. I can not learn from looking at an image of k nearest algorithm and do work on it. I can not learn from just being shown a Jupiter notebook. Like someone else said, he should worry more about demonstrating the topics rather than wasting time calling somebody out that looked at their phone for 5 seconds.
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 7 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS301
+Date: Mar 9, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: he has a degree in history...should tell you enough
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 8 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS301
+Date: Mar 8, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: Midterm is "everything we've covered." How helpful... I'm not even sure if he knows that him talking at us is not the same as explaining or even knowing your own material.
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 9 ---
+Quality: 1.0
+Difficulty: 4.0
+Course: CS301
+Date: Feb 25, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: This prof is beyond boring and reads off slides. More of talking things to you than teaching them to you. For the thousands of dollars we spend to have him just read verbatim from jupyter notebooks is wild. Also he gets mad at you for being on your phone, even though we pay him to do his job and should have all say of being on our phone or not.
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 10 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS301
+Date: Oct 22, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: N/A
+Online Class: Yes
+Review: Simply reads from the slides and very strict. You'll need to learn on your own.
+Tags: Tough grader
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 11 ---
+Quality: 2.0
+Difficulty: 3.0
+Course: CS631
+Date: Jan 28, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Review: reads off slides, strict grader.
+Tags: Tough grader
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 12 ---
+Quality: 1.0
+Difficulty: 2.0
+Course: CS331
+Date: Oct 18, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Review: Typical NJIT cs professor. Just reads off the slides verbatim and never does any examples. Do not take him if you actually want to learn sql and databases.
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 13 ---
+Quality: 1.0
+Difficulty: 1.0
+Course: CS331
+Date: May 21, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+Review: The class itself is very easy. However, the professor just reads off the slides. He doesn't do many examples, and for a CS course his way of teaching is inadequate. If you're new to SQL and databases, then you might have a tough time doing the assignments. Just be prepared to teach yourself in this class.
+Tags: Lecture heavy
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 14 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS331
+Date: May 7, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: His way of teaching is so practical, and he will train you for your interview. He is so knowledgeable. I like his class every time for his way of lectures.
+Tags: Tough grader, Caring, Accessible outside class
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 15 ---
+Quality: 5.0
+Difficulty: 3.0
+Course: CS331
+Date: Apr 22, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Professor Renda is a good professor. The only minor drawback I can think of is that over the course of the semester, his lectures started to get a bit boring. At the beginning of the sem, I loved his class but about halfway through it started to get a bit boring. Exams and assignments are pretty easy too provided you put some effort into them.
+Tags: Group projects, Caring, Respected
+Thumbs Up: 0
+Thumbs Down: 0

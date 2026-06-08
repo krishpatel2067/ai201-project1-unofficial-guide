@@ -19,6 +19,7 @@ In this project, you'll help me build The Unofficial Guide: a RAG (Retrieval-Aug
   - [] Given a user query, retrieve the top k relevant chunks using semantic similarity search (let k = 5 for reviews).
   - [] The retrieved chunks must be sorted in ascending order according to cosine distance (most relevant at the top).
   - [] The user queries are assumed to be about a single professor only (e.g. no cross-professor comparison).
+  - [] User queries can ask about stats (separate from natural-language reviews), like overall ratings, the total number of reviews, how many students gave the highest rating, etc.
 - [] **Grounded Response Generation**:
   - [] Use the Groq LLM `llama-3.3-70b-versatile` to generate an answer to the user's query using only the retrieved chunks as context.
   - [] Use the LLM system prompt:
@@ -36,6 +37,8 @@ In this project, you'll help me build The Unofficial Guide: a RAG (Retrieval-Aug
   - [] On top of basic chatting interface with the RAG, include debug features to see the retrieved chunks in full, their cosine distances, where they come from.
 
 ## Stretch Features
+
+Although these are stretch features, I would like to implement all of them for the practice and points.
 
 - [] **Hybrid Search**:
   - [] Combine semantic search with keyword (BM25) search and compare results to semantic-only.

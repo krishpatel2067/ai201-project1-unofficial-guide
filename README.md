@@ -26,24 +26,24 @@ Student reviews of CS professors at the New Jersey Institute of Technology (NJIT
 
 RMP = Rate My Professors
 
-| #   | Source | Type    | URL or file path |
-| --- | ------ | ------- | ---------------- |
-| 1   | RMP    | Reviews |                  |
-| 2   | RMP    | Reviews |                  |
-| 3   | RMP    | Reviews |                  |
-| 4   | RMP    | Reviews |                  |
-| 5   | RMP    | Reviews |                  |
-| 6   | RMP    | Reviews |                  |
-| 7   | RMP    | Reviews |                  |
-| 8   | RMP    | Reviews |                  |
-| 9   | RMP    | Reviews |                  |
-| 10  | RMP    | Reviews |                  |
+| #   | Source | Type    | URL or file path                      |
+| --- | ------ | ------- | ------------------------------------- |
+| 1   | RMP    | Reviews | documents/clean/bassel-arafeh.txt     |
+| 2   | RMP    | Reviews | documents/clean/samaneh-berenjian.txt |
+| 3   | RMP    | Reviews | documents/clean/james-calvin.txt      |
+| 4   | RMP    | Reviews | documents/clean/abdul-rahman-itani    |
+| 5   | RMP    | Reviews | documents/clean/martin-kellogg.txt    |
+| 6   | RMP    | Reviews | documents/clean/kumar-mani.txt        |
+| 7   | RMP    | Reviews | documents/clean/kamlesh-naik.txt      |
+| 8   | RMP    | Reviews | documents/clean/marvin-nakayama.txt   |
+| 9   | RMP    | Reviews | documents/clean/michael-renda.txt     |
+| 10  | RMP    | Reviews | documents/clean/andrew-sohn.txt       |
 
 Note: each professor's reviews have their own online page on RMP (easily searchable via Google), but since reviews can be added, changed, or deleted, this project's docs are strictly local to ensure a stable corpus.
 
 - **Origin**: [Rate My Professors](https://www.ratemyprofessors.com/) for NJIT. Ten random professors were selected, each comprising a pair of documents: `professor-overall.txt` (overall ratings) and `professor-reviews.txt` (individual reviews). Each review on RMP is strictly 350 characters or under.
-- **Raw Docs**: Manual copy-pastes of all the overall and individual reviews directly from the website. [Example: [andrew-sohn-overall](./documents/raw/andrew-sohn-overall.txt) and [andrew-sohn-reviews.txt](./documents/raw/andrew-sohn-reivews.txt)]
-- **Cleaned Docs**:
+- **Raw Docs** (`documents/raw/`): Manual copy-pastes of all the overall and individual reviews directly from the website. [Example: [andrew-sohn-overall.txt](./documents/raw/andrew-sohn-overall.txt) and [andrew-sohn-reviews.txt](./documents/raw/andrew-sohn-reivews.txt)]
+- **Clean Docs** (`documents/clean/`): Structured versions of the raw docs, combining the overall stats and reviews into one file. [Example: [andrew-sohn.txt](./documents//clean/andrew-sohn.txt)]
 
 ---
 
@@ -56,13 +56,15 @@ Note: each professor's reviews have their own online page on RMP (easily searcha
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:**
+**Chunking strategy**: Document structure-based chunking
 
-**Overlap:**
+**Chunk size:** N/A (document structure)
 
-**Why these choices fit your documents:**
+**Overlap:** 0 (none needed due to strict, consistent structure)
 
-**Final chunk count:**
+**Why these choices fit your documents:** Raw RMP reviews are highly structured to begin with. Cleaning the raw docs further solidifies a structure that can easily be chunked accordingly without having to resort to estimated character counts (though it is good to know that RMP reviews are capped at 350 characters).
+
+**Final chunk count:** 759 (10 overall, one for each proffesor + 749 reviews)
 
 ---
 
@@ -170,3 +172,14 @@ Note: each professor's reviews have their own online page on RMP (easily searcha
 - _What I gave the AI:_
 - _What it produced:_
 - _What I changed or overrode:_
+
+## Notes
+
+- Aggregate stats kept as a chunk with N other reivew chunks.
+- Aggregate stats often require a separate classifer that route to structured lookups - regular semantic search isn't good with numbers.
+- Embedded data vs metadata split:
+  - Review metadata: source, professor, type, quality, difficulty, course, date_num, grade?, would_take_again?, online?, for_credit, thumbs_up, thumbs_down
+  - Stats metadata:
+- AI use: Asked it to create cleaning and ingestion in one script, created ingest.py with cleaning, but I changed it to clean.py
+- AI use: asked it to store all reivew metadata, it stored date_num and date_str, I said to only keep date_num
+- AI use: `"extra credit": "EXTRA CREDIT"` -> `"extra credit": "Extra Credit"` in `clean.py`

@@ -1,0 +1,109 @@
+=== OVERALL ===
+Professor: Martin Kellogg
+Overall Quality: 4.1/5 (based on 7 ratings)
+Would Take Again: 86%
+Level of Difficulty: 4.6
+Rating Distribution: Awesome (5): 5 | Great (4): 0 | Good (3): 1 | OK (2): 0 | Awful (1): 1
+
+=== REVIEWS ===
+--- Review 1 ---
+Quality: 3.0
+Difficulty: 4.0
+Course: CS490
+Date: Oct 19, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: His lectures are great. He will explain even the most mundane topics without judgement and explains everything clearly. However, he is a very tough grader and expectations are not very clear.
+Tags: Tough grader, Group projects, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 2 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS485
+Date: May 3, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: Is knowledgeable about what he is teaching, and can convey it in a way that is easy to understand. He admits when he doesn't know something which is a breadth of fresh air Compilers was the hardest and most time consuming course I ever took, and took up more time than all of my other classes combined and more - but it was by far the most rewarding
+Tags: Get ready to read, Amazing lectures
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 3 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS485
+Date: Apr 30, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review: Kellogg is an engaging, informative, and amazing professor. You can tell he is passionate about this class and very knowledgeable about what he is talking about. This class is not for the faint of heart -- his class easily took up much more time than the rest of my classes combined, but you will learn a lot and it is a very rewarding experience.
+Tags: Amazing lectures, Clear grading criteria, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 4 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS490
+Date: Dec 31, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: Marty's hard, but unlike most NJIT CS professors, he is both a nice person and a lecturer who is capable of actually explaining complex and abstract concepts in a non-judgemental way to people unfamiliar to them. In short, he's an actual teacher, a true rarity. He's devilish with his intense assignments, but has the dignity to be upfront about it.
+Tags: Group projects, Amazing lectures, Lots of homework
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 5 ---
+Quality: 5.0
+Difficulty: 4.0
+Course: CS684
+Date: May 12, 2024
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: N/A
+Review: The class isn't the easiest but the professor is really passionate about the material and there's a very generous curve and you'll learn a lot
+Tags: 
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 6 ---
+Quality: 5.0
+Difficulty: 5.0
+Course: CS490
+Date: May 24, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: This is a hard class, but you learn about software engineering (process, requirements, testing, debugging, version control, tech debt, etc). Your grade relies heavily on your group project and follow the right processes (mentor meetings, code reviews, regular commits/PRs). Prof Kellogg is very knowledgeable and you can learn a lot from this class.
+Tags: Group projects
+Thumbs Up: 0
+Thumbs Down: 0
+
+--- Review 7 ---
+Quality: 1.0
+Difficulty: 5.0
+Course: CS490
+Date: May 8, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: Class was like a full-time job with the amount of projects and reading assigned
+Tags: Get ready to read, Participation matters, Group projects
+Thumbs Up: 1
+Thumbs Down: 0

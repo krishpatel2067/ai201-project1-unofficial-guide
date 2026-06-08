@@ -25,11 +25,11 @@ Student reviews of CS professors at the New Jersey Institute of Technology (NJIT
 | 1   | RMP    | Reviews of Bassel Arafeh      | documents/clean/bassel-arafeh.txt      |
 | 2   | RMP    | Reviews of Samaneh Berenjian  | documents/clean/samaneh-berenjian.txt  |
 | 3   | RMP    | Reviews of James Calvin       | documents/clean/james-calvin.txt       |
-| 4   | RMP    | Reviews of Adrian Ionescu     | documents/clean/adrian-ionescu.txt     |
-| 5   | RMP    | Reviews of Abdul-Rahman Itani | documents/clean/abdul-rahman-itani.txt |
-| 6   | RMP    | Reviews of Martin Kellogg     | documents/clean/martin-kellogg.txt     |
-| 7   | RMP    | Reviews of Kumar Mani         | documents/clean/kumar-mani.txt         |
-| 8   | RMP    | Reviews of Kamlesh Naik       | documents/clean/kamlesh-naik.txt       |
+| 4   | RMP    | Reviews of Abdul-Rahman Itani | documents/clean/abdul-rahman-itani.txt |
+| 5   | RMP    | Reviews of Martin Kellogg     | documents/clean/martin-kellogg.txt     |
+| 6   | RMP    | Reviews of Kumar Mani         | documents/clean/kumar-mani.txt         |
+| 7   | RMP    | Reviews of Kamlesh Naik       | documents/clean/kamlesh-naik.txt       |
+| 8   | RMP    | Reviews of Marvin Nakayama    | documents/clean/marvin-nakayama.txt    |
 | 9   | RMP    | Reviews of Michael Renda      | documents/clean/michael-renda.txt      |
 | 10  | RMP    | Reviews of Andrew Sohn        | documents/clean/andrew-sohn.txt        |
 
@@ -65,7 +65,7 @@ The raw docs were used as examples even though those won't be going into the RAG
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:** `all-MiniLM-L6-va` via `sentence-transformers`
+**Embedding model:** `all-MiniLM-L6-v2` via `sentence-transformers`
 
 **Top-k:** 5
 
@@ -90,7 +90,7 @@ I would even consider online embedding models, which may be more capable than of
 | 2   | Does Professor Bassel give good lectures?           | No, Professor Bassel does not give good lectures. Many students find his lectures boring and difficult to understand.                         |
 | 3   | Is it a good idea to skip Professor Naik's classes? | No, it is not a good idea to skip Professor Naik's classes as he often puts lecture material on exams and does not fully follow the textbook. |
 | 4   | Are Professor Kellogg's classses difficult?         | Yes, Professor Kellogg's classes, especially that on compilers, is difficult and requires a lot of time.                                      |
-| 5   | Which professors offer extra credit?                | Some professors that have offered extra credit before are James Calvin, Samaneh Berenjian, Adrian Ionescu, and Andrew Sohn.                   |
+| 5   | Which professors offer extra credit?                | Some professors that have offered extra credit before are James Calvin, Samaneh Berenjian, and Andrew Sohn.                                   |
 
 ---
 
@@ -142,7 +142,7 @@ I would even consider online embedding models, which may be more capable than of
 
 **Milestone 3 — Ingestion and chunking:**
 
-I will give Claude Code access to my `docs/raw/` directory as well as my Documents section in this file so that it can learn the raw doc format and produce the correct code to create clean docs from raw docs. I'll manually read line-by-line to verify that the code matches my expectations and that the clean docs follow a clean format that can be easily chunked.
+I will give Claude Code access to my `documents/raw/` directory as well as my Documents section in this file so that it can learn the raw doc format and produce the correct code to create clean docs from raw docs. I'll manually read line-by-line to verify that the code matches my expectations and that the clean docs follow a clean format that can be easily chunked.
 
 I will use Claude Code again in the chunking stage, surfacing the human-reviewed clean docs and Chunking Strategy section of this file. I will verify that my plan is sound and that I understand everything before continuing. I expect it to produce correct and well-structured code to chunk the docs based on the strategy given in the Chunking Strategy section. I'll confirm that the chunks match my spec via line-by-line code reivew and by printing a few chunks to the console.
 
