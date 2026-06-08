@@ -33,6 +33,15 @@ If you are able to answer the user query, you must cite exactly one source using
 "Tags:" are short labels attached to a review (e.g. "Lecture heavy"). They are NOT part of the actual review body."""
 
 
+# Used by conversational memory: rewrite a follow-up into a standalone query so
+# retrieval (which has no memory) still finds the right professor.
+CONDENSE_SYSTEM_PROMPT = """You rewrite a student's follow-up question into a standalone question for searching a database of NJIT CS professor reviews.
+
+Given the conversation so far and the latest question, rewrite the latest question so it is fully self-contained: resolve pronouns and references (e.g. "he", "she", "that class") by inserting the specific professor or course named earlier in the conversation. If the latest question is already self-contained, return it unchanged.
+
+Output ONLY the rewritten question — no preamble, explanation, or quotation marks."""
+
+
 def _format_context(hits: list[dict]) -> str:
     """Render retrieved chunks into the source block the LLM sees.
 
@@ -62,8 +71,14 @@ def filter_to_top_file(hits: list[dict]) -> list[dict]:
     return [h for h in hits if h["metadata"]["source"] == top_source]
 
 
-def generate_answer(query: str, hits: list[dict]) -> str:
-    """Call the Groq LLM to answer ``query``, grounded only in ``hits``."""
+def generate_answer(query: str, hits: list[dict], history: list | None = None) -> str:
+    """Call the Groq LLM to answer ``query``, grounded only in ``hits``.
+
+    ``history`` (optional) is a list of prior chat messages ({"role", "content"}
+    dicts, the Gradio chatbot format). When given, they're spliced in as prior
+    messages so the model can resolve references like "he"/"that class" — i.e.
+    conversational memory. The grounding rules still apply to the current ``hits``.
+    """
     api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
         raise RuntimeError(
@@ -72,14 +87,15 @@ def generate_answer(query: str, hits: list[dict]) -> str:
         )
     client = Groq(api_key=api_key)
 
-    user_message = f"User query: {query}\n\nSources:\n{_format_context(hits)}"
+    # history is already in chat-message format, so splice it straight in.
+    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+    messages.extend(history or [])
+    messages.append({"role": "user",
+                     "content": f"User query: {query}\n\nSources:\n{_format_context(hits)}"})
 
     response = client.chat.completions.create(
         model=MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_message},
-        ],
+        messages=messages,
         # Low temperature keeps the answer faithful to the sources and reduces
         # run-to-run variance — what we want for grounded Q/A, not creativity.
         temperature=0.2,
@@ -87,25 +103,61 @@ def generate_answer(query: str, hits: list[dict]) -> str:
     return response.choices[0].message.content.strip()
 
 
+def condense_query(history: list, question: str) -> str:
+    """Rewrite a follow-up ``question`` into a standalone search query using the
+    conversation ``history`` (a list of (user, assistant) pairs).
+
+    ``history`` is a list of prior chat messages ({"role", "content"} dicts).
+    Returns ``question`` unchanged when there's no history to resolve. This is a
+    cheap extra LLM call (same Groq client/key, deterministic) so that follow-ups
+    like "does he offer extra credit?" retrieve against the right professor.
+    """
+    if not history:
+        return question
+    api_key = os.environ.get("GROQ_API_KEY")
+    if not api_key:
+        return question  # no key -> can't condense; fall back to the raw question
+    client = Groq(api_key=api_key)
+    convo = "\n".join(
+        f"{'Student' if m['role'] == 'user' else 'Assistant'}: {m['content']}"
+        for m in history
+    )
+    response = client.chat.completions.create(
+        model=MODEL,
+        messages=[
+            {"role": "system", "content": CONDENSE_SYSTEM_PROMPT},
+            {"role": "user",
+             "content": f"Conversation so far:\n{convo}\n\nLatest question: {question}"},
+        ],
+        temperature=0.0,  # deterministic rewrite
+    )
+    return response.choices[0].message.content.strip()
+
+
 def main() -> None:
-    if len(sys.argv) < 2:
-        print('Usage: python src/generate.py "your question here"')
+    # Flags (any order, before the query): --hybrid, --fixed.
+    args = sys.argv[1:]
+    query = " ".join(a for a in args if not a.startswith("--"))
+    if not query:
+        print('Usage: python src/generate.py [--hybrid] [--fixed] "your question here"')
         return
 
     # Imported here so that merely importing generate.py (e.g. from main.py)
     # doesn't eagerly load the embedding model that retrieve.py pulls in.
     from retrieve import retrieve
 
-    query = " ".join(sys.argv[1:])
-    retrieved = retrieve(query)
+    hybrid = "--hybrid" in args
+    strategy = "fixed" if "--fixed" in args else "structured"
+
+    retrieved = retrieve(query, hybrid=hybrid, strategy=strategy)
     used = filter_to_top_file(retrieved)
     answer = generate_answer(query, used)
 
-    print(f"\nQuery: {query!r}\n")
+    print(f"\nQuery: {query!r}  (hybrid={hybrid}, strategy={strategy})\n")
     print("Answer:")
     print(answer)
-    # Debug: what semantic search returned (across files) vs. the single file the
-    # answer was actually drawn from after filtering to the top hit's source.
+    # Debug: what search returned (across files) vs. the single file the answer
+    # was actually drawn from after filtering to the top hit's source.
     retrieved_sources = sorted({h["metadata"]["source"] for h in retrieved})
     answer_file = used[0]["metadata"]["source"] if used else "none"
     print(

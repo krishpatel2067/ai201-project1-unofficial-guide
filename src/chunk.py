@@ -182,6 +182,45 @@ def build_all_chunks() -> list[dict]:
     return chunks
 
 
+# --- Stretch feature: fixed-size chunking -----------------------------------
+# An alternative to structure-based chunking: slice each clean doc into
+# overlapping fixed-length character windows, ignoring review boundaries. This
+# is the naive baseline the interface toggles against. Fixed chunks carry only
+# source/professor metadata (a window can straddle several reviews, so per-review
+# fields like quality/date don't apply).
+FIXED_CHUNK_SIZE = 650   # characters per window (within the 500-750 spec)
+FIXED_OVERLAP = 75       # characters shared between consecutive windows
+
+
+def build_all_chunks_fixed() -> list[dict]:
+    """Build fixed-size, overlapping character-window chunks from the clean docs."""
+    step = FIXED_CHUNK_SIZE - FIXED_OVERLAP
+    chunks: list[dict] = []
+    for path in sorted(CLEAN_DIR.glob("*.txt")):
+        slug = path.stem
+        text = path.read_text(encoding="utf-8")
+        name_match = re.search(r"^Professor:\s*(.+)$", text, re.MULTILINE)
+        professor = name_match.group(1).strip() if name_match else slug
+        n = 0
+        for start in range(0, len(text), step):
+            window = text[start:start + FIXED_CHUNK_SIZE].strip()
+            if not window:
+                continue
+            n += 1
+            chunks.append({
+                "id": f"{slug}-fixed-{n}",
+                "document": window,
+                "metadata": {"source": f"{slug}.txt", "professor": professor,
+                             "type": "fixed"},
+            })
+    return chunks
+
+
+def build_chunks(strategy: str = "structured") -> list[dict]:
+    """Dispatch to the chosen chunking strategy: 'structured' (default) or 'fixed'."""
+    return build_all_chunks_fixed() if strategy == "fixed" else build_all_chunks()
+
+
 # --- Driver / sanity check ---------------------------------------------------
 def main() -> None:
     chunks = build_all_chunks()

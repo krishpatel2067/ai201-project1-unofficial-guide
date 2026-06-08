@@ -59,6 +59,8 @@ The raw docs were used as examples even though those won't be going into the RAG
 
 ## Retrieval Approach
 
+### Semantic Only
+
 <!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
      How many chunks will you retrieve per query (top-k)?
      If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
@@ -74,6 +76,12 @@ The raw docs were used as examples even though those won't be going into the RAG
 If this project were deployed for real users and cost wasn't a constraint, I would consider opting for a more advanced model that offers more accurate embeddings especially for domain-specific text (vital for edge-case queries in this CS-professor-oriented RAG) and/or multilingual support (necessary for students whose first language isn't English). An example of an offline model satisfying the latter is `EmbeddingGemma (300M)` that can support 100+ languages. A larger context window wouldn't a big priority for this project because student questions about professors tend to be short and direct. One scenario it could be useful is with conversation history, but even then it is reasonable to assume most students wouldn't end up having long chats with the RAG about the same professor.
 
 I would even consider online embedding models, which may be more capable than offline ones and are not constrained by the user's hardware. However, online models often have a small monetary cost based on token use. Plus, moving from offline to online would introduce latency, perhaps slowing down the end-to-end operation. This tradeoff would be acceptable for a better, user-hardware-agnostic model, but it should be offered alongside local models as an option, depending on the user's preferences and needs.
+
+### Hybrid: Semantic + BM25 Keyword-Matching
+
+**Library**: `rank-bm25`
+
+**Ranking**: Reciprocal Rank Fusion (fuses semantic ranks and BM25 ranks into new ranking)
 
 ---
 

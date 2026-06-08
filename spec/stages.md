@@ -93,15 +93,25 @@
       (Kellogg now answers correctly; Berenjian correctly refuses w/o citation — see `samples/`.)
 
 ## Stage 6 — Query Interface  (`src/main.py`)  [Milestone 5]
-- [ ] Gradio chat UI wiring ingest → retrieve → generate.
-- [ ] Debug panel: retrieved chunks in full, cosine distances, source files.
-- [ ] **Verify:** end-to-end run of the 5 eval questions from `planning.md`.
+- [x] Gradio UI wiring retrieve → filter_to_top_file → generate.
+- [x] Debug panel: retrieved chunks in full, cosine distances, source files.
+- [x] **Verify:** end-to-end run of the 5 eval questions from `planning.md`.
 
 ## Stage 7 — Stretch Features (all planned — see `spec/project-req.md`)
-- [ ] **Hybrid search:** semantic + BM25 keyword; UI toggle vs semantic-only; compare results.
-- [ ] **Chunking toggle:** structure-based (default) vs fixed-size (500–750 chars, 50–100 overlap).
-- [ ] **Metadata filtering:** filter by source filename, date, and rating; combinable filters.
-- [ ] **Conversational memory:** multi-turn context; home-page toggle; chat shows enabled state.
+- [x] **Hybrid search:** semantic + BM25 keyword fused with RRF; UI toggle + `--hybrid` CLI;
+      compared vs semantic-only. NOTE: does not surface the Berenjian extra-credit case
+      (tag-only signal diluted in RRF) — accepted as a documented limitation, see
+      [[dense-retrieval-misses-tag-only-signals]].
+- [x] **Chunking toggle:** structure-based (default) vs fixed-size (650-char windows, 75 overlap).
+      Both preloaded into separate Chroma collections (`rmp_structured`, `rmp_fixed`) by
+      `build_index`, so the UI radio toggles instantly with no re-embed. Strategy-aware BM25 too.
+- [x] **Metadata filtering:** filter by source filename, rating (`quality >= `), and exact
+      date (`YYYY-MM-DD` text input -> `date_num >= `); combinable via Chroma `$and`.
+      UI accordion in `main.py`; applies to semantic search.
+- [x] **Conversational memory:** multi-turn chat (`gr.Chatbot` = history, no separate state).
+      Toggle gates it; memory ON rewrites the follow-up via `condense_query` (LLM query
+      rewriting, same Groq key) for retrieval AND passes prior turns to `generate_answer`.
+      Status line shows ON/OFF; Clear resets the conversation + memory.
 
 ## Stage 8 — Evaluation & Write-up
 - [ ] Run the 5 eval questions; record retrieval quality + response accuracy.

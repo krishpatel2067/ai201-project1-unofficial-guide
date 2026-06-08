@@ -1,3 +1,3 @@
 # Memory Index
 
-- [Dense retrieval misses tag-only signals](dense-retrieval-misses-tag-only-signals.md) — extra-credit query fails dense-only; BM25/hybrid is the fix + ideal README failure case.
+- [Dense retrieval misses tag-only signals](dense-retrieval-misses-tag-only-signals.md) — extra-credit query fails under BOTH dense and hybrid; accepted limitation + ideal README failure case.
