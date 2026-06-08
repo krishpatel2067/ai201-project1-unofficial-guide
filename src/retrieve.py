@@ -125,6 +125,28 @@ def retrieve(query: str, k: int = TOP_K, hybrid: bool = False,
     ]
 
 
+# --- Single-professor collapse ----------------------------------------------
+MAX_ANSWER_CHUNKS = 5   # most same-file chunks to forward to the generator
+
+
+def filter_to_top_file(hits: list[dict], limit: int = MAX_ANSWER_CHUNKS) -> list[dict]:
+    """Keep only the chunks from the top-ranked hit's source file, capped at ``limit``.
+
+    Retrieval pulls a wider candidate pool (top-k across ALL professors), but a
+    single-professor answer must draw from one file. Since hits are sorted by
+    ascending distance, the #1 hit's file is the best-matching professor; we drop
+    the other files, then cap the count. This structurally guarantees the
+    one-file / one-citation rule, and over-retrieving means we reliably forward a
+    healthy handful of chunks instead of the 1-2 that slipped through when a
+    narrow top-k spanned several professors.
+    """
+    if not hits:
+        return hits
+    top_source = hits[0]["metadata"]["source"]
+    same_file = [h for h in hits if h["metadata"]["source"] == top_source]
+    return same_file[:limit]
+
+
 # --- Stretch feature: hybrid (semantic + BM25) retrieval --------------------
 _bm25_cache: dict[str, tuple] = {}   # strategy -> (BM25Okapi index, chunks)
 
@@ -202,16 +224,31 @@ def _retrieve_hybrid(query: str, k: int, strategy: str = DEFAULT_STRATEGY) -> li
     ]
 
 
-def _print_hits(query: str, hits: list[dict]) -> None:
-    """Debug view of retrieved chunks — the basis for the Gradio debug panel."""
+def _print_hits(query: str, hits: list[dict], used: list[dict] | None = None) -> None:
+    """Debug view of retrieved chunks — mirrors the Gradio debug panel.
+
+    ``used`` are the chunks that survive single-professor filtering + the cap
+    (what would actually reach the LLM); they get the same markers as the UI.
+    """
+    used = used or []
+    used_ids = {h["id"] for h in used}
+    answer_file = used[0]["metadata"]["source"] if used else None
+
     print(f"\nQuery: {query!r}")
-    print(f"Top {len(hits)} chunks:\n")
+    print(f"Top {len(hits)} chunks "
+          "(✅ = sent to the LLM · 📄 = same professor, over the cap):\n")
     for rank, h in enumerate(hits, start=1):
         m = h["metadata"]
+        if h["id"] in used_ids:
+            marker = "  ✅ used"
+        elif answer_file and m["source"] == answer_file:
+            marker = "  📄 same file"
+        else:
+            marker = ""
         dist = f"{h['distance']:.4f}" if h.get("distance") is not None else "n/a"
         rrf = f"  rrf={h['rrf']:.4f}" if "rrf" in h else ""
         print(f"#{rank}  distance={dist}{rrf}  "
-              f"source={m['source']}  type={m['type']}  id={h['id']}")
+              f"source={m['source']}  type={m['type']}  id={h['id']}{marker}")
         indented = h["document"].replace("\n", "\n    ")
         print(f"    {indented}\n")
 
@@ -240,7 +277,8 @@ def main() -> None:
               '  python src/retrieve.py --rebuild                        # (re)build the indexes\n'
               '  python src/retrieve.py [--hybrid] [--fixed] "question"  # search')
         return
-    _print_hits(query, retrieve(query, hybrid=hybrid, strategy=strategy))
+    retrieved = retrieve(query, hybrid=hybrid, strategy=strategy)
+    _print_hits(query, retrieved, filter_to_top_file(retrieved))
 
 
 if __name__ == "__main__":

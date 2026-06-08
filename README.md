@@ -1,10 +1,5 @@
 # The Unofficial Guide — Project 1
 
-> **How to use this template:**
-> Complete each section _after_ you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
-
 ---
 
 ## Domain
@@ -15,6 +10,28 @@
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
 Student reviews of CS professors at the New Jersey Institute of Technology (NJIT). Official course descriptions or other university materials don't reflect professor personality, teaching styles, difficulty, etc. Furthermore, the sites that do exist to handle professor reviews, namely Rate My Professors (RMP), often contain tens if not hundreds of reviews, which would be too many to read to try to find an answer to a specific question (e.g. "Does [professor] offer any extra credit?").
+
+---
+
+## Demo
+
+---
+
+## Setup
+
+[instructions]
+
+---
+
+## How to Use
+
+### Option 1: GUI (Recommended)
+
+[instructions]
+
+### Option 2: CLI
+
+[instructions]
 
 ---
 
@@ -58,6 +75,8 @@ Note: each professor's reviews have their own online page on RMP (easily searcha
 
 I implemented the stretch feature to allow switching between two strategies: document structure-based chunking (default) and fixed size chunking.
 
+**Comparison**: found in [`samples/structured-vs-fixed.md`](./samples/structured-vs-fixed.md). In summary, fixed-size chunking won 2 times in the 3-sample test set, against the intuition that structured chunking works better for reviews. However, this comparison may not be entirely conclusive because it revealed that other aspects of the RAG pipeline may come into play to nudge fixed chunking ahead in these particular cases. For example, fixed chunking naturally feed key-value pairs like "Online Class: Yes" to the LLM whereas structured chunking stores these only in the metadata - an implementation oversight that may have tipped the scale against structured chunking. In another case, fixed chunking was better at surfacing a review with the necessary word "oral," but perhaps such word-by-word matching is better in the domain of searching (e.g. hybrid) than chunking.
+
 ### Document Structure-Based Chunking (Default)
 
 **Chunk size:** N/A (document structure)
@@ -75,6 +94,8 @@ I implemented the stretch feature to allow switching between two strategies: doc
 **Overlap**: 75 characters
 
 ## **Final chunk count**: 624
+
+---
 
 ## Embedding Model
 
@@ -127,15 +148,15 @@ The source attribution is added to the end of an answer. If the model cannot ans
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
-Full system responses (both at the retrieval and generation stages) can be found in [`samples/eval-report.md`](./samples/eval-report.md).
+Full system responses (both at the retrieval and generation stages) can be found in [`samples/eval-report.md`](./samples/eval-report.md). Responses based on off-target retrievals are considered accurate since it demonstrates proper grounding.
 
-| #   | Question                                            | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-| --- | --------------------------------------------------- | --------------- | ---------------------------- | ----------------- | ----------------- |
-| 1   | Does professor Berenjian offer extra credit?        | [1]             | [6]                          |                   |                   |
-| 2   | Are Professor Kellogg's classes difficult?          | [2]             | [7]                          |                   |                   |
-| 3   | Is it a good idea to skip Professor Naik's classes? | [3]             | [8]                          |                   |                   |
-| 4   | Does Professor Bassel give good lectures?           | [4]             | [9]                          |                   |                   |
-| 5   | Which professors offer extra credit?                | [5]             | [10]                         |                   |                   |
+| #   | Question                                            | Expected answer | System response                                         | Retrieval quality | Response accuracy |
+| --- | --------------------------------------------------- | --------------- | ------------------------------------------------------- | ----------------- | ----------------- |
+| 1   | Does professor Berenjian offer extra credit?        | [1]             | [`samples/eval-report.md`](./samples/eval-report.md) #1 | Off-target        | Accurate          |
+| 2   | Are Professor Kellogg's classes difficult?          | [2]             | [`samples/eval-report.md`](./samples/eval-report.md) #2 | Relevant          | Accurate          |
+| 3   | Is it a good idea to skip Professor Naik's classes? | [3]             | [`samples/eval-report.md`](./samples/eval-report.md) #3 |                   |                   |
+| 4   | Does Professor Bassel give good lectures?           | [4]             | [`samples/eval-report.md`](./samples/eval-report.md) #4 |                   |                   |
+| 5   | Which professors offer extra credit?                | [5]             | [`samples/eval-report.md`](./samples/eval-report.md) #5 |                   |                   |
 
 Expected answers:
 
@@ -145,25 +166,10 @@ Expected answers:
 4. No, Professor Bassel does not give good lectures. Many students find his lectures boring and difficult to understand.
 5. Some professors that have offered extra credit before are James Calvin, Samaneh Berenjian, and Andrew Sohn.
 
-System response:
-
-6.
-7.
-
-```
-Professor Kellogg's class, CS485, is considered challenging, requiring a significant amount of time and effort, but it is also a very rewarding experience. Students can expect to learn a lot, despite the class being demanding. [martin-kellogg.txt]
-```
-
-8.
-
-```
-It's not a good idea to skip Professor Naik's classes, as multiple students have advised against it, warning that skipping class will make it harder to pass. According to the students, attending classes and doing the homework makes things easier, and Professor Naik is transparent about what will be on the exams. [kamlesh-naik.txt]
-```
-
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
 
-## Hybrid Approach vs Semantic Only
+## Semantic-Only vs Hybrid Search
 
 Semantic search excels at matching meaning, handling similar topics and synonyms well. But it struggles with keywords that appear rarely in a corpus because its dense embedding cannot capture such rarely occuring words. BM25 solves this by trading the ability to match meaning with the ability to use match keywords precisely with the query, surfacing chunks that would have otherwise been suppressed under semantic search. Hybrid search takes the best of both worlds to match meaning and keywords at the same time.
 
@@ -175,7 +181,7 @@ combined_score = 1 / (k + semantic_rank) + 1 / (k + bm25_rank)
 
 where `k` is a constant chosen to be 60 in this project, which is a typical value.
 
-**Comparison**: found in [`samples/semantic-vs-bm25.md`](./samples/semantic-vs-bm25.md).
+**Comparison**: found in [`samples/semantic-vs-hybrid.md`](./samples/semantic-vs-hybrid.md). In summary, hybrid search sometimes surfaced more keyword-relevant documents (e.g. those containing "Vocareum", "Extra credit", etc.) to the LLM than semantic-only, sometimes making the difference between a useable answer and an outright refusal. However, test 5 is control, containing no keywords in the query. This predictably led to a tie between both searching algorithms.
 
 ---
 
@@ -215,7 +221,7 @@ From the beginning, I knew I wanted to include all the stretch features in the p
 
 **One way your implementation diverged from the spec, and why:**
 
-I originally wanted the LLM to only choose chunks from one file / professor's reviews. However, that turned out to be unreliable since the LLM would sometimes pick the _wrong_ file, throwing the entire response off. Thus, I diverged from my spec to manually filter out the chunks that came from a file different than that of the most relevant chunk. Thus, the LLM now got chunks from only one file, leading to more accurate answers most of the time. However, this also increased the danger of restricting the LLM to chunks from a completely _wrong_ file / professor's reviews - in other words, the LLM now depended even more on the retriever being competent.
+I originally wanted the LLM to only choose chunks from one file / professor's reviews. However, that turned out to be unreliable since the LLM would sometimes pick the _wrong_ file, throwing the entire response off. Thus, I diverged from my spec to manually filter out the chunks that came from a file different than that of the most relevant chunk. Thus, the LLM now got chunks from only one file, leading to more accurate answers most of the time. However, this also increased the danger of restricting the LLM to chunks from a completely _wrong_ file / professor's reviews - in other words, the LLM now depended even more on the retriever being competent. The spec was updated to reflect this change for consistency.
 
 ---
 
@@ -242,6 +248,13 @@ I originally wanted the LLM to only choose chunks from one file / professor's re
 - _What it produced:_ It did what I asked, but it also curiously added a `date_num` (e.g. 20260421) and `date_str` ("Apr 21st, 2026") field for review dates - a duplication that didn't exist for any other metadata field.
 - _What I changed or overrode:_ I asked it to only keep `date_num` since the `date_str` could be derived from the former in the UI anyway, so storing both seemed redundnat.
 
+## Limitations
+
+- Metadata filters do not apply when hybrid search is active. This is becasue \_\_\_\_.
+- Only metadata filtering by `source` works during fixed chunking because only `source` and `professor` metadata fields are retained under this chunking strategy. This is a natural limitation becasue most review metadata may be cut off or split between two chunks in this naive chunking strategy. In contrast, structure-based chunking allows for clean extraction of metadata from the chunks due to the structure being preserved.
+- Queries with unresolved pronouns with conversational memory isn't active (e.g. "Is his class hard?") returns a genuine response due to semantic search finding whichever professor's reviews stress their class difficulty.
+- A "troll" review
+
 ## Notes
 
 - Aggregate stats kept as a chunk with N other reivew chunks.
@@ -249,16 +262,4 @@ I originally wanted the LLM to only choose chunks from one file / professor's re
 - Embedded data vs metadata split:
   - Review metadata: source, professor, type, quality, difficulty, course, date_num, grade?, would_take_again?, online?, for_credit, thumbs_up, thumbs_down
   - Stats metadata:
-- AI use: Asked it to create cleaning and ingestion in one script, created ingest.py with cleaning, but I changed it to clean.py
-- AI use: asked it to store all reivew metadata, it stored date_num and date_str, I said to only keep date_num
-- AI use: `"extra credit": "EXTRA CREDIT"` -> `"extra credit": "Extra Credit"` in `clean.py`
 - Failure: Berenjian extra credit -> none of the 5 results contained extra credit even tho tags existed -> a few tags only diluted in dense embedding -> need BM25
-- Spec diverge: orig plan - have LLM choose from one professor's reviews - unreliable -> manual filtering to only matching source sof top result
-- Vague queries (e.g. with unresolved pronouns) even with no conversational memory - "Is his class hard?" - returns a genuine response due to semantic search finding whichever professor's reviews mention their class difficulty.
-- Filters + hybrid: the where filter is only applied in semantic mode; hybrid ignores it. The UI labels the filter
-  accordion "applied to semantic search," so it's disclosed — but if you tick both hybrid and a filter, the filter
-  silently won't apply.
-- Filters + fixed chunking: fixed chunks carry only source/professor, so the rating and date filters match nothing
-  under fixed (the source filter still works). Expected, given fixed windows have no per-review fields.
-- retrieve()'s max_distance param is implemented but no caller passes it — it's the "distance cutoff" hook from your
-  planning.md. Fine to leave as a documented option; just know it's currently dormant.

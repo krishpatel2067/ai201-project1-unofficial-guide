@@ -56,27 +56,6 @@ def _format_context(hits: list[dict]) -> str:
     return "\n\n".join(blocks)
 
 
-MAX_ANSWER_CHUNKS = 5   # most same-file chunks to send to the LLM
-
-
-def filter_to_top_file(hits: list[dict], limit: int = MAX_ANSWER_CHUNKS) -> list[dict]:
-    """Keep only the chunks from the top-ranked hit's source file, capped at ``limit``.
-
-    Retrieval pulls a wider candidate pool (top-k across ALL professors), but a
-    single-professor answer must draw from one file. Since hits are sorted by
-    ascending distance, the #1 hit's file is the best-matching professor; we drop
-    the other files, then cap the count. This structurally guarantees the
-    one-file / one-citation rule, and over-retrieving means we reliably send a
-    healthy handful of chunks instead of the 1-2 that slipped through when a
-    narrow top-k spanned several professors.
-    """
-    if not hits:
-        return hits
-    top_source = hits[0]["metadata"]["source"]
-    same_file = [h for h in hits if h["metadata"]["source"] == top_source]
-    return same_file[:limit]
-
-
 def generate_answer(query: str, hits: list[dict], history: list | None = None) -> str:
     """Call the Groq LLM to answer ``query``, grounded only in ``hits``.
 
@@ -151,7 +130,7 @@ def main() -> None:
 
     # Imported here so that merely importing generate.py (e.g. from main.py)
     # doesn't eagerly load the embedding model that retrieve.py pulls in.
-    from retrieve import retrieve
+    from retrieve import filter_to_top_file, retrieve
 
     hybrid = "--hybrid" in args
     strategy = "fixed" if "--fixed" in args else "structured"

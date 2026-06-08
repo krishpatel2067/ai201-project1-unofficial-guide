@@ -129,7 +129,7 @@ I would even consider online embedding models, which may be more capable than of
              V
    Embedding + Vector Store      (all-MiniLM-L6-v2 via sentence transform + ChromaDB; both offline)
              V
-         Retrieval               (top-k with distance cutoff; vanilla Python)
+         Retrieval               (top-10, filter to single-file - keep max 5; vanilla Python)
              V
         Generation               (Groq: llama-3.3-70b-versatile; API-based)
 ```

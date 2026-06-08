@@ -20,8 +20,8 @@ from datetime import datetime
 import gradio as gr
 
 from clean import CLEAN_DIR
-from generate import condense_query, filter_to_top_file, generate_answer
-from retrieve import retrieve
+from generate import condense_query, generate_answer
+from retrieve import filter_to_top_file, retrieve
 
 # Make long lines in the debug code blocks wrap instead of scrolling sideways.
 DEBUG_CSS = """
