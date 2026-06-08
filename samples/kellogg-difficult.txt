@@ -1,0 +1,28 @@
+Query: "Are Professor Kellogg's classes difficult?"
+Top 5 chunks by ascending cosine distance:
+
+#1  distance=0.3294  source=martin-kellogg.txt  type=review  id=martin-kellogg-review-3
+    Course: CS485
+    Kellogg is an engaging, informative, and amazing professor. You can tell he is passionate about this class and very knowledgeable about what he is talking about. This class is not for the faint of heart -- his class easily took up much more time than the rest of my classes combined, but you will learn a lot and it is a very rewarding experience.
+    Tags: Amazing lectures, Clear grading criteria, Lots of homework
+
+#2  distance=0.4042  source=martin-kellogg.txt  type=overall  id=martin-kellogg-overall
+    Overall quality rating: 4.1 out of 5, based on 7 ratings.
+    86% of students would take Martin Kellogg again.
+    Average level of difficulty: 4.6 out of 5.
+    Rating distribution: 5 students rated Awesome (5 stars), 0 Great (4 stars), 1 Good (3 stars), 0 OK (2 stars), 1 Awful (1 star).
+
+#3  distance=0.5110  source=samaneh-berenjian.txt  type=review  id=samaneh-berenjian-review-83
+    Course: CS696
+    The professor gave very hard time unable to understand anything interesting she expected 100% from students but delivering was not at all up to the mark. You may lead to difficulties and low grades even with diligent effort. The professor tends to deviate from her stated expectations and appears uncertain about her own teaching approach.
+    Tags: Tough grader, Graded by few things
+
+#4  distance=0.5163  source=kumar-mani.txt  type=review  id=kumar-mani-review-26
+    Course: CS356
+    Professor Mani is one of the worst teacher I've had in NJIT, and that's saying a lot. His class is not "hard" for the material, is hard because of him, it's hard because he believes that makes him a goof professor. Insane deadlines, stupid projects, more than one book to read. Group projects that won't teach you anything. AVOID AT ALL COST
+    Tags: Tough grader, Get ready to read, Group projects
+
+#5  distance=0.5195  source=kumar-mani.txt  type=review  id=kumar-mani-review-69
+    Course: CS636
+    He is a nice person, but the class had no direction, we didn't have a clear syllabus.. Hw/classwork problems were hard, he refused to give you the solutions to any of them, so we couldn't learn what we've done wrong. Super difficult test, impossible to complete. Problems that we had a week to do for hw that took 6-10 hours we had to do under 2hrs
+    Tags: Tough grader

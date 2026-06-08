@@ -76,9 +76,13 @@ Note: each professor's reviews have their own online page on RMP (easily searcha
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:** `all-MiniLM-L6-v2` because it is lightweight and on-device, suitable for project purposes.
 
 **Production tradeoff reflection:**
+
+If this project were deployed for real users and cost wasn't a constraint, I would consider opting for a more advanced model that offers more accurate embeddings especially for domain-specific text (vital for edge-case queries in this CS-professor-oriented RAG) and/or multilingual support (necessary for students whose first language isn't English). An example of an offline model satisfying the latter is `EmbeddingGemma (300M)` that can support 100+ languages. A larger context window wouldn't a big priority for this project because student questions about professors tend to be short and direct. One scenario it could be useful is with conversation history, but even then it is reasonable to assume most students wouldn't end up having long chats with the RAG about the same professor.
+
+I would even consider online embedding models, which may be more capable than offline ones and are not constrained by the user's hardware. However, online models often have a small monetary cost based on token use. Plus, moving from offline to online would introduce latency, perhaps slowing down the end-to-end operation. This tradeoff would be acceptable for a better, user-hardware-agnostic model, but it should be offered alongside local models as an option, depending on the user's preferences and needs.
 
 ---
 
@@ -183,3 +187,4 @@ Note: each professor's reviews have their own online page on RMP (easily searcha
 - AI use: Asked it to create cleaning and ingestion in one script, created ingest.py with cleaning, but I changed it to clean.py
 - AI use: asked it to store all reivew metadata, it stored date_num and date_str, I said to only keep date_num
 - AI use: `"extra credit": "EXTRA CREDIT"` -> `"extra credit": "Extra Credit"` in `clean.py`
+- Failure: Berenjian extra credit -> none of the 5 results contained extra credit even tho tags existed -> a few tags only diluted in dense embedding -> need BM25

@@ -69,9 +69,9 @@
 - [ ] **Verify:** print a few chunks (text + metadata) to console for review.
 
 ## Stage 3 — Embedding & Vector Store  (`src/retrieve.py`)  [Milestone 4]
-- [ ] `build_index()`: embed all chunks with `all-MiniLM-L6-v2` and add to a ChromaDB
+- [x] `build_index()`: embed all chunks with `all-MiniLM-L6-v2` and add to a ChromaDB
       collection configured for **cosine** distance, with metadata attached. (Run once.)
-- [ ] **Verify:** collection count matches total chunk count.
+- [x] **Verify:** collection count matches total chunk count. (759 chunks.)
 
 ## Stage 4 — Retrieval  (`src/retrieve.py`)  [Milestone 4]
 - [ ] `retrieve(query, k=5)`: semantic search, return chunks sorted ascending by distance.
