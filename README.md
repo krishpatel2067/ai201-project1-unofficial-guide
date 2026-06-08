@@ -188,3 +188,4 @@ I would even consider online embedding models, which may be more capable than of
 - AI use: asked it to store all reivew metadata, it stored date_num and date_str, I said to only keep date_num
 - AI use: `"extra credit": "EXTRA CREDIT"` -> `"extra credit": "Extra Credit"` in `clean.py`
 - Failure: Berenjian extra credit -> none of the 5 results contained extra credit even tho tags existed -> a few tags only diluted in dense embedding -> need BM25
+- Spec diverge: orig plan - have LLM choose from one professor's reviews - unreliable -> manual filtering to only matching source sof top result

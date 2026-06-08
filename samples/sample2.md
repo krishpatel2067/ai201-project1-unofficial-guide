@@ -1,3 +1,10 @@
+# Sample 2
+
+## Retrieval
+
+### Semantic Search Only
+
+```
 Query: "Are Professor Kellogg's classes difficult?"
 Top 5 chunks by ascending cosine distance:
 
@@ -26,3 +33,29 @@ Top 5 chunks by ascending cosine distance:
     Course: CS636
     He is a nice person, but the class had no direction, we didn't have a clear syllabus.. Hw/classwork problems were hard, he refused to give you the solutions to any of them, so we couldn't learn what we've done wrong. Super difficult test, impossible to complete. Problems that we had a week to do for hw that took 6-10 hours we had to do under 2hrs
     Tags: Tough grader
+```
+
+## Generation
+
+### LLM-Dependent Single-Source Filtering
+
+```
+Query: "Are Professor Kellogg's classes difficult?"
+
+Answer:
+I can't find the answer to that question. [samaneh-berenjian.txt]
+
+(Debug: retrieved candidates span 3 file(s): kamlesh-naik.txt, kumar-mani.txt, samaneh-berenjian.txt; the answer must cite exactly one.
+```
+
+### Manual Single-Source Filtering
+
+```
+Query: "Are Professor Kellogg's classes difficult?"
+
+Answer:
+Professor Kellogg's class, CS485, is considered challenging, requiring a significant amount of time and effort, but it is also a very rewarding experience. Students can expect to learn a lot, despite the class being demanding. [martin-kellogg.txt]
+
+(Debug: retrieved 5 chunks spanning 3 file(s): kumar-mani.txt, martin-kellogg.txt, samaneh-berenjian.txt.
+ Answer drawn from martin-kellogg.txt (1 chunk(s)).)
+```

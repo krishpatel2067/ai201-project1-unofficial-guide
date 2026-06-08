@@ -37,7 +37,9 @@
   **cosine distance**; **top-k = 5**; results sorted **ascending by distance** (most relevant first);
   optional distance cutoff.
 - **Generation:** Groq `llama-3.3-70b-versatile` with the fixed system prompt in
-  `spec/project-req.md`; grounded to retrieved chunks; exactly one citation `[<name>.txt]`.
+  `spec/project-req.md`; grounded to retrieved chunks; exactly one citation `[<name>.txt]`
+  (none on refusal). Single-professor answers are enforced in code via
+  `filter_to_top_file` (keep only the top hit's file), not by the prompt.
 - **Code layout (`src/`):** `clean.py` (load + clean), `chunk.py` (chunking), `retrieve.py`
   (embed + build store + retrieve), `generate.py` (LLM call + grounding), `main.py`
   (Gradio interface + pipeline wiring).
@@ -74,15 +76,21 @@
 - [x] **Verify:** collection count matches total chunk count. (759 chunks.)
 
 ## Stage 4 — Retrieval  (`src/retrieve.py`)  [Milestone 4]
-- [ ] `retrieve(query, k=5)`: semantic search, return chunks sorted ascending by distance.
-- [ ] Optional distance cutoff to drop weak matches.
-- [ ] **Verify:** run sample queries, inspect retrieved chunks + distances + sources.
+- [x] `retrieve(query, k=5)`: semantic search, return chunks sorted ascending by distance.
+- [x] Optional distance cutoff to drop weak matches (`max_distance` param).
+- [x] **Verify:** run sample queries, inspect retrieved chunks + distances + sources.
+      (Dense-only misses the Berenjian extra-credit case — see [[dense-retrieval-misses-tag-only-signals]];
+      to be addressed by hybrid search.)
 
 ## Stage 5 — Grounded Generation  (`src/generate.py`)  [Milestone 5]
-- [ ] Format retrieved chunks (with source filenames) into the LLM context.
-- [ ] Call Groq `llama-3.3-70b-versatile` with the fixed system prompt.
-- [ ] Enforce grounding: refusal string when unsupported; single `[<name>.txt]` citation.
-- [ ] **Verify:** answers are grounded + correctly cited; refusals fire when expected.
+- [x] Format retrieved chunks (with source filenames) into the LLM context.
+- [x] Call Groq `llama-3.3-70b-versatile` with the fixed system prompt.
+- [x] Collapse to a single professor before generation via `filter_to_top_file`
+      (keep only chunks from the top hit's file).
+- [x] Enforce grounding: refusal string when unsupported; single `[<name>.txt]` citation
+      (no citation on refusal).
+- [x] **Verify:** answers are grounded + correctly cited; refusals fire when expected.
+      (Kellogg now answers correctly; Berenjian correctly refuses w/o citation — see `samples/`.)
 
 ## Stage 6 — Query Interface  (`src/main.py`)  [Milestone 5]
 - [ ] Gradio chat UI wiring ingest → retrieve → generate.

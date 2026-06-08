@@ -1,3 +1,10 @@
+# Sample 1
+
+### Retrieval
+
+### Semantic Search Only
+
+```
 Query: "Does professor Berenjian offer extra credit?"
 Top 5 chunks by ascending cosine distance:
 
@@ -19,3 +26,29 @@ Top 5 chunks by ascending cosine distance:
 #4  distance=0.4963  source=samaneh-berenjian.txt  type=review  id=samaneh-berenjian-review-56
     Course: CS656
     Professor Berenjian is a great teacher! She really knows her stuff and explains things in a way that's easy to understand. She's always willing to help and genuinely cares about her students. Definitely recommend taking her class!
+```
+
+## Generation
+
+### Without Forbidding Citation upon Refusal in System Prompt
+
+```
+Query: "Does Professor Berenjian offer extra credit?"
+
+Answer:
+I can't find the answer to that question. [samaneh-berenjian.txt]
+
+(Debug: retrieved candidates span 2 file(s): abdul-rahman-itani.txt, samaneh-berenjian.txt; the answer must cite exactly one.)
+```
+
+### Forbidding Citation upon Refusal in System Prompt
+
+```
+Query: 'Does Professor Berenjian offer extra credit?'
+
+Answer:
+I can't find the answer to that question.
+
+(Debug: retrieved 5 chunks spanning 2 file(s): abdul-rahman-itani.txt, samaneh-berenjian.txt.
+ Answer drawn from samaneh-berenjian.txt (4 chunk(s)).)
+```
