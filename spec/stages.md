@@ -34,8 +34,10 @@
   - *Dates:* store `date_num` only; derive any display string with `datetime` at render time.
   - *Tags* live in the embedded text (Chroma can't store lists), not in metadata.
 - **Embedding/Retrieval:** `all-MiniLM-L6-v2` via `sentence-transformers`; ChromaDB;
-  **cosine distance**; **top-k = 5**; results sorted **ascending by distance** (most relevant first);
-  optional distance cutoff.
+  **cosine distance**; results sorted **ascending by distance** (most relevant first).
+  Retrieve a **top-10 candidate pool**, collapse to the top hit's
+  professor, then **cap at 5 chunks to the LLM** (so the single-professor answer gets enough
+  context even when the pool spans several professors).
 - **Generation:** Groq `llama-3.3-70b-versatile` with the fixed system prompt in
   `spec/project-req.md`; grounded to retrieved chunks; exactly one citation `[<name>.txt]`
   (none on refusal). Single-professor answers are enforced in code via
@@ -77,7 +79,7 @@
 
 ## Stage 4 — Retrieval  (`src/retrieve.py`)  [Milestone 4]
 - [x] `retrieve(query, k=5)`: semantic search, return chunks sorted ascending by distance.
-- [x] Optional distance cutoff to drop weak matches (`max_distance` param).
+- [x] (Considered a distance cutoff; dropped in favor of single-file filtering + the 5-chunk cap.)
 - [x] **Verify:** run sample queries, inspect retrieved chunks + distances + sources.
       (Dense-only misses the Berenjian extra-credit case — see [[dense-retrieval-misses-tag-only-signals]];
       to be addressed by hybrid search.)

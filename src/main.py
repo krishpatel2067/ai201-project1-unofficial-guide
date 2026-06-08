@@ -43,16 +43,23 @@ def _format_debug(retrieved: list[dict], used: list[dict],
     if not retrieved:
         return "_No chunks retrieved._"
     answer_file = used[0]["metadata"]["source"] if used else "none"
+    used_ids = {h["id"] for h in used}
     blocks = []
     if search_query:
         blocks.append(f"**Rewritten search query:** `{search_query}`\n")
     blocks.append(
         f"**Retrieved {len(retrieved)} chunks.** **Answer drawn from `{answer_file}`** "
-        f"({len(used)} chunk(s) after single-professor filtering)."
+        f"({len(used)} chunk(s) sent to the LLM).  "
+        f"_✅ = sent to the LLM · 📄 = same professor, over the 5-chunk cap._"
     )
     for rank, h in enumerate(retrieved, start=1):
         m = h["metadata"]
-        marker = "  ✅ used" if m["source"] == answer_file else ""
+        if h["id"] in used_ids:
+            marker = "  ✅ used"
+        elif m["source"] == answer_file:
+            marker = "  📄 same file"
+        else:
+            marker = ""
         dist = f"{h['distance']:.4f}" if h.get("distance") is not None else "n/a"
         rrf = f" · rrf `{h['rrf']:.4f}`" if "rrf" in h else ""
         blocks.append(

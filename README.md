@@ -56,7 +56,9 @@ Note: each professor's reviews have their own online page on RMP (easily searcha
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunking strategy**: Document structure-based chunking
+I implemented the stretch feature to allow switching between two strategies: document structure-based chunking (default) and fixed size chunking.
+
+### Document Structure-Based Chunking (Default)
 
 **Chunk size:** N/A (document structure)
 
@@ -66,7 +68,13 @@ Note: each professor's reviews have their own online page on RMP (easily searcha
 
 **Final chunk count:** 759 (10 overall, one for each proffesor + 749 reviews)
 
----
+### Fixed Size Chunking
+
+**Chunk size**: 650 characters (350 max words per review body + review info such as date, upvotes, etc.)
+
+**Overlap**: 75 characters
+
+## **Final chunk count**: 624
 
 ## Embedding Model
 
@@ -119,6 +127,8 @@ The source attribution is added to the end of an answer. If the model cannot ans
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
+Full system responses (both at the retrieval and generation stages) can be found in [`samples/eval-report.md`](./samples/eval-report.md).
+
 | #   | Question                                            | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 | --- | --------------------------------------------------- | --------------- | ---------------------------- | ----------------- | ----------------- |
 | 1   | Does professor Berenjian offer extra credit?        | [1]             | [6]                          |                   |                   |
@@ -153,7 +163,19 @@ It's not a good idea to skip Professor Naik's classes, as multiple students have
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
 
-## BM25 Keyword-Matching vs Semantic Only
+## Hybrid Approach vs Semantic Only
+
+Semantic search excels at matching meaning, handling similar topics and synonyms well. But it struggles with keywords that appear rarely in a corpus because its dense embedding cannot capture such rarely occuring words. BM25 solves this by trading the ability to match meaning with the ability to use match keywords precisely with the query, surfacing chunks that would have otherwise been suppressed under semantic search. Hybrid search takes the best of both worlds to match meaning and keywords at the same time.
+
+Each algorithm offers its own score: cosine distance for semantic search and \_\_\_\_ for BM25. However, these two scores aren't compatible, so it is more optimal to combine the _rankings_ they produce via **Reciprocal Rank Fusion** that uses the following formula:
+
+```
+combined_score = 1 / (k + semantic_rank) + 1 / (k + bm25_rank)
+```
+
+where `k` is a constant chosen to be 60 in this project, which is a typical value.
+
+**Comparison**: found in [`samples/semantic-vs-bm25.md`](./samples/semantic-vs-bm25.md).
 
 ---
 
@@ -170,13 +192,15 @@ It's not a good idea to skip Professor Naik's classes, as multiple students have
      "The embedding model treated the professor's nickname as out-of-vocabulary and returned
      results from an unrelated review" is an explanation. -->
 
-**Question that failed:**
+**Question that failed:** "Does professor Berenjian offer extra credit?"
 
-**What the system returned:**
+**What the system returned:** Chunks that were did not contain any mention of extra credit
 
-**Root cause (tied to a specific pipeline stage):**
+**Root cause (tied to a specific pipeline stage):** Very low (<10) frequency of "extra credit", causing it to be drowned out during retrieval due to a dense embedding scheme.
 
 **What you would change to fix it:**
+
+One solution I alreay tried is implementing hybrid search (semantic + BM25 keyword-matching), which didn't help in surfacing the chunks that had "extra credit" in them. I might need a completely different embedding scheme, perhaps one that is more sparse that allows rare terms like "extra credit" to survive in the face of everyday words.
 
 ---
 
@@ -191,7 +215,7 @@ From the beginning, I knew I wanted to include all the stretch features in the p
 
 **One way your implementation diverged from the spec, and why:**
 
-I originally wanted the LLM to
+I originally wanted the LLM to only choose chunks from one file / professor's reviews. However, that turned out to be unreliable since the LLM would sometimes pick the _wrong_ file, throwing the entire response off. Thus, I diverged from my spec to manually filter out the chunks that came from a file different than that of the most relevant chunk. Thus, the LLM now got chunks from only one file, leading to more accurate answers most of the time. However, this also increased the danger of restricting the LLM to chunks from a completely _wrong_ file / professor's reviews - in other words, the LLM now depended even more on the retriever being competent.
 
 ---
 
@@ -230,3 +254,11 @@ I originally wanted the LLM to
 - AI use: `"extra credit": "EXTRA CREDIT"` -> `"extra credit": "Extra Credit"` in `clean.py`
 - Failure: Berenjian extra credit -> none of the 5 results contained extra credit even tho tags existed -> a few tags only diluted in dense embedding -> need BM25
 - Spec diverge: orig plan - have LLM choose from one professor's reviews - unreliable -> manual filtering to only matching source sof top result
+- Vague queries (e.g. with unresolved pronouns) even with no conversational memory - "Is his class hard?" - returns a genuine response due to semantic search finding whichever professor's reviews mention their class difficulty.
+- Filters + hybrid: the where filter is only applied in semantic mode; hybrid ignores it. The UI labels the filter
+  accordion "applied to semantic search," so it's disclosed — but if you tick both hybrid and a filter, the filter
+  silently won't apply.
+- Filters + fixed chunking: fixed chunks carry only source/professor, so the rating and date filters match nothing
+  under fixed (the source filter still works). Expected, given fixed windows have no per-review fields.
+- retrieve()'s max_distance param is implemented but no caller passes it — it's the "distance cutoff" hook from your
+  planning.md. Fine to leave as a documented option; just know it's currently dormant.

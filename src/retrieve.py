@@ -5,13 +5,14 @@ This module owns the two ends of the same pipe (see spec/stages.md for why they
 live together):
 
     build_index()    -- run ONCE, offline. Embeds every chunk from chunk.py and
-                        stores the vectors + metadata in a ChromaDB collection.
-    retrieve(query)  -- run PER QUERY, online. (Added in Stage 4.) Embeds the
-                        query and returns the most similar chunks.
+                        stores the vectors + metadata in ChromaDB (one collection
+                        per chunking strategy: structured + fixed).
+    retrieve(query)  -- run PER QUERY, online. Embeds the query and returns the
+                        most similar chunks.
 
-The two share a single embedding model and a single Chroma collection. That
-shared contract is the whole reason they belong in one file: change the model
-or collection here and both sides stay consistent. Embedding the query with a
+The two share a single embedding model and the same Chroma collections. That
+shared contract is the whole reason they belong in one file: change the model or
+a collection name here and both sides stay consistent. Embedding the query with a
 *different* model than the documents would make cosine distance meaningless.
 """
 
@@ -31,7 +32,7 @@ CHROMA_DIR = PROJECT_ROOT / "chroma_db"   # on-disk persistence (git-ignored)
 COLLECTIONS = {"structured": "rmp_structured", "fixed": "rmp_fixed"}
 DEFAULT_STRATEGY = "structured"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-TOP_K = 5
+TOP_K = 10   # candidate pool retrieved; collapsed to one professor + capped before the LLM
 RRF_K = 60   # Reciprocal Rank Fusion constant (standard default)
 
 # The embedding function converts text -> vectors with all-MiniLM-L6-v2.
@@ -94,8 +95,7 @@ def build_index() -> dict[str, int]:
 
 # --- Stage 4: retrieve -------------------------------------------------------
 def retrieve(query: str, k: int = TOP_K, hybrid: bool = False,
-             strategy: str = DEFAULT_STRATEGY, max_distance: float | None = None,
-             where: dict | None = None) -> list[dict]:
+             strategy: str = DEFAULT_STRATEGY, where: dict | None = None) -> list[dict]:
     """Return the ``k`` most relevant chunks for ``query``.
 
     ``hybrid=False`` (default): pure semantic search — embed the query and rank
@@ -104,8 +104,8 @@ def retrieve(query: str, k: int = TOP_K, hybrid: bool = False,
     chunking collection ('structured' or 'fixed').
 
     Each hit is a dict (id, document, metadata, distance; plus ``rrf`` in hybrid
-    mode), most-relevant first. ``max_distance`` optionally drops weak matches and
-    ``where`` is an optional Chroma metadata filter (both semantic mode only).
+    mode), most-relevant first. ``where`` is an optional Chroma metadata filter
+    (semantic mode only).
     """
     if hybrid:
         return _retrieve_hybrid(query, k, strategy)
@@ -114,17 +114,15 @@ def retrieve(query: str, k: int = TOP_K, hybrid: bool = False,
     results = collection.query(query_texts=[query], n_results=k, where=where)
 
     # Chroma wraps each result list one-per-query; we sent a single query -> [0].
-    hits: list[dict] = []
-    for id_, doc, meta, dist in zip(
-        results["ids"][0],
-        results["documents"][0],
-        results["metadatas"][0],
-        results["distances"][0],
-    ):
-        if max_distance is not None and dist > max_distance:
-            continue
-        hits.append({"id": id_, "document": doc, "metadata": meta, "distance": dist})
-    return hits
+    return [
+        {"id": id_, "document": doc, "metadata": meta, "distance": dist}
+        for id_, doc, meta, dist in zip(
+            results["ids"][0],
+            results["documents"][0],
+            results["metadatas"][0],
+            results["distances"][0],
+        )
+    ]
 
 
 # --- Stretch feature: hybrid (semantic + BM25) retrieval --------------------

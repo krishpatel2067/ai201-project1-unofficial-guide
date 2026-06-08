@@ -56,19 +56,25 @@ def _format_context(hits: list[dict]) -> str:
     return "\n\n".join(blocks)
 
 
-def filter_to_top_file(hits: list[dict]) -> list[dict]:
-    """Keep only the chunks from the top-ranked hit's source file.
+MAX_ANSWER_CHUNKS = 5   # most same-file chunks to send to the LLM
 
-    Retrieval returns the top-k across ALL professors, but a single-professor
-    answer must draw from one file. Since hits are sorted by ascending distance,
-    the #1 hit's file is the best-matching professor; we drop chunks from any
-    other file before generation. This structurally guarantees the one-file /
-    one-citation rule instead of relying on the LLM to obey it.
+
+def filter_to_top_file(hits: list[dict], limit: int = MAX_ANSWER_CHUNKS) -> list[dict]:
+    """Keep only the chunks from the top-ranked hit's source file, capped at ``limit``.
+
+    Retrieval pulls a wider candidate pool (top-k across ALL professors), but a
+    single-professor answer must draw from one file. Since hits are sorted by
+    ascending distance, the #1 hit's file is the best-matching professor; we drop
+    the other files, then cap the count. This structurally guarantees the
+    one-file / one-citation rule, and over-retrieving means we reliably send a
+    healthy handful of chunks instead of the 1-2 that slipped through when a
+    narrow top-k spanned several professors.
     """
     if not hits:
         return hits
     top_source = hits[0]["metadata"]["source"]
-    return [h for h in hits if h["metadata"]["source"] == top_source]
+    same_file = [h for h in hits if h["metadata"]["source"] == top_source]
+    return same_file[:limit]
 
 
 def generate_answer(query: str, hits: list[dict], history: list | None = None) -> str:
@@ -87,9 +93,10 @@ def generate_answer(query: str, hits: list[dict], history: list | None = None) -
         )
     client = Groq(api_key=api_key)
 
-    # history is already in chat-message format, so splice it straight in.
+    # history is in Gradio chat-message format, which can carry extra keys
+    # (metadata/options) that the Groq API rejects — keep only role + content.
     messages = [{"role": "system", "content": SYSTEM_PROMPT}]
-    messages.extend(history or [])
+    messages.extend({"role": m["role"], "content": m["content"]} for m in (history or []))
     messages.append({"role": "user",
                      "content": f"User query: {query}\n\nSources:\n{_format_context(hits)}"})
 
@@ -105,7 +112,7 @@ def generate_answer(query: str, hits: list[dict], history: list | None = None) -
 
 def condense_query(history: list, question: str) -> str:
     """Rewrite a follow-up ``question`` into a standalone search query using the
-    conversation ``history`` (a list of (user, assistant) pairs).
+    conversation ``history``.
 
     ``history`` is a list of prior chat messages ({"role", "content"} dicts).
     Returns ``question`` unchanged when there's no history to resolve. This is a
