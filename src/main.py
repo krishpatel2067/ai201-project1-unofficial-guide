@@ -35,8 +35,9 @@ DEBUG_CSS = """
 SOURCE_FILES = sorted(p.name for p in CLEAN_DIR.glob("*.txt"))
 
 
-def _format_debug(retrieved: list[dict], used: list[dict],
-                  search_query: str | None = None) -> str:
+def _format_debug(
+    retrieved: list[dict], used: list[dict], search_query: str | None = None
+) -> str:
     """Render the retrieved chunks (distances, sources, full text) as markdown,
     flagging which ones survived the single-professor filter and fed the answer.
     ``search_query`` is shown when conversational memory rewrote the question."""
@@ -81,7 +82,7 @@ def _parse_date_input(text: str) -> int | None:
         return None  # unparseable -> treat as no date filter
 
 
-def _build_where(source: str, min_rating: float, after_date: str):
+def build_where(source: str | None, min_rating: float | None, after_date: str | None):
     """Assemble a ChromaDB metadata filter from the UI controls (or None).
 
     Combines any active filters with $and. Applies to semantic search; the rating
@@ -100,8 +101,16 @@ def _build_where(source: str, min_rating: float, after_date: str):
     return clauses[0] if len(clauses) == 1 else {"$and": clauses}
 
 
-def chat(message: str, history: list, memory: bool, hybrid: bool, strategy: str,
-         source: str, min_rating: float, after_date: str):
+def chat(
+    message: str,
+    history: list,
+    memory: bool,
+    hybrid: bool,
+    strategy: str,
+    source: str,
+    min_rating: float,
+    after_date: str,
+):
     """One chat turn: returns (updated_history, cleared_box, debug_markdown).
 
     ``history`` is the chatbot's list of chat-message dicts ({"role", "content"}).
@@ -117,7 +126,7 @@ def chat(message: str, history: list, memory: bool, hybrid: bool, strategy: str,
     search_query = condense_query(history, message) if (memory and history) else message
 
     # 2. Retrieve + collapse to a single professor.
-    where = _build_where(source, min_rating, after_date)
+    where = build_where(source, min_rating, after_date)
     retrieved = retrieve(search_query, hybrid=hybrid, strategy=strategy, where=where)
     used = filter_to_top_file(retrieved)
 
@@ -152,31 +161,52 @@ def build_app() -> gr.Blocks:
             clear = gr.Button("Clear conversation")
 
         # --- Stretch-feature toggles ---
-        memory = gr.Checkbox(label="Conversational memory (use previous turns)", value=False)
+        memory = gr.Checkbox(
+            label="Conversational memory (use previous turns)", value=False
+        )
         memory_status = gr.Markdown("Conversational memory: **OFF**")
-        hybrid = gr.Checkbox(label="Hybrid search (semantic + BM25 keyword)", value=False)
+        hybrid = gr.Checkbox(
+            label="Hybrid search (semantic + BM25 keyword)", value=False
+        )
         strategy = gr.Radio(
-            choices=["structured", "fixed"], value="structured",
+            choices=["structured", "fixed"],
+            value="structured",
             label="Chunking strategy (structured = per-review; fixed = 650-char windows)",
         )
 
         with gr.Accordion("Filters (optional, applied to semantic search)", open=False):
             source = gr.Dropdown(
-                choices=["(any)"] + SOURCE_FILES, value="(any)",
+                choices=["(any)"] + SOURCE_FILES,
+                value="(any)",
                 label="Source file (professor)",
             )
             min_rating = gr.Slider(
-                0, 5, value=0, step=0.5, label="Minimum review rating (0 = any)",
+                0,
+                5,
+                value=0,
+                step=0.5,
+                label="Minimum review rating (0 = any)",
             )
             after_date = gr.Textbox(
                 label="Reviews on or after (YYYY-MM-DD, optional)",
                 placeholder="e.g. 2024-01-01",
             )
 
-        with gr.Accordion("Debug — retrieved chunks, distances, and sources", open=False):
+        with gr.Accordion(
+            "Debug — retrieved chunks, distances, and sources", open=False
+        ):
             debug = gr.Markdown(elem_id="debug-panel")
 
-        inputs = [message, chatbot, memory, hybrid, strategy, source, min_rating, after_date]
+        inputs = [
+            message,
+            chatbot,
+            memory,
+            hybrid,
+            strategy,
+            source,
+            min_rating,
+            after_date,
+        ]
         outputs = [chatbot, message, debug]
         ask.click(chat, inputs=inputs, outputs=outputs)
         message.submit(chat, inputs=inputs, outputs=outputs)
@@ -184,7 +214,8 @@ def build_app() -> gr.Blocks:
         # Reflect the memory toggle's state in the UI (spec: "show whether enabled").
         memory.change(
             lambda on: f"Conversational memory: **{'ON' if on else 'OFF'}**",
-            inputs=memory, outputs=memory_status,
+            inputs=memory,
+            outputs=memory_status,
         )
     return app
 

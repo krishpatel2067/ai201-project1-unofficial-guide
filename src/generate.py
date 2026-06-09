@@ -12,7 +12,6 @@ Run with:  python src/generate.py "your question here"
 from __future__ import annotations
 
 import os
-import sys
 
 from dotenv import load_dotenv
 from groq import Groq
@@ -75,9 +74,15 @@ def generate_answer(query: str, hits: list[dict], history: list | None = None) -
     # history is in Gradio chat-message format, which can carry extra keys
     # (metadata/options) that the Groq API rejects — keep only role + content.
     messages = [{"role": "system", "content": SYSTEM_PROMPT}]
-    messages.extend({"role": m["role"], "content": m["content"]} for m in (history or []))
-    messages.append({"role": "user",
-                     "content": f"User query: {query}\n\nSources:\n{_format_context(hits)}"})
+    messages.extend(
+        {"role": m["role"], "content": m["content"]} for m in (history or [])
+    )
+    messages.append(
+        {
+            "role": "user",
+            "content": f"User query: {query}\n\nSources:\n{_format_context(hits)}",
+        }
+    )
 
     response = client.chat.completions.create(
         model=MODEL,
@@ -112,8 +117,10 @@ def condense_query(history: list, question: str) -> str:
         model=MODEL,
         messages=[
             {"role": "system", "content": CONDENSE_SYSTEM_PROMPT},
-            {"role": "user",
-             "content": f"Conversation so far:\n{convo}\n\nLatest question: {question}"},
+            {
+                "role": "user",
+                "content": f"Conversation so far:\n{convo}\n\nLatest question: {question}",
+            },
         ],
         temperature=0.0,  # deterministic rewrite
     )
@@ -121,36 +128,45 @@ def condense_query(history: list, question: str) -> str:
 
 
 def main() -> None:
-    # Flags (any order, before the query): --hybrid, --fixed.
-    args = sys.argv[1:]
-    query = " ".join(a for a in args if not a.startswith("--"))
-    if not query:
-        print('Usage: python src/generate.py [--hybrid] [--fixed] "your question here"')
-        return
+    from main import build_where
+    from retrieve import get_parser, print_hits, filter_to_top_file, retrieve
 
-    # Imported here so that merely importing generate.py (e.g. from main.py)
-    # doesn't eagerly load the embedding model that retrieve.py pulls in.
-    from retrieve import filter_to_top_file, retrieve
+    parser = get_parser(desc="Generation CLI parsing")
+    parser.add_argument(
+        "--show-retrieved",
+        action="store_true",
+        help="Show all the retrieved chunks passed to the LLM",
+    )
+    args = parser.parse_args()
+    query = args.query
+    hybrid = args.hybrid
+    strategy = "fixed" if args.fixed else "structured"
 
-    hybrid = "--hybrid" in args
-    strategy = "fixed" if "--fixed" in args else "structured"
-
-    retrieved = retrieve(query, hybrid=hybrid, strategy=strategy)
+    where = build_where(
+        source=args.src,
+        min_rating=args.min_rating,
+        after_date=(args.start_date and args.start_date.isoformat()),
+    )
+    retrieved = retrieve(query, hybrid=hybrid, strategy=strategy, where=where)
     used = filter_to_top_file(retrieved)
     answer = generate_answer(query, used)
 
     print(f"\nQuery: {query!r}  (hybrid={hybrid}, strategy={strategy})\n")
     print("Answer:")
     print(answer)
-    # Debug: what search returned (across files) vs. the single file the answer
-    # was actually drawn from after filtering to the top hit's source.
-    retrieved_sources = sorted({h["metadata"]["source"] for h in retrieved})
-    answer_file = used[0]["metadata"]["source"] if used else "none"
-    print(
-        f"\n(Debug: retrieved {len(retrieved)} chunks spanning "
-        f"{len(retrieved_sources)} file(s): {', '.join(retrieved_sources)}.\n"
-        f" Answer drawn from {answer_file} ({len(used)} chunk(s)).)"
-    )
+
+    if args.show_retrieved:
+        print_hits(query, retrieved, filter_to_top_file(retrieved))
+    else:
+        # Short debug: what search returned (across files) vs. the single file the answer
+        # was actually drawn from after filtering to the top hit's source.
+        retrieved_sources = sorted({h["metadata"]["source"] for h in retrieved})
+        answer_file = used[0]["metadata"]["source"] if used else "none"
+        print(
+            f"\n(Debug: retrieved {len(retrieved)} chunks spanning "
+            f"{len(retrieved_sources)} file(s): {', '.join(retrieved_sources)}.\n"
+            f" Answer drawn from {answer_file} ({len(used)} chunk(s)).)"
+        )
 
 
 if __name__ == "__main__":

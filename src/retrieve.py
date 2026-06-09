@@ -19,7 +19,8 @@ a collection name here and both sides stay consistent. Embedding the query with 
 from __future__ import annotations
 
 import re
-import sys
+import argparse
+from datetime import date
 
 import chromadb
 from chromadb.utils import embedding_functions
@@ -28,12 +29,14 @@ from chunk import build_chunks
 from clean import PROJECT_ROOT
 
 # --- Shared config -----------------------------------------------------------
-CHROMA_DIR = PROJECT_ROOT / "chroma_db"   # on-disk persistence (git-ignored)
+CHROMA_DIR = PROJECT_ROOT / "chroma_db"  # on-disk persistence (git-ignored)
 COLLECTIONS = {"structured": "rmp_structured", "fixed": "rmp_fixed"}
 DEFAULT_STRATEGY = "structured"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-TOP_K = 10   # candidate pool retrieved; collapsed to one professor + capped before the LLM
-RRF_K = 60   # Reciprocal Rank Fusion constant (standard default)
+TOP_K = (
+    10  # candidate pool retrieved; collapsed to one professor + capped before the LLM
+)
+RRF_K = 60  # Reciprocal Rank Fusion constant (standard default)
 
 # The embedding function converts text -> vectors with all-MiniLM-L6-v2.
 # By attaching it to the collection, ChromaDB uses it automatically for BOTH
@@ -94,8 +97,13 @@ def build_index() -> dict[str, int]:
 
 
 # --- Stage 4: retrieve -------------------------------------------------------
-def retrieve(query: str, k: int = TOP_K, hybrid: bool = False,
-             strategy: str = DEFAULT_STRATEGY, where: dict | None = None) -> list[dict]:
+def retrieve(
+    query: str,
+    k: int = TOP_K,
+    hybrid: bool = False,
+    strategy: str = DEFAULT_STRATEGY,
+    where: dict | None = None,
+) -> list[dict]:
     """Return the ``k`` most relevant chunks for ``query``.
 
     ``hybrid=False`` (default): pure semantic search — embed the query and rank
@@ -126,7 +134,7 @@ def retrieve(query: str, k: int = TOP_K, hybrid: bool = False,
 
 
 # --- Single-professor collapse ----------------------------------------------
-MAX_ANSWER_CHUNKS = 5   # most same-file chunks to forward to the generator
+MAX_ANSWER_CHUNKS = 5  # most same-file chunks to forward to the generator
 
 
 def filter_to_top_file(hits: list[dict], limit: int = MAX_ANSWER_CHUNKS) -> list[dict]:
@@ -148,7 +156,7 @@ def filter_to_top_file(hits: list[dict], limit: int = MAX_ANSWER_CHUNKS) -> list
 
 
 # --- Stretch feature: hybrid (semantic + BM25) retrieval --------------------
-_bm25_cache: dict[str, tuple] = {}   # strategy -> (BM25Okapi index, chunks)
+_bm25_cache: dict[str, tuple] = {}  # strategy -> (BM25Okapi index, chunks)
 
 
 def _tokenize(text: str) -> list[str]:
@@ -165,9 +173,11 @@ def _get_bm25(strategy: str = DEFAULT_STRATEGY):
     """
     if strategy not in _bm25_cache:
         from rank_bm25 import BM25Okapi
+
         chunks = build_chunks(strategy)
         _bm25_cache[strategy] = (
-            BM25Okapi([_tokenize(c["document"]) for c in chunks]), chunks
+            BM25Okapi([_tokenize(c["document"]) for c in chunks]),
+            chunks,
         )
     return _bm25_cache[strategy]
 
@@ -187,7 +197,9 @@ def _rrf(rankings: list[list[str]]) -> dict[str, float]:
     return scores
 
 
-def _retrieve_hybrid(query: str, k: int, strategy: str = DEFAULT_STRATEGY) -> list[dict]:
+def _retrieve_hybrid(
+    query: str, k: int, strategy: str = DEFAULT_STRATEGY
+) -> list[dict]:
     """Fuse semantic + BM25 rankings with RRF and return the top-k chunks.
 
     Both retrievers rank ALL chunks; each returned chunk keeps its cosine
@@ -205,8 +217,10 @@ def _retrieve_hybrid(query: str, k: int, strategy: str = DEFAULT_STRATEGY) -> li
 
     # BM25 ranking over all chunks (best score first).
     bm25_scores = bm25.get_scores(_tokenize(query))
-    bm25_ids = [chunks[i]["id"]
-                for i in sorted(range(n), key=lambda i: bm25_scores[i], reverse=True)]
+    bm25_ids = [
+        chunks[i]["id"]
+        for i in sorted(range(n), key=lambda i: bm25_scores[i], reverse=True)
+    ]
 
     # Fuse the two rankings and take the top-k by RRF score.
     fused = _rrf([sem_ids, bm25_ids])
@@ -224,7 +238,7 @@ def _retrieve_hybrid(query: str, k: int, strategy: str = DEFAULT_STRATEGY) -> li
     ]
 
 
-def _print_hits(query: str, hits: list[dict], used: list[dict] | None = None) -> None:
+def print_hits(query: str, hits: list[dict], used: list[dict] | None = None) -> None:
     """Debug view of retrieved chunks — mirrors the Gradio debug panel.
 
     ``used`` are the chunks that survive single-professor filtering + the cap
@@ -235,8 +249,10 @@ def _print_hits(query: str, hits: list[dict], used: list[dict] | None = None) ->
     answer_file = used[0]["metadata"]["source"] if used else None
 
     print(f"\nQuery: {query!r}")
-    print(f"Top {len(hits)} chunks "
-          "(✅ = sent to the LLM · 📄 = same professor, over the cap):\n")
+    print(
+        f"Top {len(hits)} chunks "
+        "(✅ = sent to the LLM · 📄 = same professor, over the cap):\n"
+    )
     for rank, h in enumerate(hits, start=1):
         m = h["metadata"]
         if h["id"] in used_ids:
@@ -247,38 +263,92 @@ def _print_hits(query: str, hits: list[dict], used: list[dict] | None = None) ->
             marker = ""
         dist = f"{h['distance']:.4f}" if h.get("distance") is not None else "n/a"
         rrf = f"  rrf={h['rrf']:.4f}" if "rrf" in h else ""
-        print(f"#{rank}  distance={dist}{rrf}  "
-              f"source={m['source']}  type={m['type']}  id={h['id']}{marker}")
+        print(
+            f"#{rank}  distance={dist}{rrf}  "
+            f"source={m['source']}  type={m['type']}  id={h['id']}{marker}"
+        )
+        print(
+            f"Metadata: {", ".join(f"{k}: {v}" for k, v in sorted(m.items(), key=lambda x: x[0]) if k not in ["source", "type"])}"
+        )
         indented = h["document"].replace("\n", "\n    ")
         print(f"    {indented}\n")
 
 
 def _build_and_report() -> None:
     print(f"Embedding model: {EMBEDDING_MODEL}")
-    print("Building indexes — the first run downloads the model (~80 MB), "
-          "so it may take a minute...")
+    print(
+        "Building indexes — the first run downloads the model (~80 MB), "
+        "so it may take a minute..."
+    )
     counts = build_index()
     for strategy, count in counts.items():
-        print(f"  {strategy:<11} -> collection '{COLLECTIONS[strategy]}': {count} chunks")
+        print(
+            f"  {strategy:<11} -> collection '{COLLECTIONS[strategy]}': {count} chunks"
+        )
     print(f"Stored at {CHROMA_DIR.relative_to(PROJECT_ROOT)}/")
 
 
+def get_parser(desc):
+    parser = argparse.ArgumentParser(description=desc)
+
+    parser.add_argument(
+        "--hybrid",
+        action="store_true",
+        required=False,
+        help="Use hybrid (semantic + BM25) search otherwise semantic-only by default",
+    )
+    parser.add_argument(
+        "--fixed",
+        action="store_true",
+        required=False,
+        help="Use fixed chunking otherwise structured by default",
+    )
+    parser.add_argument(
+        "--src",
+        type=str,
+        required=False,
+        help="Name of source doc from which to retrieve, e.g. martin-kellogg.txt",
+    )
+    parser.add_argument(
+        "--min-rating",
+        type=float,
+        required=False,
+        help="Minimum rating of reviews to retrieve, e.g. 4.0",
+    )
+    parser.add_argument(
+        "--start-date",
+        type=date.fromisoformat,
+        required=False,
+        help="Earliest date from which to retrieve reviews, e.g. 2026-06-09",
+    )
+    parser.add_argument("query", type=str, help="Query for retrieval")
+    return parser
+
+
 def main() -> None:
-    # Flags (any order): --rebuild (build the indexes), --hybrid, --fixed.
+    import sys
+    from main import build_where
+
+    parser = get_parser(desc="Retrieval CLI parsing")
+
     args = sys.argv[1:]
     if "--rebuild" in args:
         _build_and_report()
         return
-    hybrid = "--hybrid" in args
-    strategy = "fixed" if "--fixed" in args else DEFAULT_STRATEGY
-    query = " ".join(a for a in args if not a.startswith("--"))
-    if not query:
-        print('Usage:\n'
-              '  python src/retrieve.py --rebuild                        # (re)build the indexes\n'
-              '  python src/retrieve.py [--hybrid] [--fixed] "question"  # search')
-        return
-    retrieved = retrieve(query, hybrid=hybrid, strategy=strategy)
-    _print_hits(query, retrieved, filter_to_top_file(retrieved))
+
+    args = parser.parse_args()
+
+    hybrid = args.hybrid
+    strategy = "fixed" if args.fixed else DEFAULT_STRATEGY
+    query = args.query
+
+    where = build_where(
+        source=args.src,
+        min_rating=args.min_rating,
+        after_date=(args.start_date and args.start_date.isoformat()),
+    )
+    retrieved = retrieve(query, hybrid=hybrid, strategy=strategy, where=where)
+    print_hits(query, retrieved, filter_to_top_file(retrieved))
 
 
 if __name__ == "__main__":

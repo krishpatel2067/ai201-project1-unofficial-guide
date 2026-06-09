@@ -31,17 +31,18 @@ from __future__ import annotations
 
 import random
 import re
+import sys
 from datetime import datetime
 
 # Reuse the path constants from clean.py so the pipeline stays in sync.
 from clean import CLEAN_DIR
-
 
 # --- Clean-doc parsing -------------------------------------------------------
 # chunk.py treats the clean docs as its input "contract": it re-parses the
 # structured text clean.py wrote. Keeping stages decoupled through a persisted
 # artifact (rather than sharing in-memory objects) mirrors how real indexing
 # pipelines hand off between steps.
+
 
 def parse_clean_doc(text: str) -> tuple[dict, list[dict]]:
     """Split a clean doc into (overall stats dict, list of review dicts)."""
@@ -123,8 +124,11 @@ def _overall_chunk(slug: str, overall: dict) -> dict:
         "num_ratings": overall["num_ratings"],
         "would_take_again_pct": overall["would_take_again_pct"],
         "difficulty": overall["difficulty"],
-        "dist_5": d.get(5, 0), "dist_4": d.get(4, 0), "dist_3": d.get(3, 0),
-        "dist_2": d.get(2, 0), "dist_1": d.get(1, 0),
+        "dist_5": d.get(5, 0),
+        "dist_4": d.get(4, 0),
+        "dist_3": d.get(3, 0),
+        "dist_2": d.get(2, 0),
+        "dist_1": d.get(1, 0),
     }
     return {"id": f"{slug}-overall", "document": document, "metadata": metadata}
 
@@ -188,8 +192,8 @@ def build_all_chunks() -> list[dict]:
 # is the naive baseline the interface toggles against. Fixed chunks carry only
 # source/professor metadata (a window can straddle several reviews, so per-review
 # fields like quality/date don't apply).
-FIXED_CHUNK_SIZE = 650   # characters per window (within the 500-750 spec)
-FIXED_OVERLAP = 75       # characters shared between consecutive windows
+FIXED_CHUNK_SIZE = 650  # characters per window (within the 500-750 spec)
+FIXED_OVERLAP = 75  # characters shared between consecutive windows
 
 
 def build_all_chunks_fixed() -> list[dict]:
@@ -203,16 +207,21 @@ def build_all_chunks_fixed() -> list[dict]:
         professor = name_match.group(1).strip() if name_match else slug
         n = 0
         for start in range(0, len(text), step):
-            window = text[start:start + FIXED_CHUNK_SIZE].strip()
+            window = text[start : start + FIXED_CHUNK_SIZE].strip()
             if not window:
                 continue
             n += 1
-            chunks.append({
-                "id": f"{slug}-fixed-{n}",
-                "document": window,
-                "metadata": {"source": f"{slug}.txt", "professor": professor,
-                             "type": "fixed"},
-            })
+            chunks.append(
+                {
+                    "id": f"{slug}-fixed-{n}",
+                    "document": window,
+                    "metadata": {
+                        "source": f"{slug}.txt",
+                        "professor": professor,
+                        "type": "fixed",
+                    },
+                }
+            )
     return chunks
 
 
@@ -223,16 +232,37 @@ def build_chunks(strategy: str = "structured") -> list[dict]:
 
 # --- Driver / sanity check ---------------------------------------------------
 def main() -> None:
-    chunks = build_all_chunks()
-    n_overall = sum(c["metadata"]["type"] == "overall" for c in chunks)
-    n_review = sum(c["metadata"]["type"] == "review" for c in chunks)
+    args = sys.argv[1:]
+    if "--help" in args:
+        print("Usage: python src/chunk.py [--fixed]")
+        return
+
+    strategy = "fixed" if "--fixed" in args else "structured"
+
+    # If using structured chunking, print one random chunk of each kind so repeated runs
+    # surface different professors/reviews to eyeball the document/metadata split broadly.
+    if strategy == "fixed":
+        chunks = build_all_chunks_fixed()
+        n_overall = 0
+        n_review = sum(1 for _ in chunks)
+        sample_overall = None
+        sample_review = random.choice([c for c in chunks])
+    else:
+        chunks = build_all_chunks()
+        n_overall = sum(c["metadata"]["type"] == "overall" for c in chunks)
+        n_review = sum(c["metadata"]["type"] == "review" for c in chunks)
+        sample_overall = random.choice(
+            [c for c in chunks if c["metadata"]["type"] == "overall"]
+        )
+        sample_review = random.choice(
+            [c for c in chunks if c["metadata"]["type"] == "review"]
+        )
+
     print(f"Built {len(chunks)} chunks: {n_overall} overall + {n_review} reviews\n")
 
-    # Print one random chunk of each kind so repeated runs surface different
-    # professors/reviews and you can eyeball the document/metadata split broadly.
-    sample_overall = random.choice([c for c in chunks if c["metadata"]["type"] == "overall"])
-    sample_review = random.choice([c for c in chunks if c["metadata"]["type"] == "review"])
     for label, c in [("OVERALL", sample_overall), ("REVIEW", sample_review)]:
+        if not c:
+            continue
         print(f"===== SAMPLE {label} CHUNK: {c['id']} =====")
         print("--- document (embedded text) ---")
         print(c["document"])

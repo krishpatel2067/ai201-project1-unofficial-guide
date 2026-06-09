@@ -1,10 +1,5 @@
 # Project 1 Planning: The Unofficial Guide
 
-> Write this document before you write any pipeline code.
-> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
-> Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
-> Update this file before starting any stretch features.
-
 ---
 
 ## Domain
@@ -20,18 +15,18 @@ Student reviews of CS professors at the New Jersey Institute of Technology (NJIT
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| #   | Source | Description                   | URL or location                        |
-| --- | ------ | ----------------------------- | -------------------------------------- |
-| 1   | RMP    | Reviews of Bassel Arafeh      | documents/clean/bassel-arafeh.txt      |
-| 2   | RMP    | Reviews of Samaneh Berenjian  | documents/clean/samaneh-berenjian.txt  |
-| 3   | RMP    | Reviews of James Calvin       | documents/clean/james-calvin.txt       |
-| 4   | RMP    | Reviews of Abdul-Rahman Itani | documents/clean/abdul-rahman-itani.txt |
-| 5   | RMP    | Reviews of Martin Kellogg     | documents/clean/martin-kellogg.txt     |
-| 6   | RMP    | Reviews of Kumar Mani         | documents/clean/kumar-mani.txt         |
-| 7   | RMP    | Reviews of Kamlesh Naik       | documents/clean/kamlesh-naik.txt       |
-| 8   | RMP    | Reviews of Marvin Nakayama    | documents/clean/marvin-nakayama.txt    |
-| 9   | RMP    | Reviews of Michael Renda      | documents/clean/michael-renda.txt      |
-| 10  | RMP    | Reviews of Andrew Sohn        | documents/clean/andrew-sohn.txt        |
+| #   | Source | Description                                       | URL or location                          |
+| --- | ------ | ------------------------------------------------- | ---------------------------------------- |
+| 1   | RMP    | Overall ratings and reviews of Bassel Arafeh      | `documents/clean/bassel-arafeh.txt`      |
+| 2   | RMP    | Overall ratings and reviews of Samaneh Berenjian  | `documents/clean/samaneh-berenjian.txt`  |
+| 3   | RMP    | Overall ratings and reviews of James Calvin       | `documents/clean/james-calvin.txt`       |
+| 4   | RMP    | Overall ratings and reviews of Abdul-Rahman Itani | `documents/clean/abdul-rahman-itani`.txt |
+| 5   | RMP    | Overall ratings and reviews of Martin Kellogg     | `documents/clean/martin-kellogg.txt`     |
+| 6   | RMP    | Overall ratings and reviews of Kumar Mani         | `documents/clean/kumar-mani.txt`         |
+| 7   | RMP    | Overall ratings and reviews of Kamlesh Naik       | `documents/clean/kamlesh-naik.txt`       |
+| 8   | RMP    | Overall ratings and reviews of Marvin Nakayama    | `documents/clean/marvin-nakayama.txt`    |
+| 9   | RMP    | Overall ratings and reviews of Michael Renda      | `documents/clean/michael-renda.txt`      |
+| 10  | RMP    | Overall ratings and reviews of Andrew Sohn        | `documents/clean/andrew-sohn.txt`        |
 
 ---
 
@@ -42,7 +37,9 @@ Student reviews of CS professors at the New Jersey Institute of Technology (NJIT
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunking strategy**: Structure-based chunking
+This project will allow users to toggle between structure-based chunking (default) and fixed size chunking.
+
+### Structure-based Chunking
 
 **Chunk size:** Max 1000 characters
 
@@ -53,13 +50,21 @@ Student reviews of CS professors at the New Jersey Institute of Technology (NJIT
 - **Overall Ratings**: RMP overall ratings are strictly structured. For example, each raw overall rating starts with the numeric rating in the first line, contains the professor's full name on Line 4, and ends with a distribution of ratings.
 - **Individual Reviews**: RMP reviews are strictly structured, too. Each review body is max 350 characters long. The additional aspects of the review (e.g. rating, tags, upvotes, downvotes) can vary in character length but are still strict in structure. For example, each full raw review (body and additional aspects) can be separated by a blank line and starts with the line "Quality".
 
-The raw docs were used as examples even though those won't be going into the RAG pipeline themselves. But becasue the raw docs themselves have structure, the cleaned docs derieved from then will also have structure.
+The raw docs were used as examples even though those won't be going into the RAG pipeline themselves. But because the raw docs themselves have structure, the cleaned docs derieved from then will also have structure.
+
+### Fixed Size Chunking
+
+The overall chunk from structured chunking is instead written continuously with the other review chunks in fixed chunking. Also unlike structured chunking, fixed chunking only allows for much metadata to be reliably extracted and stored: namely the source file itself and the professor name.
+
+**Chunk size**: 650 characters (350 max words per review body + review info such as date, upvotes, etc.)
+
+**Overlap**: 75 characters
+
+**Reasoning:** RMP review bodies are capped at 350 characters, giving a stable starting value for chunk size. The metadata (review date, tags, upvotes, etc.) may vary in length, but from eyeballing the docs, they generally don't exceed 300-400 characters. Thus, the final chunk size reflects this: 350 + 300 = 650. The overlap of 75 is chosen to ensure that if a review get cut off, there is a good chance that it is wholly intact in the next chunk.
 
 ---
 
 ## Retrieval Approach
-
-### Semantic Only
 
 <!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
      How many chunks will you retrieve per query (top-k)?
@@ -69,19 +74,13 @@ The raw docs were used as examples even though those won't be going into the RAG
 
 **Embedding model:** `all-MiniLM-L6-v2` via `sentence-transformers`
 
-**Top-k:** 5
+**Top-k:** 10 (cap to 5 after single-file filtering)
 
 **Production tradeoff reflection:**
 
 If this project were deployed for real users and cost wasn't a constraint, I would consider opting for a more advanced model that offers more accurate embeddings especially for domain-specific text (vital for edge-case queries in this CS-professor-oriented RAG) and/or multilingual support (necessary for students whose first language isn't English). An example of an offline model satisfying the latter is `EmbeddingGemma (300M)` that can support 100+ languages. A larger context window wouldn't a big priority for this project because student questions about professors tend to be short and direct. One scenario it could be useful is with conversation history, but even then it is reasonable to assume most students wouldn't end up having long chats with the RAG about the same professor.
 
 I would even consider online embedding models, which may be more capable than offline ones and are not constrained by the user's hardware. However, online models often have a small monetary cost based on token use. Plus, moving from offline to online would introduce latency, perhaps slowing down the end-to-end operation. This tradeoff would be acceptable for a better, user-hardware-agnostic model, but it should be offered alongside local models as an option, depending on the user's preferences and needs.
-
-### Hybrid: Semantic + BM25 Keyword-Matching
-
-**Library**: `rank-bm25`
-
-**Ranking**: Reciprocal Rank Fusion (fuses semantic ranks and BM25 ranks into new ranking)
 
 ---
 
@@ -110,7 +109,7 @@ I would even consider online embedding models, which may be more capable than of
 
 1. The docs may contain roughly an equal number of conflicting reviews and sentiments, throwing the retriever off and leading to a cherry-picked answer. Reviews can vary a lot depending on which student wrote it (e.g. a failed student would tend to exaggerate a professor's negative qualities). A more well-tuned RAG pipeline would handle and express an even split of opinions in the final response, offering nuance necessary to ensure accuracy and reliability.
 
-2. The reviews may include inconsistences in spelling, grammer, punctuation, wording, etc. For instance, the strict 350-character limit may cause students to abbreviate certain words, perhaps creating separate embeddings for abbreviations and full forms. A spelling mistake could render an entire review un-retrievable against a properly spelled user query. An advanced RAG pipeline could use an LLM in the cleaning process to conservatively normalize such inconsistences.
+2. The reviews may include inconsistences in spelling, grammar, punctuation, wording, etc. For instance, the strict 350-character limit may cause students to abbreviate certain words, perhaps creating separate embeddings for abbreviations and full forms. A spelling mistake could render an entire review un-retrievable against a properly spelled user query. An advanced RAG pipeline could use an LLM in the cleaning process to conservatively normalize such inconsistences.
 
 ---
 
@@ -123,13 +122,13 @@ I would even consider online embedding models, which may be more capable than of
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
 ```
-      Document Ingestion         (vanilla Python)
+      Document Ingestion         (clean raw docs; vanilla Python)
              V
-          Chunking               (structure-based; vanilla Python)
+          Chunking               (structure-based or fixed size; store metadata; vanilla Python)
              V
    Embedding + Vector Store      (all-MiniLM-L6-v2 via sentence transform + ChromaDB; both offline)
              V
-         Retrieval               (top-10, filter to single-file - keep max 5; vanilla Python)
+         Retrieval               (semantic-only or hybrid; top-10, filter to single-file - keep max 5; vanilla Python)
              V
         Generation               (Groq: llama-3.3-70b-versatile; API-based)
 ```

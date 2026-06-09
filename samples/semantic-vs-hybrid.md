@@ -170,7 +170,7 @@ Professor Berenjian uses the Kurose textbook in her CS656 course, as the course 
 
 ### Conclusion
 
-**Hybrid** worked slightly better. The results were similar in generation, but during retireval, hybrid surfaced more `samaneh-berenjian.txt` reviews than semantic-only.
+**Hybrid** worked slightly better. The results were similar in generation, but during retireval, hybrid surfaced more `samaneh-berenjian.txt` reviews than semantic-only. For both, most if not all of the chunks are from `samaneh-berenjian.txt`, matching the query's intended professor. Furthermore, both surface chunks that mention Kurose's textbook.
 
 ## 2
 
@@ -488,7 +488,7 @@ Professor Nakayama's class requires a significant amount of memorization of long
 
 ### Conclusion
 
-**Hybrid** won by a bit. It retrieved one more chunk that mentioned proofs than semantic-only did, causing the LLM to generate a more certain answer about students finding proof memorization a key component of the class.
+**Hybrid** won by a bit. It retrieved one more chunk that mentioned proofs than semantic-only did, causing the LLM to generate a more certain answer about students finding proof memorization a key component of the class. The retrieved chunks are partially relevant because most if not a vast majorty of them are from the intended `marvin-nakayama.txt` doc, and at least one of the docs mentions memorization and/or proofs.
 
 ## 4
 
@@ -636,7 +636,7 @@ Professors who offer extra credit include the one teaching CS356 and CS656, as b
 
 ### Conclusion
 
-**Hybrid** clearly won. It surfaced two chunks with the tag "Extra credit" in them to the LLM whereas semantic-only surfaced none (one was retrieved but didn't make the single-file cut).
+**Hybrid** clearly won. It surfaced two chunks with the tag "Extra credit" in them to the LLM whereas semantic-only surfaced none (one was retrieved but didn't make the single-file cut). The retrieved chunks are somewhat relevant because in both cases 1-2 chunks containing "extra credit" were retrieved.
 
 ## 5
 
@@ -780,4 +780,4 @@ The workload for Professor Calvin's class can be considered heavy, with many sou
 
 ### Conclusion
 
-There is **no** clear winner. Both surfaced some of the same reviews (`7`, `27`, `28`, and `30`) to the LLM, and the generation was equally naunced in both cases, mentioning that some students found the workload necessary for learning.
+There is **no** clear winner. Both surfaced some of the same reviews (`7`, `27`, `28`, and `30`) to the LLM, and the generation was equally naunced in both cases, mentioning that some students found the workload necessary for learning. The retrieved chunks are relevant for both search algorithms because at least half of them are from `james-calvin.txt` (matching the professor named in the query), and of those, multiple mention either workload or difficulty.
