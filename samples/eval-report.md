@@ -17,6 +17,10 @@ Does professor Berenjian offer extra credit?
 
 ### Retrieval
 
+<details>
+
+<summary>View</summary>
+
 ```
 Retrieved 10 chunks. Answer drawn from samaneh-berenjian.txt (5 chunk(s) sent to the LLM). ✅ = sent to the LLM · 📄 = same professor, over the 5-chunk cap.
 
@@ -80,6 +84,8 @@ Dr. Professor Arafeh is one of the brightest people in his field across the USA.
 Tags: Respected, Inspirational, Amazing lectures
 ```
 
+</details>
+
 ### Generation
 
 ```
@@ -95,6 +101,10 @@ Are Professor Kellogg's classes difficult?
 ```
 
 ### Retrieval
+
+<details>
+
+<summary>View</summary>
 
 ```
 Retrieved 10 chunks. Answer drawn from martin-kellogg.txt (2 chunk(s) sent to the LLM). ✅ = sent to the LLM · 📄 = same professor, over the 5-chunk cap.
@@ -162,6 +172,8 @@ In my 5 years at this school, I don't think I have ever seen a more stuck up pro
 Tags: Tough grader, Group projects, Lots of homework
 ```
 
+</details>
+
 ### Generation
 
 ```
@@ -177,6 +189,10 @@ Is it a good idea to skip Professor Naik's classes?
 ```
 
 ### Retrieval
+
+<details>
+
+<summary>View</summary>
 
 ```
 Retrieved 10 chunks. Answer drawn from kamlesh-naik.txt (5 chunk(s) sent to the LLM). ✅ = sent to the LLM · 📄 = same professor, over the 5-chunk cap.
@@ -241,6 +257,8 @@ Course: CS332
 I looked forward to coming to this class every single time! Kamlesh is very personable and takes the time to know everybody's name. Since he knows everybody's name, don't think of skipping class. I'm not sure why you would want to skip his amazing class anyway. Extremely funny and entertaining guy! Course is very hands-on and you'll love it
 ```
 
+</details>
+
 ### Generation
 
 ```
@@ -251,22 +269,86 @@ It's not a good idea to skip Professor Naik's classes, as multiple students have
 
 ### Query
 
-TODO
-
 ```
-
+Does Professor Bassel give good lectures?
 ```
 
 ### Retrieval
 
-```
+<details>
+
+<summary>View</summary>
 
 ```
+Retrieved 10 chunks. Answer drawn from bassel-arafeh.txt (5 chunk(s) sent to the LLM). ✅ = sent to the LLM · 📄 = same professor, over the 5-chunk cap.
+
+#1 · distance 0.2232 · source bassel-arafeh.txt · review · id bassel-arafeh-review-81 ✅ used
+
+
+Course: CS280
+No one understands bassel. He really is a good person and a good lecturer, all the haters are just bandwagoning. He's one of the best professors I've ever been blessed with taking, and I believe if you take him, you're life will change for the better. His way with words just touches my soul, it's like the voice of God speaking directly to me.
+Tags: Amazing lectures, Inspirational, Accessible outside class
+#2 · distance 0.2855 · source bassel-arafeh.txt · review · id bassel-arafeh-review-16 ✅ used
+
+
+Course: CS280
+Throughout my life I have never had or even heard of such a miserable professor. Bassel is clearly not passionate about what he's teaching and when I say he just reads off the slides I truly mean it. Many people say a professor "reads off the slides" but what they really mean is "I found them boring" Bassel really just reads the slides to you
+Tags: Lecture heavy
+#3 · distance 0.2895 · source bassel-arafeh.txt · review · id bassel-arafeh-review-72 ✅ used
+
+
+Course: CS280
+Professor Bassel Arafeh is an amazing educator and communicator. He has a true passion for teaching and a talent for explaining complex concepts in a way that is easy to understand. His dedication to his students is remarkable, and he always goes above and beyond to ensure that they have the knowledge and skills they need to succeed.
+Tags: Amazing lectures, Inspirational, Caring
+#4 · distance 0.3053 · source bassel-arafeh.txt · review · id bassel-arafeh-review-13 ✅ used
+
+
+Course: CS280
+Professor Bassel is an extremely disappointing professor. He reads off of slides and gives incredibly monotone and unhelpful lectures. Class time does not feel fulfilling whatsoever, so not attending class would change nothing. PAs can be long, and you will need to study greatly on your own to do well in the class.
+Tags: Get ready to read, Lots of homework
+#5 · distance 0.3055 · source bassel-arafeh.txt · review · id bassel-arafeh-review-4 ✅ used
+
+
+Course: CS280
+Professor Bassel is not a rude person however he may come off that way. He is not the best professor/lecturer and most people dont show up to class. For the midterm and final, if you read the slides you should easily be able to pull off a 60% or higher. His PA's are long and time consuming. Some RA's take a lot of time as well. The class was okay.
+Tags: Clear grading criteria, Lecture heavy, Graded by few things
+#6 · distance 0.3466 · source bassel-arafeh.txt · review · id bassel-arafeh-review-42 📄 same file
+
+
+Course: CS280
+Lectures are not very helpful, Bassel just reads really slowly off of the slides. The course overall though is very easy content wise and easy to self study off of the slides posted on Canvas, just stay on top of the three PA assignments.
+#7 · distance 0.3955 · source bassel-arafeh.txt · review · id bassel-arafeh-review-89 📄 same file
+
+
+Course: CS280
+Cs280 with bassel is pretty easy, although the most "learning" I did was just by studying for his exams. No quizzes and his projects are difficult, but just have a study group and collaborate on projects in advance and ur fine. The exams are straight off the slides so just review the slides a lot! I had to basically memorize the slides to get an A.
+Tags: Lecture heavy
+#8 · distance 0.3989 · source bassel-arafeh.txt · review · id bassel-arafeh-review-75 📄 same file
+
+
+Course: CS280
+Professor Bassel is a godsend from the computer science gods. You will do doubt gain some of his godly power and become a master of c++ and programming language principles.
+Tags: Amazing lectures, Inspirational, Caring
+#9 · distance 0.4074 · source kamlesh-naik.txt · review · id kamlesh-naik-review-71
+
+
+Course: CS630
+Prof. Kamlesh's lectures are super interesting. He keeps the class atmosphere lively and has the best character. He has an outstanding control over class and is easily accessible and prompt during his lectures. Also, he has tremendous respect towards the potential of his students. I'd love to take his class once again.
+Tags: Respected, Inspirational, Amazing lectures
+#10 · distance 0.4113 · source kamlesh-naik.txt · review · id kamlesh-naik-review-56
+
+
+Course: CS332
+I'm disgusted by some of the reviews here. Professor Kamlesh was one of the best professors I've had in this college when it comes to giving amazing lectures. He's extremely clear about grading and when the quizzes will be. You're taught what will be on the quizzes the week prior. You'll pass from simply understanding the HW and paying attention.
+Tags: Amazing lectures, Clear grading criteria, Hilarious
+```
+
+</details>
 
 ### Generation
 
 ```
-
+Opinions about Professor Bassel's lectures vary, with some students finding him to be an amazing educator and communicator who explains complex concepts in a way that is easy to understand, while others feel that he simply reads off the slides and gives unhelpful lectures. Some students have even reported that class time does not feel fulfilling and that they had to study greatly on their own to do well in the class. [bassel-arafeh.txt]
 ```
 
 ## 5
@@ -274,17 +356,84 @@ TODO
 ### Query
 
 ```
-Does professor Berenjian offer extra credit?
+Which professors offer extra credit?
 ```
 
 ### Retrieval
 
-```
+<details>
+
+<summary>View</summary>
 
 ```
+Retrieved 10 chunks. Answer drawn from abdul-rahman-itani.txt (3 chunk(s) sent to the LLM). ✅ = sent to the LLM · 📄 = same professor, over the 5-chunk cap.
+
+#1 · distance 0.5212 · source abdul-rahman-itani.txt · review · id abdul-rahman-itani-review-113 ✅ used
+
+
+Course: CS288
+This professor doesn't believe in partial credit, his job is to fail you (described by his TAs). On top of that, he is very degrading while talking in his lectures, completely demotivating you of ever getting a good grade in his difficult class. 100% would not recommend, do not listen to anyone giving him a 5 star rating. I repeat, STAY AWAY!!
+Tags: Lots of homework, Lecture heavy, Tough grader
+#2 · distance 0.5353 · source abdul-rahman-itani.txt · review · id abdul-rahman-itani-review-16 ✅ used
+
+
+Course: CS350
+Dr. Itani is one of the best professors at this university. He knows the topics deeply, cares about his students, and wants them to pass and learn. Enough said.
+Tags: Get ready to read, Caring, Respected
+#3 · distance 0.5405 · source kamlesh-naik.txt · review · id kamlesh-naik-review-73
+
+
+Course: CS630
+He's one of the best Professors I've ever met in my entire life. Prof. Kamlesh is extremely dedicated to his work and keeps his class interesting. His immense knowledge, active communication and easily approachable personality makes learning fun. He's very handsome and friendly. Also, I'd definitely take his class once again.
+Tags: Accessible outside class, Amazing lectures, Caring
+#4 · distance 0.5418 · source kamlesh-naik.txt · review · id kamlesh-naik-review-50
+
+
+Course: CS332
+He's one of the best professors ever had in my life, his teaching skills are so exceptional, better teaching skills than the CS head of the department.
+Tags: Tough grader, Amazing lectures, Caring
+#5 · distance 0.5574 · source samaneh-berenjian.txt · review · id samaneh-berenjian-review-30
+
+
+Course: CS356
+Great Professor! She has deep knowledge about the course!
+Tags: Tough grader, Extra credit, Clear grading criteria
+#6 · distance 0.5589 · source bassel-arafeh.txt · review · id bassel-arafeh-review-50
+
+
+Course: CS280
+legit the greatest professor in all of NJIT, possibly even the whole United States. Actually probably the whole world. perhaps even the entire galaxy. Mans is the Thanos of the professional teaching world
+Tags: Hilarious, Respected, Online savvy
+#7 · distance 0.5590 · source abdul-rahman-itani.txt · review · id abdul-rahman-itani-review-62 ✅ used
+
+
+Course: CS288
+If you want the most out of the money you're paying for these courses, take Itani. Not only will you learn a lot more in his classes compared to other professors, but you will develop skills and projects that can be presented to employers.
+Tags: Get ready to read, Amazing lectures, Lots of homework
+#8 · distance 0.5608 · source bassel-arafeh.txt · review · id bassel-arafeh-review-64
+
+
+Course: CS280
+good professor
+Tags: Amazing lectures, Hilarious, Online savvy
+#9 · distance 0.5628 · source kamlesh-naik.txt · review · id kamlesh-naik-review-18
+
+
+Course: CS332
+Overall one of my favorite professors at NJIT. He does a great job at teaching the material, the only downside is that he doesn't post any of the material on canvas which makes it difficult to catch up if you miss a lecture.
+Tags: Tough grader, Amazing lectures, Hilarious
+#10 · distance 0.5634 · source kamlesh-naik.txt · review · id kamlesh-naik-review-15
+
+
+Course: CS332
+By far the best professor at NJIT. He is very funny, caring and is always willing to help his students. He is a loving man and makes all concepts super easy to understand. If you have the option to take his class, take him you will be glad you did.
+Tags: Hilarious, Lecture heavy, Graded by few things
+```
+
+</details>
 
 ### Generation
 
 ```
-
+I can't find the answer to that question.
 ```
