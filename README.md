@@ -1,6 +1,6 @@
 # The Unofficial Guide — Project 1
 
-_CodePath AI201: Applications of AI Engineering_
+_CodePath AI201: Applications of AI Engineering (Summer 2026)_
 
 ---
 
@@ -17,7 +17,7 @@ Student reviews of CS professors at the New Jersey Institute of Technology (NJIT
 
 ## Demo
 
-[TODO]
+[**Watch on YouTube**](https://youtu.be/HqBS2YUJh88?si=qgv9kqKQZscQzwwO)
 
 ---
 
@@ -192,15 +192,13 @@ where `k` is a constant chosen to be 60 in this project, which is a typical valu
 
 **System prompt grounding instruction:**
 
-```
-You are a Q/A assistant answering college students' questions about CS professors at the New Jersey Institute of Technology. You will be given a user query along with a few chunks of text as sources. Decide which chunk(s) is/are the most relevant to the user query and generate a concise response (1-3 sentences) using only the chunks provided. If the relevant chunks from one file disagree (e.g. some students found a professor easy and others hard), reflect that disagreement rather than presenting only one side.
-
-Do NOT use information outside of the provided chunks. Do NOT use any prior knowledge about these professors. If the answer to the user's query doesn't appear in the provided chunks, do NOT guess or fill in the gaps. Instead, reply with exactly "I can't find the answer to that question." and do NOT include any citation or source when you give that response.
-
-If you are able to answer the user query, you must cite exactly one source using the name of the file that your chosen chunks come from. Each chunk is labeled with the source file it came from. Use that file name for the citation. Each citation must follow the format "[file-name.extension]" (e.g. "[james-calvin.txt]") and must be placed all the way at the end of your response. However, if you cannot find the answer, do NOT include a citation at all.
-
-"Tags:" are short labels attached to a review (e.g. "Lecture heavy"). They are NOT part of the actual review body.
-```
+> You are a Q/A assistant answering college students' questions about CS professors at the New Jersey Institute of Technology. You will be given a user query along with a few chunks of text as sources. Decide which chunk(s) is/are the most relevant to the user query and generate a concise response (1-3 sentences) using only the chunks provided. If the relevant chunks from one file disagree (e.g. some students found a professor easy and others hard), reflect that disagreement rather than presenting only one side.
+>
+> Do NOT use information outside of the provided chunks. Do NOT use any prior knowledge about these professors. If the answer to the user's query doesn't appear in the provided chunks, do NOT guess or fill in the gaps. Instead, reply with exactly "I can't find the answer to that question." and do NOT include any citation or source when you give that response.
+>
+> If you are able to answer the user query, you must cite exactly one source using the name of the file that your chosen chunks come from. Each chunk is labeled with the source file it came from. Use that file name for the citation. Each citation must follow the format "[file-name.extension]" (e.g. "[james-calvin.txt]") and must be placed all the way at the end of your response. However, if you cannot find the answer, do NOT include a citation at all.
+>
+> "Tags:" are short labels attached to a review (e.g. "Lecture heavy"). They are NOT part of the actual review body.
 
 The system prompt starts by providing the LLM an overview and what its job is. The prompt then enforces grounding by using strong negative imperatives (e.g. "Do NOT...") with some followed by the correct course of action ("Instead, reply with...").
 
@@ -458,6 +456,4 @@ Spec docs:
 - Retrieval based on aggreagate stats is naturally weak with semantic (and even hybrid) search. This is because numbers have little meaning for these models. Thus, such queries would have to be classified separately (e.g. "Which professor has overall ratings between 3.0 and 4.0?") and routed to a structured lookup mechanism.
 - Fake reviews are inevitable in an uncurated corpus. One such set of fake reviews (perhaps created humorously or mockingly) include those in `bassel-arafeh.txt`, which share most of the following:
 
-```
-Dr. Professor Arafeh is one of the brightest people in his field across the USA. His tireless work educating students has been praised by the majority of students I have spoken to. His cutting-edge curriculum has received numerous awards from some of our countries finest institutions, which is why I was able to achieve a(n) [grade] in this course easily.
-```
+> Dr. Professor Arafeh is one of the brightest people in his field across the USA. His tireless work educating students has been praised by the majority of students I have spoken to. His cutting-edge curriculum has received numerous awards from some of our countries finest institutions, which is why I was able to achieve a(n) [grade] in this course easily.
