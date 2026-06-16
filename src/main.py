@@ -148,6 +148,8 @@ def build_app() -> gr.Blocks:
     with gr.Blocks(title="The Unofficial Guide") as app:
         gr.Markdown(
             "# The Unofficial Guide\n"
+            "_Krish A. Patel_\n\n"
+            "_CodePath AI201: Applications of Engineering Project 1 (Summer 2026)_\n\n"
             "Ask about an NJIT CS professor. Answers are grounded only in Rate My "
             "Professors reviews and cite their source file."
         )
