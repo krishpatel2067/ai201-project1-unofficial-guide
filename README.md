@@ -1,8 +1,8 @@
-# The Unofficial Guide — Project 1
+# The Unofficial Guide
 
 _Krish A. Patel_
 
-_CodePath AI201: Applications of AI Engineering (Summer 2026)_
+_CodePath AI201: Applications of AI Engineering Project 1 (Summer 2026)_
 
 ---
 
